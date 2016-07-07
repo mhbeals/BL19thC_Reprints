@@ -13,13 +13,31 @@ Each line represents two pages from the collection that contain a substantial am
   b. Removing file extensions (.txt)   
   c. Replacing full stops (.) and underscores (_) with tab characters  
 
+#### Formatted Matching Reports
+
+The Formatted Matching Reports directory contain manifests of reprints from the British Library's 19th Century Newspapers Collection, reformatted for use in the Reprint Mapper. Each manifest contains a list of matches from a single year formatted into the following columns:
+
+1. Perfect Match
+2. Left Match
+3. Right Match
+4. Target Year
+5. Target Month
+6. Target Day
+7. Target Title
+8. Target Filename (yyyy.MM.dd_Title_Page)
+9. Source Year
+10. Source Month
+11. Source Day
+12. Source Title
+13. Source Filename (yyyy.MM.dd_Title_Page)
+
 #### Directed Links
 
 The Directed Links directory contains manifests of direct reprinting relationships within the British Library's 19th Century Newspapers Collection. Each manifest contains a list of matches from a single year. The year relates the *source* or *earlier* text; the *target* or *later* text will be within 200 days. Manual testing suggested that matches more than 200 days apart were almost consistently always false positives, miscellany or advertising material. As the aim of this project is to identify reprinted news or time-sensitive material matches over 200 days have not been included. Testing also suggests that, with rare excepting, matches within the same periodical was consistently a false positive or advertising material. Therefore, matches from within the same periodical have not been included. Finally, as the titles tested do not consistently represent morning or evening editions, matches which have the same date of publication have not been included. Other "impossible" date combinations (such as reprinting in London and Aberdeen one day apart) have **not** been excluded at this stage.
 
 Each line represents two pages from the collection that likely have a direct ancestor-descendent relationship. Although intermediary like occur, both likely exist on the same branch of the evolutionary tree. Matches were identified using the Reprint Mapper, using the following steps.
 
-Raw Match Reports from Copyfind (before step 3) were inputted into the Reprint Mapper, which filtered out any matches that were
+Formatted Matching Reports were inputted into the Reprint Mapper, which filtered out any matches that were
 
 1. In the same title
 2. Published on the same day

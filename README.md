@@ -50,3 +50,7 @@ It then filtered out any match in which neither
 3. The Right Match was at least 90 Characters
 
 This reduced the likelihood of false positives based on small matches, but was more precise than the original Copyfind options allowed. Then, for each *target*, the Mapper found the *source* with the highest Perfect Match. If more than one source had the same Perfect Match score, the earliest source was chosen. The Mapper then printed a manifest, linking a source to each target; it did not necessarily match a target to each source; sources without targets represent evolutionary dead ends.
+
+#### Provisos
+
+The Reprint Mapper can only find the best match *within* the corpus. If two descedents of a source are present, but not their common ancestor, it will link the later to the earlier version, even if these actually represent two different branches. This false positive must be excluded manually by any historian using the Directed Links manifest, using contextual knowledge.

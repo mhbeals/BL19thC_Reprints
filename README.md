@@ -37,7 +37,7 @@ The Directed Links directory contains manifests of direct reprinting relationshi
 
 Each line represents two pages from the collection that likely have a direct ancestor-descendent relationship. Although intermediary like occur, both likely exist on the same branch of the evolutionary tree. Matches were identified using the Reprint Mapper, using the following steps.
 
-Formatted Matching Reports were inputted into the Reprint Mapper, which filtered out any matches that were
+Formatted Matching Reports were inputted into the [Reprint Mapper](https://github.com/mhbeals/ReprintMapper/), which filtered out any matches that were
 
 1. In the same title
 2. Published on the same day

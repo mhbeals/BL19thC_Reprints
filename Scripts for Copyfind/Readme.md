@@ -13,6 +13,6 @@ The one-month sets differ from the original five-year sets in the following rega
 * The 'originals' being examined are restricted to a single month
 * The possible reprints are from the succeeding eight months, continuing into the following year where appropriate
 
-This results in a **smaller* number number of (raw matches)[https://github.com/mhbeals/BL19thC_Reprints/tree/master/Raw%20Matching%20Reports]. However, as eight months is greater than the 200 days prescribed by the (Reprint Mapper)[https://github.com/mhbeals/ReprintMapper], the resulting (formatted matches)[https://github.com/mhbeals/BL19thC_Reprints/tree/master/Formatted%20Matching%20Reports] will be the same.
+This results in a **smaller* number number of [raw matches](https://github.com/mhbeals/BL19thC_Reprints/tree/master/Raw%20Matching%20Reports). However, as eight months is greater than the 200 days prescribed by the [Reprint Mapper](https://github.com/mhbeals/ReprintMapper), the resulting [formatted matches](https://github.com/mhbeals/BL19thC_Reprints/tree/master/Formatted%20Matching%20Reports) will be the same.
 
 These sets were made using the python script copyfindscriptcreator.py

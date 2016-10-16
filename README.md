@@ -8,10 +8,7 @@ Each line represents two pages from the collection that contain a substantial am
 
 1. Transform original page-level XML data from British Library into plaintext files using BL_TEXT.xsl
 2. Run plaintext files through Copyfind in overlapping five-year sets using custom script files
-3. Transform manifest files created by Copyfind to clean Tab-Separated Value (.tsv) files by   
-  a. Removing file paths   
-  b. Removing file extensions (.txt)   
-  c. Replacing full stops (.) and underscores (_) with tab characters  
+3. Rename manifest files created by Copyfind to date titled Tab-Separated Value (.tsv) files
 
 #### Formatted Matching Reports
 

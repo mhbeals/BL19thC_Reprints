@@ -248,6 +248,7 @@ while year < end_year:
         
         # Write script file
         filename = "script_" + str(year) + "_" + str(month1[-2:]) + ".txt"
+        filename.encode('cp1252')
         text_file = open(filename, "w")
         text_file.write(string)
         text_file.close()

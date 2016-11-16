@@ -21,12 +21,12 @@ The Formatted Matching Reports directory contain manifests of reprints from the 
 5. Target Month
 6. Target Day
 7. Target Title
-8. Target Filename (yyyy.MM.dd_Title_Page)
+8. Target Filename (yyyy_MM_dd_Title_Page)
 9. Source Year
 10. Source Month
 11. Source Day
 12. Source Title
-13. Source Filename (yyyy.MM.dd_Title_Page)
+13. Source Filename (yyyy_MM_dd_Title_Page)
 
 #### Directed Links
 

@@ -12,7 +12,7 @@ Each line represents two pages from the collection that contain a substantial am
 
 #### Formatted Matching Reports
 
-The Formatted Matching Reports directory contain manifests of reprints from the British Library's 19th Century Newspapers Collection, reformatted for use in the Reprint Mapper. Each manifest contains a list of matches from a single year formatted into the following columns:
+The Formatted Matching Reports directory contain manifests of reprints from the British Library's 19th Century Newspapers Collection, reformatted for use in the Reprint Mapper. The python script to reformat the manifest is available [here](https://github.com/mhbeals/BL19thC_Reprints/blob/master/Raw%20Matching%20Reports/copyfindtoreprintmapperregex.py). Each manifest contains a list of matches from a single year formatted into the following columns:
 
 1. Perfect Match
 2. Left Match
@@ -21,12 +21,12 @@ The Formatted Matching Reports directory contain manifests of reprints from the 
 5. Target Month
 6. Target Day
 7. Target Title
-8. Target Filename (yyyy.MM.dd_Title_Page)
+8. Target Filename (yyyy_MM_dd_Title_Page)
 9. Source Year
 10. Source Month
 11. Source Day
 12. Source Title
-13. Source Filename (yyyy.MM.dd_Title_Page)
+13. Source Filename (yyyy_MM_dd_Title_Page)
 
 #### Directed Links
 

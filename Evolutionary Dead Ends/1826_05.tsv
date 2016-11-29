@@ -1,14 +1,15 @@
-1826.05.01_CaledonianMercury_0003,
-1826.05.01_TheMorningChronicle_0003,
-1826.05.01_CaledonianMercury_0002,
-1826.05.03_TheDerbyMercury_0001,
-1826.05.01_TheBristolMercury_0002,
-1826.05.03_TheMorningChronicle_0004,
-1826.05.04_CaledonianMercury_0003,
-1826.05.03_TheAberdeenJournal_0003,
-1826.05.01_GlasgowHerald_0002,
-1826.05.05_LiverpoolMercuryetc_0002,
-1826.05.01_TheMorningChronicle_0002,
-1826.05.06_TheMorningChronicle_0004,
-1826.05.05_LiverpoolMercuryetc_0007,
-1826.05.02_TheMorningChronicle_0001,
+YEAR	MONTH	DAY	TITLE	PAGE
+1826	05	01	CaledonianMercury	0003
+1826	05	01	TheMorningChronicle	0003
+1826	05	01	CaledonianMercury	0002
+1826	05	03	TheDerbyMercury	0001
+1826	05	01	TheBristolMercury	0002
+1826	05	03	TheMorningChronicle	0004
+1826	05	04	CaledonianMercury	0003
+1826	05	03	TheAberdeenJournal	0003
+1826	05	01	GlasgowHerald	0002
+1826	05	05	LiverpoolMercuryetc	0002
+1826	05	01	TheMorningChronicle	0002
+1826	05	06	TheMorningChronicle	0004
+1826	05	05	LiverpoolMercuryetc	0007
+1826	05	02	TheMorningChronicle	0001

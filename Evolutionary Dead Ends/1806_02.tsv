@@ -1,48 +1,49 @@
-1806.02.01_TheIpswichJournal_0002,
-1806.02.01_TheMorningChronicle_0001,
-1806.02.01_Jackson'sOxfordJournal_0004,
-1806.02.01_TheNewcastleCourantetc_0002,
-1806.02.01_TheNewcastleCourantetc_0004,
-1806.02.01_TheMorningChronicle_0002,
-1806.02.03_TheMorningChronicle_0003,
-1806.02.03_HampshireTelegraphandSussexChronicleetc_0003,
-1806.02.01_CaledonianMercury_0002,
-1806.02.06_TheDerbyMercury_0003,
-1806.02.05_TheMorningChronicle_0003,
-1806.02.06_TheDerbyMercury_0002,
-1806.02.07_TheMorningChronicle_0003,
-1806.02.08_TheIpswichJournal_0002,
-1806.02.08_CaledonianMercury_0002,
-1806.02.10_CaledonianMercury_0004,
-1806.02.04_TheMorningChronicle_0003,
-1806.02.08_CaledonianMercury_0003,
-1806.02.08_TheMorningChronicle_0002,
-1806.02.11_TheMorningChronicle_0002,
-1806.02.11_TheMorningChronicle_0003,
-1806.02.13_CaledonianMercury_0003,
-1806.02.13_TheDerbyMercury_0002,
-1806.02.13_Trewman'sExeterFlyingPost_0001,
-1806.02.15_Cobbett'sWeeklyPoliticalRegister_0016,
-1806.02.17_CaledonianMercury_0003,
-1806.02.06_TheDerbyMercury_0004,
-1806.02.17_HampshireTelegraphandSussexChronicleetc_0001,
-1806.02.19_TheMorningChronicle_0002,
-1806.02.01_TheMorningChronicle_0003,
-1806.02.20_CaledonianMercury_0002,
-1806.02.20_Trewman'sExeterFlyingPost_0004,
-1806.02.20_TheMorningChronicle_0003,
-1806.02.20_TheMorningChronicle_0002,
-1806.02.20_CaledonianMercury_0003,
-1806.02.22_CaledonianMercury_0001,
-1806.02.22_TheNewcastleCourantetc_0004,
-1806.02.22_CaledonianMercury_0004,
-1806.02.26_TheMorningChronicle_0003,
-1806.02.27_CaledonianMercury_0002,
-1806.02.27_Trewman'sExeterFlyingPost_0002,
-1806.02.24_HampshireTelegraphandSussexChronicleetc_0005,
-1806.02.27_CaledonianMercury_0001,
-1806.02.01_TheIpswichJournal_0004,
-1806.02.03_CaledonianMercury_0004,
-1806.02.27_Trewman'sExeterFlyingPost_0003,
-1806.02.15_CaledonianMercury_0004,
-1806.02.08_TheIpswichJournal_0004,
+YEAR	MONTH	DAY	TITLE	PAGE
+1806	02	01	TheIpswichJournal	0002
+1806	02	01	TheMorningChronicle	0001
+1806	02	01	Jackson'sOxfordJournal	0004
+1806	02	01	TheNewcastleCourantetc	0002
+1806	02	01	TheNewcastleCourantetc	0004
+1806	02	01	TheMorningChronicle	0002
+1806	02	03	TheMorningChronicle	0003
+1806	02	03	HampshireTelegraphandSussexChronicleetc	0003
+1806	02	01	CaledonianMercury	0002
+1806	02	06	TheDerbyMercury	0003
+1806	02	05	TheMorningChronicle	0003
+1806	02	06	TheDerbyMercury	0002
+1806	02	07	TheMorningChronicle	0003
+1806	02	08	TheIpswichJournal	0002
+1806	02	08	CaledonianMercury	0002
+1806	02	10	CaledonianMercury	0004
+1806	02	04	TheMorningChronicle	0003
+1806	02	08	CaledonianMercury	0003
+1806	02	08	TheMorningChronicle	0002
+1806	02	11	TheMorningChronicle	0002
+1806	02	11	TheMorningChronicle	0003
+1806	02	13	CaledonianMercury	0003
+1806	02	13	TheDerbyMercury	0002
+1806	02	13	Trewman'sExeterFlyingPost	0001
+1806	02	15	Cobbett'sWeeklyPoliticalRegister	0016
+1806	02	17	CaledonianMercury	0003
+1806	02	06	TheDerbyMercury	0004
+1806	02	17	HampshireTelegraphandSussexChronicleetc	0001
+1806	02	19	TheMorningChronicle	0002
+1806	02	01	TheMorningChronicle	0003
+1806	02	20	CaledonianMercury	0002
+1806	02	20	Trewman'sExeterFlyingPost	0004
+1806	02	20	TheMorningChronicle	0003
+1806	02	20	TheMorningChronicle	0002
+1806	02	20	CaledonianMercury	0003
+1806	02	22	CaledonianMercury	0001
+1806	02	22	TheNewcastleCourantetc	0004
+1806	02	22	CaledonianMercury	0004
+1806	02	26	TheMorningChronicle	0003
+1806	02	27	CaledonianMercury	0002
+1806	02	27	Trewman'sExeterFlyingPost	0002
+1806	02	24	HampshireTelegraphandSussexChronicleetc	0005
+1806	02	27	CaledonianMercury	0001
+1806	02	01	TheIpswichJournal	0004
+1806	02	03	CaledonianMercury	0004
+1806	02	27	Trewman'sExeterFlyingPost	0003
+1806	02	15	CaledonianMercury	0004
+1806	02	08	TheIpswichJournal	0004

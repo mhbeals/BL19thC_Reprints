@@ -1,47 +1,48 @@
-1816.07.01_CaledonianMercury_0004,
-1816.07.01_TheMorningChronicle_0003,
-1816.07.04_CaledonianMercury_0002,
-1816.07.03_TheMorningChronicle_0002,
-1816.07.04_TheMorningChronicle_0002,
-1816.07.05_TheMorningChronicle_0002,
-1816.07.06_TheMorningChronicle_0002,
-1816.07.05_TheMorningChronicle_0003,
-1816.07.06_Jackson'sOxfordJournal_0001,
-1816.07.07_TheExaminer_0007,
-1816.07.09_TheMorningChronicle_0003,
-1816.07.11_TheMorningChronicle_0002,
-1816.07.12_TheMorningChronicle_0002,
-1816.07.10_TheAberdeenJournal_0001,
-1816.07.16_TheMorningChronicle_0002,
-1816.07.13_CaledonianMercury_0004,
-1816.07.17_TheMorningChronicle_0002,
-1816.07.18_TheMorningChronicle_0002,
-1816.07.20_Jackson'sOxfordJournal_0004,
-1816.07.20_TheMorningChronicle_0002,
-1816.07.18_TheMorningChronicle_0003,
-1816.07.13_TheMorningChronicle_0003,
-1816.07.15_TheMorningChronicle_0003,
-1816.07.23_TheMorningChronicle_0002,
-1816.07.20_Jackson'sOxfordJournal_0001,
-1816.07.23_TheMorningChronicle_0003,
-1816.07.24_TheMorningChronicle_0002,
-1816.07.21_TheExaminer_0007,
-1816.07.24_TheMorningChronicle_0003,
-1816.07.25_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,
-1816.07.25_TheMorningChronicle_0003,
-1816.07.26_TheMorningChronicle_0002,
-1816.07.26_TheMorningChronicle_0003,
-1816.07.27_Jackson'sOxfordJournal_0001,
-1816.07.27_TheMorningChronicle_0002,
-1816.07.27_TheMorningChronicle_0003,
-1816.07.31_TheMorningChronicle_0002,
-1816.07.31_TheMorningChronicle_0003,
-1816.07.27_TheMorningChronicle_0004,
-1816.07.30_TheMorningChronicle_0002,
-1816.07.18_CaledonianMercury_0003,
-1816.07.29_CaledonianMercury_0003,
-1816.07.05_LiverpoolMercuryetc_0001,
-1816.07.31_TheMorningChronicle_0004,
-1816.07.23_TheMorningChronicle_0005,
-1816.07.12_LiverpoolMercuryetc_0005,
-1816.07.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,
+YEAR	MONTH	DAY	TITLE	PAGE
+1816	07	01	CaledonianMercury	0004
+1816	07	01	TheMorningChronicle	0003
+1816	07	04	CaledonianMercury	0002
+1816	07	03	TheMorningChronicle	0002
+1816	07	04	TheMorningChronicle	0002
+1816	07	05	TheMorningChronicle	0002
+1816	07	06	TheMorningChronicle	0002
+1816	07	05	TheMorningChronicle	0003
+1816	07	06	Jackson'sOxfordJournal	0001
+1816	07	07	TheExaminer	0007
+1816	07	09	TheMorningChronicle	0003
+1816	07	11	TheMorningChronicle	0002
+1816	07	12	TheMorningChronicle	0002
+1816	07	10	TheAberdeenJournal	0001
+1816	07	16	TheMorningChronicle	0002
+1816	07	13	CaledonianMercury	0004
+1816	07	17	TheMorningChronicle	0002
+1816	07	18	TheMorningChronicle	0002
+1816	07	20	Jackson'sOxfordJournal	0004
+1816	07	20	TheMorningChronicle	0002
+1816	07	18	TheMorningChronicle	0003
+1816	07	13	TheMorningChronicle	0003
+1816	07	15	TheMorningChronicle	0003
+1816	07	23	TheMorningChronicle	0002
+1816	07	20	Jackson'sOxfordJournal	0001
+1816	07	23	TheMorningChronicle	0003
+1816	07	24	TheMorningChronicle	0002
+1816	07	21	TheExaminer	0007
+1816	07	24	TheMorningChronicle	0003
+1816	07	25	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1816	07	25	TheMorningChronicle	0003
+1816	07	26	TheMorningChronicle	0002
+1816	07	26	TheMorningChronicle	0003
+1816	07	27	Jackson'sOxfordJournal	0001
+1816	07	27	TheMorningChronicle	0002
+1816	07	27	TheMorningChronicle	0003
+1816	07	31	TheMorningChronicle	0002
+1816	07	31	TheMorningChronicle	0003
+1816	07	27	TheMorningChronicle	0004
+1816	07	30	TheMorningChronicle	0002
+1816	07	18	CaledonianMercury	0003
+1816	07	29	CaledonianMercury	0003
+1816	07	05	LiverpoolMercuryetc	0001
+1816	07	31	TheMorningChronicle	0004
+1816	07	23	TheMorningChronicle	0005
+1816	07	12	LiverpoolMercuryetc	0005
+1816	07	11	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001

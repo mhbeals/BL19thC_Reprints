@@ -1,57 +1,58 @@
-1804.08.01_TheMorningChronicle_0002,
-1804.08.01_TheMorningChronicle_0003,
-1804.08.03_TheMorningChronicle_0002,
-1804.08.02_CaledonianMercury_0002,
-1804.08.02_TheDerbyMercury_0002,
-1804.08.02_TheMorningChronicle_0003,
-1804.08.04_TheIpswichJournal_0001,
-1804.08.02_TheDerbyMercury_0004,
-1804.08.04_Cobbett'sWeeklyPoliticalRegister_0014,
-1804.08.04_CaledonianMercury_0003,
-1804.08.02_CaledonianMercury_0003,
-1804.08.07_TheMorningChronicle_0002,
-1804.08.06_TheMorningChronicle_0002,
-1804.08.04_Jackson'sOxfordJournal_0002,
-1804.08.08_TheMorningChronicle_0001,
-1804.08.08_TheMorningChronicle_0002,
-1804.08.09_TheMorningChronicle_0003,
-1804.08.11_TheMorningChronicle_0002,
-1804.08.13_TheMorningChronicle_0003,
-1804.08.16_Trewman'sExeterFlyingPost_0004,
-1804.08.16_TheMorningChronicle_0002,
-1804.08.16_TheMorningChronicle_0003,
-1804.08.18_Jackson'sOxfordJournal_0003,
-1804.08.18_TheMorningChronicle_0002,
-1804.08.20_CaledonianMercury_0003,
-1804.08.18_CaledonianMercury_0003,
-1804.08.14_TheHullPacket_0002,
-1804.08.18_CaledonianMercury_0004,
-1804.08.16_CaledonianMercury_0003,
-1804.08.21_TheMorningChronicle_0003,
-1804.08.20_TheMorningChronicle_0002,
-1804.08.21_TheMorningChronicle_0002,
-1804.08.22_TheMorningChronicle_0002,
-1804.08.22_TheMorningChronicle_0003,
-1804.08.23_Trewman'sExeterFlyingPost_0004,
-1804.08.23_TheMorningChronicle_0002,
-1804.08.03_TheMorningChronicle_0003,
-1804.08.04_TheMorningChronicle_0002,
-1804.08.09_TheMorningChronicle_0002,
-1804.08.10_TheMorningChronicle_0002,
-1804.08.10_TheMorningChronicle_0003,
-1804.08.23_TheMorningChronicle_0003,
-1804.08.25_TheMorningChronicle_0003,
-1804.08.20_TheMorningChronicle_0003,
-1804.08.17_TheMorningChronicle_0003,
-1804.08.25_Jackson'sOxfordJournal_0003,
-1804.08.13_CaledonianMercury_0004,
-1804.08.27_TheMorningChronicle_0002,
-1804.08.28_TheMorningChronicle_0002,
-1804.08.29_TheMorningChronicle_0002,
-1804.08.29_TheMorningChronicle_0003,
-1804.08.28_TheMorningChronicle_0003,
-1804.08.27_TheMorningChronicle_0003,
-1804.08.30_Trewman'sExeterFlyingPost_0004,
-1804.08.31_TheMorningChronicle_0002,
-1804.08.02_Trewman'sExeterFlyingPost_0003,
-1804.08.23_Trewman'sExeterFlyingPost_0003,
+YEAR	MONTH	DAY	TITLE	PAGE
+1804	08	01	TheMorningChronicle	0002
+1804	08	01	TheMorningChronicle	0003
+1804	08	03	TheMorningChronicle	0002
+1804	08	02	CaledonianMercury	0002
+1804	08	02	TheDerbyMercury	0002
+1804	08	02	TheMorningChronicle	0003
+1804	08	04	TheIpswichJournal	0001
+1804	08	02	TheDerbyMercury	0004
+1804	08	04	Cobbett'sWeeklyPoliticalRegister	0014
+1804	08	04	CaledonianMercury	0003
+1804	08	02	CaledonianMercury	0003
+1804	08	07	TheMorningChronicle	0002
+1804	08	06	TheMorningChronicle	0002
+1804	08	04	Jackson'sOxfordJournal	0002
+1804	08	08	TheMorningChronicle	0001
+1804	08	08	TheMorningChronicle	0002
+1804	08	09	TheMorningChronicle	0003
+1804	08	11	TheMorningChronicle	0002
+1804	08	13	TheMorningChronicle	0003
+1804	08	16	Trewman'sExeterFlyingPost	0004
+1804	08	16	TheMorningChronicle	0002
+1804	08	16	TheMorningChronicle	0003
+1804	08	18	Jackson'sOxfordJournal	0003
+1804	08	18	TheMorningChronicle	0002
+1804	08	20	CaledonianMercury	0003
+1804	08	18	CaledonianMercury	0003
+1804	08	14	TheHullPacket	0002
+1804	08	18	CaledonianMercury	0004
+1804	08	16	CaledonianMercury	0003
+1804	08	21	TheMorningChronicle	0003
+1804	08	20	TheMorningChronicle	0002
+1804	08	21	TheMorningChronicle	0002
+1804	08	22	TheMorningChronicle	0002
+1804	08	22	TheMorningChronicle	0003
+1804	08	23	Trewman'sExeterFlyingPost	0004
+1804	08	23	TheMorningChronicle	0002
+1804	08	03	TheMorningChronicle	0003
+1804	08	04	TheMorningChronicle	0002
+1804	08	09	TheMorningChronicle	0002
+1804	08	10	TheMorningChronicle	0002
+1804	08	10	TheMorningChronicle	0003
+1804	08	23	TheMorningChronicle	0003
+1804	08	25	TheMorningChronicle	0003
+1804	08	20	TheMorningChronicle	0003
+1804	08	17	TheMorningChronicle	0003
+1804	08	25	Jackson'sOxfordJournal	0003
+1804	08	13	CaledonianMercury	0004
+1804	08	27	TheMorningChronicle	0002
+1804	08	28	TheMorningChronicle	0002
+1804	08	29	TheMorningChronicle	0002
+1804	08	29	TheMorningChronicle	0003
+1804	08	28	TheMorningChronicle	0003
+1804	08	27	TheMorningChronicle	0003
+1804	08	30	Trewman'sExeterFlyingPost	0004
+1804	08	31	TheMorningChronicle	0002
+1804	08	02	Trewman'sExeterFlyingPost	0003
+1804	08	23	Trewman'sExeterFlyingPost	0003

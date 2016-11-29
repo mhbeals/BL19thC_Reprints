@@ -1,8 +1,9 @@
-1826.12.01_GlasgowHerald_0002,
-1826.12.01_LiverpoolMercuryetc_0002,
-1826.12.01_TheMorningChronicle_0004,
-1826.12.01_GlasgowHerald_0001,
-1826.12.01_TheMorningChronicle_0002,
-1826.12.02_CaledonianMercury_0002,
-1826.12.01_LiverpoolMercuryetc_0008,
-1826.12.03_TheExaminer_0003,
+YEAR	MONTH	DAY	TITLE	PAGE
+1826	12	01	GlasgowHerald	0002
+1826	12	01	LiverpoolMercuryetc	0002
+1826	12	01	TheMorningChronicle	0004
+1826	12	01	GlasgowHerald	0001
+1826	12	01	TheMorningChronicle	0002
+1826	12	02	CaledonianMercury	0002
+1826	12	01	LiverpoolMercuryetc	0008
+1826	12	03	TheExaminer	0003

@@ -1,35 +1,36 @@
-1810.01.01_TheMorningChronicle_0002,
-1810.01.02_TheMorningChronicle_0003,
-1810.01.03_TheMorningChronicle_0003,
-1810.01.01_CaledonianMercury_0002,
-1810.01.02_TheMorningChronicle_0002,
-1810.01.03_TheMorningChronicle_0002,
-1810.01.04_TheDerbyMercury_0004,
-1810.01.06_TheMorningChronicle_0003,
-1810.01.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,
-1810.01.07_TheExaminer_0004,
-1810.01.07_TheExaminer_0005,
-1810.01.08_TheMorningChronicle_0003,
-1810.01.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,
-1810.01.11_TheMorningChronicle_0003,
-1810.01.14_TheExaminer_0002,
-1810.01.14_TheExaminer_0003,
-1810.01.13_CaledonianMercury_0002,
-1810.01.15_CaledonianMercury_0003,
-1810.01.13_Jackson'sOxfordJournal_0002,
-1810.01.06_Jackson'sOxfordJournal_0001,
-1810.01.17_TheMorningChronicle_0003,
-1810.01.04_TheDerbyMercury_0002,
-1810.01.15_CaledonianMercury_0001,
-1810.01.15_TheMorningChronicle_0002,
-1810.01.20_CaledonianMercury_0002,
-1810.01.20_Cobbett'sWeeklyPoliticalRegister_0012,
-1810.01.20_Cobbett'sWeeklyPoliticalRegister_0013,
-1810.01.18_TheMorningChronicle_0002,
-1810.01.18_CaledonianMercury_0003,
-1810.01.18_CaledonianMercury_0002,
-1810.01.20_Jackson'sOxfordJournal_0001,
-1810.01.22_TheMorningChronicle_0002,
-1810.01.08_TheMorningChronicle_0002,
-1810.01.09_TheMorningChronicle_0004,
-1810.01.11_TheDerbyMercury_0001,
+YEAR	MONTH	DAY	TITLE	PAGE
+1810	01	01	TheMorningChronicle	0002
+1810	01	02	TheMorningChronicle	0003
+1810	01	03	TheMorningChronicle	0003
+1810	01	01	CaledonianMercury	0002
+1810	01	02	TheMorningChronicle	0002
+1810	01	03	TheMorningChronicle	0002
+1810	01	04	TheDerbyMercury	0004
+1810	01	06	TheMorningChronicle	0003
+1810	01	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1810	01	07	TheExaminer	0004
+1810	01	07	TheExaminer	0005
+1810	01	08	TheMorningChronicle	0003
+1810	01	11	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1810	01	11	TheMorningChronicle	0003
+1810	01	14	TheExaminer	0002
+1810	01	14	TheExaminer	0003
+1810	01	13	CaledonianMercury	0002
+1810	01	15	CaledonianMercury	0003
+1810	01	13	Jackson'sOxfordJournal	0002
+1810	01	06	Jackson'sOxfordJournal	0001
+1810	01	17	TheMorningChronicle	0003
+1810	01	04	TheDerbyMercury	0002
+1810	01	15	CaledonianMercury	0001
+1810	01	15	TheMorningChronicle	0002
+1810	01	20	CaledonianMercury	0002
+1810	01	20	Cobbett'sWeeklyPoliticalRegister	0012
+1810	01	20	Cobbett'sWeeklyPoliticalRegister	0013
+1810	01	18	TheMorningChronicle	0002
+1810	01	18	CaledonianMercury	0003
+1810	01	18	CaledonianMercury	0002
+1810	01	20	Jackson'sOxfordJournal	0001
+1810	01	22	TheMorningChronicle	0002
+1810	01	08	TheMorningChronicle	0002
+1810	01	09	TheMorningChronicle	0004
+1810	01	11	TheDerbyMercury	0001

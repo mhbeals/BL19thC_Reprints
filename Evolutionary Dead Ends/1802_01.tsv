@@ -1,62 +1,63 @@
-1802.01.02_Jackson'sOxfordJournal_0002,
-1802.01.02_TheMorningChronicle_0002,
-1802.01.02_TheMorningChronicle_0003,
-1802.01.04_CaledonianMercury_0001,
-1802.01.01_TheMorningChronicle_0002,
-1802.01.04_TheMorningChronicle_0002,
-1802.01.05_TheMorningChronicle_0003,
-1802.01.02_CaledonianMercury_0002,
-1802.01.07_TheMorningChronicle_0003,
-1802.01.06_TheMorningChronicle_0003,
-1802.01.07_TheDerbyMercury_0001,
-1802.01.08_TheMorningChronicle_0002,
-1802.01.04_CaledonianMercury_0004,
-1802.01.09_Jackson'sOxfordJournal_0004,
-1802.01.09_TheMorningChronicle_0002,
-1802.01.09_TheMorningChronicle_0003,
-1802.01.09_TheIpswichJournal_0003,
-1802.01.11_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,
-1802.01.11_CaledonianMercury_0004,
-1802.01.12_TheMorningChronicle_0003,
-1802.01.13_TheMorningChronicle_0001,
-1802.01.14_TheMorningChronicle_0002,
-1802.01.11_TheMorningChronicle_0002,
-1802.01.14_Trewman'sExeterFlyingPost_0004,
-1802.01.13_TheMorningChronicle_0004,
-1802.01.06_TheMorningChronicle_0004,
-1802.01.09_TheMorningChronicle_0004,
-1802.01.13_TheAberdeenJournal_0004,
-1802.01.13_TheMorningChronicle_0002,
-1802.01.13_TheMorningChronicle_0003,
-1802.01.09_Jackson'sOxfordJournal_0002,
-1802.01.16_TheMorningChronicle_0002,
-1802.01.18_TheMorningChronicle_0003,
-1802.01.21_TheDerbyMercury_0004,
-1802.01.19_TheMorningChronicle_0002,
-1802.01.16_TheMorningChronicle_0004,
-1802.01.21_TheMorningChronicle_0002,
-1802.01.23_CaledonianMercury_0003,
-1802.01.18_TheMorningChronicle_0002,
-1802.01.21_CaledonianMercury_0003,
-1802.01.21_Trewman'sExeterFlyingPost_0004,
-1802.01.22_TheMorningChronicle_0003,
-1802.01.25_TheMorningChronicle_0002,
-1802.01.23_TheIpswichJournal_0002,
-1802.01.26_TheMorningChronicle_0002,
-1802.01.26_TheMorningChronicle_0003,
-1802.01.16_CaledonianMercury_0001,
-1802.01.27_TheMorningChronicle_0003,
-1802.01.28_TheMorningChronicle_0002,
-1802.01.25_CaledonianMercury_0003,
-1802.01.28_Trewman'sExeterFlyingPost_0004,
-1802.01.30_CaledonianMercury_0002,
-1802.01.28_CaledonianMercury_0003,
-1802.01.30_TheMorningChronicle_0002,
-1802.01.25_CaledonianMercury_0004,
-1802.01.02_CaledonianMercury_0001,
-1802.01.16_TheMorningChronicle_0001,
-1802.01.30_TheIpswichJournal_0001,
-1802.01.05_TheMorningChronicle_0004,
-1802.01.09_TheIpswichJournal_0004,
-1802.01.21_TheMorningChronicle_0004,
-1802.01.02_Jackson'sOxfordJournal_0001,
+YEAR	MONTH	DAY	TITLE	PAGE
+1802	01	02	Jackson'sOxfordJournal	0002
+1802	01	02	TheMorningChronicle	0002
+1802	01	02	TheMorningChronicle	0003
+1802	01	04	CaledonianMercury	0001
+1802	01	01	TheMorningChronicle	0002
+1802	01	04	TheMorningChronicle	0002
+1802	01	05	TheMorningChronicle	0003
+1802	01	02	CaledonianMercury	0002
+1802	01	07	TheMorningChronicle	0003
+1802	01	06	TheMorningChronicle	0003
+1802	01	07	TheDerbyMercury	0001
+1802	01	08	TheMorningChronicle	0002
+1802	01	04	CaledonianMercury	0004
+1802	01	09	Jackson'sOxfordJournal	0004
+1802	01	09	TheMorningChronicle	0002
+1802	01	09	TheMorningChronicle	0003
+1802	01	09	TheIpswichJournal	0003
+1802	01	11	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1802	01	11	CaledonianMercury	0004
+1802	01	12	TheMorningChronicle	0003
+1802	01	13	TheMorningChronicle	0001
+1802	01	14	TheMorningChronicle	0002
+1802	01	11	TheMorningChronicle	0002
+1802	01	14	Trewman'sExeterFlyingPost	0004
+1802	01	13	TheMorningChronicle	0004
+1802	01	06	TheMorningChronicle	0004
+1802	01	09	TheMorningChronicle	0004
+1802	01	13	TheAberdeenJournal	0004
+1802	01	13	TheMorningChronicle	0002
+1802	01	13	TheMorningChronicle	0003
+1802	01	09	Jackson'sOxfordJournal	0002
+1802	01	16	TheMorningChronicle	0002
+1802	01	18	TheMorningChronicle	0003
+1802	01	21	TheDerbyMercury	0004
+1802	01	19	TheMorningChronicle	0002
+1802	01	16	TheMorningChronicle	0004
+1802	01	21	TheMorningChronicle	0002
+1802	01	23	CaledonianMercury	0003
+1802	01	18	TheMorningChronicle	0002
+1802	01	21	CaledonianMercury	0003
+1802	01	21	Trewman'sExeterFlyingPost	0004
+1802	01	22	TheMorningChronicle	0003
+1802	01	25	TheMorningChronicle	0002
+1802	01	23	TheIpswichJournal	0002
+1802	01	26	TheMorningChronicle	0002
+1802	01	26	TheMorningChronicle	0003
+1802	01	16	CaledonianMercury	0001
+1802	01	27	TheMorningChronicle	0003
+1802	01	28	TheMorningChronicle	0002
+1802	01	25	CaledonianMercury	0003
+1802	01	28	Trewman'sExeterFlyingPost	0004
+1802	01	30	CaledonianMercury	0002
+1802	01	28	CaledonianMercury	0003
+1802	01	30	TheMorningChronicle	0002
+1802	01	25	CaledonianMercury	0004
+1802	01	02	CaledonianMercury	0001
+1802	01	16	TheMorningChronicle	0001
+1802	01	30	TheIpswichJournal	0001
+1802	01	05	TheMorningChronicle	0004
+1802	01	09	TheIpswichJournal	0004
+1802	01	21	TheMorningChronicle	0004
+1802	01	02	Jackson'sOxfordJournal	0001

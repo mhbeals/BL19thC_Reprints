@@ -1,59 +1,60 @@
-1821.04.02_CaledonianMercury_0004,
-1821.04.05_CaledonianMercury_0002,
-1821.04.05_CaledonianMercury_0004,
-1821.04.04_TheDerbyMercury_0003,
-1821.04.04_TheDerbyMercury_0002,
-1821.04.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,
-1821.04.07_Jackson'sOxfordJournal_0001,
-1821.04.07_TheIpswichJournal_0004,
-1821.04.07_CaledonianMercury_0002,
-1821.04.07_CaledonianMercury_0004,
-1821.04.09_CaledonianMercury_0003,
-1821.04.06_GlasgowHerald_0004,
-1821.04.09_HampshireTelegraphandSussexChronicleetc_0002,
-1821.04.07_Jackson'sOxfordJournal_0003,
-1821.04.12_CaledonianMercury_0004,
-1821.04.10_Freeman'sJournalandDailyCommercialAdvertiser_0004,
-1821.04.12_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,
-1821.04.13_Freeman'sJournalandDailyCommercialAdvertiser_0004,
-1821.04.14_CaledonianMercury_0002,
-1821.04.14_TheLeedsMercury_0002,
-1821.04.15_TheExaminer_0016,
-1821.04.15_TheExaminer_0010,
-1821.04.14_Jackson'sOxfordJournal_0002,
-1821.04.16_GlasgowHerald_0002,
-1821.04.14_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1821.04.17_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1821.04.16_CaledonianMercury_0003,
-1821.04.19_CaledonianMercury_0002,
-1821.04.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,
-1821.04.15_TheExaminer_0008,
-1821.04.21_Jackson'sOxfordJournal_0002,
-1821.04.21_CaledonianMercury_0003,
-1821.04.22_TheExaminer_0006,
-1821.04.23_CaledonianMercury_0003,
-1821.04.21_TheNewcastleCourantetc_0004,
-1821.04.21_CaledonianMercury_0002,
-1821.04.24_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.04.25_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1821.04.26_CaledonianMercury_0002,
-1821.04.26_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.04.22_TheExaminer_0005,
-1821.04.26_Freeman'sJournalandDailyCommercialAdvertiser_0004,
-1821.04.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,
-1821.04.26_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1821.04.20_LiverpoolMercuryetc_0003,
-1821.04.25_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.04.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,
-1821.04.27_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1821.04.28_Jackson'sOxfordJournal_0002,
-1821.04.26_CaledonianMercury_0003,
-1821.04.28_CaledonianMercury_0002,
-1821.04.27_LiverpoolMercuryetc_0008,
-1821.04.28_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1821.04.29_TheExaminer_0015,
-1821.04.27_Freeman'sJournalandDailyCommercialAdvertiser_0004,
-1821.04.28_CaledonianMercury_0004,
-1821.04.13_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.04.08_TheExaminer_0014,
-1821.04.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,
+YEAR	MONTH	DAY	TITLE	PAGE
+1821	04	02	CaledonianMercury	0004
+1821	04	05	CaledonianMercury	0002
+1821	04	05	CaledonianMercury	0004
+1821	04	04	TheDerbyMercury	0003
+1821	04	04	TheDerbyMercury	0002
+1821	04	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1821	04	07	Jackson'sOxfordJournal	0001
+1821	04	07	TheIpswichJournal	0004
+1821	04	07	CaledonianMercury	0002
+1821	04	07	CaledonianMercury	0004
+1821	04	09	CaledonianMercury	0003
+1821	04	06	GlasgowHerald	0004
+1821	04	09	HampshireTelegraphandSussexChronicleetc	0002
+1821	04	07	Jackson'sOxfordJournal	0003
+1821	04	12	CaledonianMercury	0004
+1821	04	10	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1821	04	12	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1821	04	13	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1821	04	14	CaledonianMercury	0002
+1821	04	14	TheLeedsMercury	0002
+1821	04	15	TheExaminer	0016
+1821	04	15	TheExaminer	0010
+1821	04	14	Jackson'sOxfordJournal	0002
+1821	04	16	GlasgowHerald	0002
+1821	04	14	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1821	04	17	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1821	04	16	CaledonianMercury	0003
+1821	04	19	CaledonianMercury	0002
+1821	04	19	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1821	04	15	TheExaminer	0008
+1821	04	21	Jackson'sOxfordJournal	0002
+1821	04	21	CaledonianMercury	0003
+1821	04	22	TheExaminer	0006
+1821	04	23	CaledonianMercury	0003
+1821	04	21	TheNewcastleCourantetc	0004
+1821	04	21	CaledonianMercury	0002
+1821	04	24	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	04	25	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1821	04	26	CaledonianMercury	0002
+1821	04	26	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	04	22	TheExaminer	0005
+1821	04	26	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1821	04	26	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1821	04	26	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1821	04	20	LiverpoolMercuryetc	0003
+1821	04	25	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	04	26	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1821	04	27	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1821	04	28	Jackson'sOxfordJournal	0002
+1821	04	26	CaledonianMercury	0003
+1821	04	28	CaledonianMercury	0002
+1821	04	27	LiverpoolMercuryetc	0008
+1821	04	28	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1821	04	29	TheExaminer	0015
+1821	04	27	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1821	04	28	CaledonianMercury	0004
+1821	04	13	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	04	08	TheExaminer	0014
+1821	04	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003

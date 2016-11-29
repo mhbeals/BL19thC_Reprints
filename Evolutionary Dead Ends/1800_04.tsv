@@ -1,38 +1,39 @@
-1800.04.01_TheHullPacket_0002,
-1800.04.01_TheHullPacket_0003,
-1800.04.01_TheHullPacket_0004,
-1800.04.03_Trewman'sExeterFlyingPost_0003,
-1800.04.05_Jackson'sOxfordJournal_0002,
-1800.04.03_CaledonianMercury_0001,
-1800.04.03_CaledonianMercury_0004,
-1800.04.05_CaledonianMercury_0001,
-1800.04.03_CaledonianMercury_0003,
-1800.04.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003,
-1800.04.10_Trewman'sExeterFlyingPost_0003,
-1800.04.07_CaledonianMercury_0004,
-1800.04.07_CaledonianMercury_0001,
-1800.04.12_TheIpswichJournal_0002,
-1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002,
-1800.04.15_TheHullPacket_0002,
-1800.04.12_TheIpswichJournal_0003,
-1800.04.17_Trewman'sExeterFlyingPost_0003,
-1800.04.17_Trewman'sExeterFlyingPost_0002,
-1800.04.19_TheIpswichJournal_0002,
-1800.04.12_CaledonianMercury_0002,
-1800.04.14_CaledonianMercury_0002,
-1800.04.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003,
-1800.04.19_Jackson'sOxfordJournal_0002,
-1800.04.22_TheHullPacket_0001,
-1800.04.19_Jackson'sOxfordJournal_0003,
-1800.04.24_CaledonianMercury_0002,
-1800.04.24_Trewman'sExeterFlyingPost_0003,
-1800.04.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003,
-1800.04.26_Jackson'sOxfordJournal_0002,
-1800.04.26_TheIpswichJournal_0002,
-1800.04.21_CaledonianMercury_0002,
-1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003,
-1800.04.28_TheAberdeenJournal_0001,
-1800.04.26_CaledonianMercury_0003,
-1800.04.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,
-1800.04.26_CaledonianMercury_0004,
-1800.04.12_CaledonianMercury_0001,
+YEAR	MONTH	DAY	TITLE	PAGE
+1800	04	01	TheHullPacket	0002
+1800	04	01	TheHullPacket	0003
+1800	04	01	TheHullPacket	0004
+1800	04	03	Trewman'sExeterFlyingPost	0003
+1800	04	05	Jackson'sOxfordJournal	0002
+1800	04	03	CaledonianMercury	0001
+1800	04	03	CaledonianMercury	0004
+1800	04	05	CaledonianMercury	0001
+1800	04	03	CaledonianMercury	0003
+1800	04	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0003
+1800	04	10	Trewman'sExeterFlyingPost	0003
+1800	04	07	CaledonianMercury	0004
+1800	04	07	CaledonianMercury	0001
+1800	04	12	TheIpswichJournal	0002
+1800	04	14	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0002
+1800	04	15	TheHullPacket	0002
+1800	04	12	TheIpswichJournal	0003
+1800	04	17	Trewman'sExeterFlyingPost	0003
+1800	04	17	Trewman'sExeterFlyingPost	0002
+1800	04	19	TheIpswichJournal	0002
+1800	04	12	CaledonianMercury	0002
+1800	04	14	CaledonianMercury	0002
+1800	04	14	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0003
+1800	04	19	Jackson'sOxfordJournal	0002
+1800	04	22	TheHullPacket	0001
+1800	04	19	Jackson'sOxfordJournal	0003
+1800	04	24	CaledonianMercury	0002
+1800	04	24	Trewman'sExeterFlyingPost	0003
+1800	04	21	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0003
+1800	04	26	Jackson'sOxfordJournal	0002
+1800	04	26	TheIpswichJournal	0002
+1800	04	21	CaledonianMercury	0002
+1800	04	28	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0003
+1800	04	28	TheAberdeenJournal	0001
+1800	04	26	CaledonianMercury	0003
+1800	04	28	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	04	26	CaledonianMercury	0004
+1800	04	12	CaledonianMercury	0001

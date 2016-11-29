@@ -1,53 +1,54 @@
-1801.03.02_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0008,
-1801.03.02_TheMorningChronicle_0002,
-1801.03.03_TheMorningChronicle_0002,
-1801.03.03_TheMorningChronicle_0003,
-1801.03.02_CaledonianMercury_0003,
-1801.03.02_CaledonianMercury_0002,
-1801.03.04_TheMorningChronicle_0002,
-1801.03.04_TheMorningChronicle_0003,
-1801.03.06_TheMorningChronicle_0002,
-1801.03.06_TheMorningChronicle_0003,
-1801.03.07_Jackson'sOxfordJournal_0002,
-1801.03.07_TheIpswichJournal_0002,
-1801.03.09_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0008,
-1801.03.09_TheMorningChronicle_0002,
-1801.03.10_TheHullPacket_0002,
-1801.03.12_TheMorningChronicle_0002,
-1801.03.14_TheIpswichJournal_0004,
-1801.03.16_CaledonianMercury_0003,
-1801.03.12_CaledonianMercury_0003,
-1801.03.14_CaledonianMercury_0002,
-1801.03.14_CaledonianMercury_0003,
-1801.03.14_Jackson'sOxfordJournal_0002,
-1801.03.16_TheMorningChronicle_0002,
-1801.03.16_TheMorningChronicle_0003,
-1801.03.17_TheHullPacket_0002,
-1801.03.21_Jackson'sOxfordJournal_0004,
-1801.03.14_CaledonianMercury_0001,
-1801.03.14_CaledonianMercury_0004,
-1801.03.16_CaledonianMercury_0001,
-1801.03.21_CaledonianMercury_0001,
-1801.03.19_CaledonianMercury_0003,
-1801.03.19_TheDerbyMercury_0002,
-1801.03.23_CaledonianMercury_0003,
-1801.03.21_Jackson'sOxfordJournal_0001,
-1801.03.21_TheIpswichJournal_0004,
-1801.03.23_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0006,
-1801.03.21_TheMorningChronicle_0001,
-1801.03.21_TheMorningChronicle_0003,
-1801.03.23_TheMorningChronicle_0003,
-1801.03.23_CaledonianMercury_0002,
-1801.03.24_TheHullPacket_0002,
-1801.03.25_TheMorningChronicle_0002,
-1801.03.26_Trewman'sExeterFlyingPost_0004,
-1801.03.17_TheMorningChronicle_0001,
-1801.03.21_CaledonianMercury_0002,
-1801.03.28_Jackson'sOxfordJournal_0002,
-1801.03.28_TheIpswichJournal_0004,
-1801.03.30_CaledonianMercury_0004,
-1801.03.30_CaledonianMercury_0002,
-1801.03.23_CaledonianMercury_0001,
-1801.03.02_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0006,
-1801.03.31_TheMorningChronicle_0004,
-1801.03.24_TheHullPacket_0001,
+YEAR	MONTH	DAY	TITLE	PAGE
+1801	03	02	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0008
+1801	03	02	TheMorningChronicle	0002
+1801	03	03	TheMorningChronicle	0002
+1801	03	03	TheMorningChronicle	0003
+1801	03	02	CaledonianMercury	0003
+1801	03	02	CaledonianMercury	0002
+1801	03	04	TheMorningChronicle	0002
+1801	03	04	TheMorningChronicle	0003
+1801	03	06	TheMorningChronicle	0002
+1801	03	06	TheMorningChronicle	0003
+1801	03	07	Jackson'sOxfordJournal	0002
+1801	03	07	TheIpswichJournal	0002
+1801	03	09	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0008
+1801	03	09	TheMorningChronicle	0002
+1801	03	10	TheHullPacket	0002
+1801	03	12	TheMorningChronicle	0002
+1801	03	14	TheIpswichJournal	0004
+1801	03	16	CaledonianMercury	0003
+1801	03	12	CaledonianMercury	0003
+1801	03	14	CaledonianMercury	0002
+1801	03	14	CaledonianMercury	0003
+1801	03	14	Jackson'sOxfordJournal	0002
+1801	03	16	TheMorningChronicle	0002
+1801	03	16	TheMorningChronicle	0003
+1801	03	17	TheHullPacket	0002
+1801	03	21	Jackson'sOxfordJournal	0004
+1801	03	14	CaledonianMercury	0001
+1801	03	14	CaledonianMercury	0004
+1801	03	16	CaledonianMercury	0001
+1801	03	21	CaledonianMercury	0001
+1801	03	19	CaledonianMercury	0003
+1801	03	19	TheDerbyMercury	0002
+1801	03	23	CaledonianMercury	0003
+1801	03	21	Jackson'sOxfordJournal	0001
+1801	03	21	TheIpswichJournal	0004
+1801	03	23	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0006
+1801	03	21	TheMorningChronicle	0001
+1801	03	21	TheMorningChronicle	0003
+1801	03	23	TheMorningChronicle	0003
+1801	03	23	CaledonianMercury	0002
+1801	03	24	TheHullPacket	0002
+1801	03	25	TheMorningChronicle	0002
+1801	03	26	Trewman'sExeterFlyingPost	0004
+1801	03	17	TheMorningChronicle	0001
+1801	03	21	CaledonianMercury	0002
+1801	03	28	Jackson'sOxfordJournal	0002
+1801	03	28	TheIpswichJournal	0004
+1801	03	30	CaledonianMercury	0004
+1801	03	30	CaledonianMercury	0002
+1801	03	23	CaledonianMercury	0001
+1801	03	02	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0006
+1801	03	31	TheMorningChronicle	0004
+1801	03	24	TheHullPacket	0001

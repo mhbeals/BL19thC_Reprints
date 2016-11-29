@@ -1,88 +1,89 @@
-1822.11.01_GlasgowHerald_0002,
-1822.11.01_LiverpoolMercuryetc_0007,
-1822.11.01_TheMorningChronicle_0001,
-1822.11.02_TheMorningChronicle_0004,
-1822.11.01_GlasgowHerald_0004,
-1822.11.02_Jackson'sOxfordJournal_0002,
-1822.11.02_Jackson'sOxfordJournal_0004,
-1822.11.01_TheMorningChronicle_0002,
-1822.11.02_TheMorningChronicle_0002,
-1822.11.02_TheLeedsMercury_0004,
-1822.11.03_TheExaminer_0010,
-1822.11.04_TheMorningChronicle_0001,
-1822.11.06_TheMorningChronicle_0004,
-1822.11.06_TheMorningChronicle_0002,
-1822.11.07_TheMorningChronicle_0002,
-1822.11.05_TheMorningChronicle_0003,
-1822.11.06_TheMorningChronicle_0001,
-1822.11.02_TheIpswichJournal_0001,
-1822.11.06_TheMorningChronicle_0003,
-1822.11.08_TheMorningChronicle_0002,
-1822.11.09_TheMorningChronicle_0002,
-1822.11.09_TheMorningChronicle_0004,
-1822.11.07_CaledonianMercury_0003,
-1822.11.04_TheMorningChronicle_0002,
-1822.11.08_TheMorningChronicle_0003,
-1822.11.08_GlasgowHerald_0004,
-1822.11.11_TheMorningChronicle_0002,
-1822.11.11_TheMorningChronicle_0003,
-1822.11.13_TheMorningChronicle_0001,
-1822.11.12_TheMorningChronicle_0001,
-1822.11.14_TheMorningChronicle_0003,
-1822.11.09_TheNewcastleCourantetc_0003,
-1822.11.12_TheMorningChronicle_0002,
-1822.11.13_TheMorningChronicle_0003,
-1822.11.14_TheMorningChronicle_0002,
-1822.11.15_TheMorningChronicle_0004,
-1822.11.16_TheMorningChronicle_0002,
-1822.11.13_TheMorningChronicle_0002,
-1822.11.16_TheMorningChronicle_0003,
-1822.11.16_TheMorningChronicle_0004,
-1822.11.17_TheExaminer_0002,
-1822.11.03_TheExaminer_0014,
-1822.11.17_TheExaminer_0016,
-1822.11.20_TheMorningChronicle_0004,
-1822.11.21_CaledonianMercury_0004,
-1822.11.18_CaledonianMercury_0003,
-1822.11.19_TheMorningChronicle_0002,
-1822.11.17_TheExaminer_0014,
-1822.11.02_TheNewcastleCourantetc_0003,
-1822.11.16_TheNewcastleCourantetc_0003,
-1822.11.18_TheMorningChronicle_0004,
-1822.11.19_TheMorningChronicle_0004,
-1822.11.12_TheMorningChronicle_0004,
-1822.11.14_TheMorningChronicle_0004,
-1822.11.17_TheExaminer_0010,
-1822.11.21_TheMorningChronicle_0003,
-1822.11.22_TheMorningChronicle_0001,
-1822.11.19_TheMorningChronicle_0001,
-1822.11.21_TheMorningChronicle_0002,
-1822.11.19_TheMorningChronicle_0003,
-1822.11.20_TheMorningChronicle_0002,
-1822.11.24_TheExaminer_0007,
-1822.11.22_TheMorningChronicle_0004,
-1822.11.24_TheExaminer_0008,
-1822.11.24_TheExaminer_0010,
-1822.11.25_CaledonianMercury_0002,
-1822.11.25_TheMorningChronicle_0002,
-1822.11.28_CaledonianMercury_0002,
-1822.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,
-1822.11.27_TheMorningChronicle_0004,
-1822.11.24_TheExaminer_0014,
-1822.11.27_TheMorningChronicle_0002,
-1822.11.28_TheMorningChronicle_0003,
-1822.11.09_TheIpswichJournal_0001,
-1822.11.25_TheMorningChronicle_0004,
-1822.11.28_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,
-1822.11.21_TheMorningChronicle_0004,
-1822.11.25_CaledonianMercury_0003,
-1822.11.26_TheMorningChronicle_0003,
-1822.11.24_TheExaminer_0003,
-1822.11.29_TheMorningChronicle_0002,
-1822.11.21_CaledonianMercury_0003,
-1822.11.27_TheMorningChronicle_0003,
-1822.11.28_TheMorningChronicle_0002,
-1822.11.30_TheMorningChronicle_0002,
-1822.11.30_TheMorningChronicle_0004,
-1822.11.29_TheMorningChronicle_0003,
-1822.11.04_TheBristolMercury_0001,
+YEAR	MONTH	DAY	TITLE	PAGE
+1822	11	01	GlasgowHerald	0002
+1822	11	01	LiverpoolMercuryetc	0007
+1822	11	01	TheMorningChronicle	0001
+1822	11	02	TheMorningChronicle	0004
+1822	11	01	GlasgowHerald	0004
+1822	11	02	Jackson'sOxfordJournal	0002
+1822	11	02	Jackson'sOxfordJournal	0004
+1822	11	01	TheMorningChronicle	0002
+1822	11	02	TheMorningChronicle	0002
+1822	11	02	TheLeedsMercury	0004
+1822	11	03	TheExaminer	0010
+1822	11	04	TheMorningChronicle	0001
+1822	11	06	TheMorningChronicle	0004
+1822	11	06	TheMorningChronicle	0002
+1822	11	07	TheMorningChronicle	0002
+1822	11	05	TheMorningChronicle	0003
+1822	11	06	TheMorningChronicle	0001
+1822	11	02	TheIpswichJournal	0001
+1822	11	06	TheMorningChronicle	0003
+1822	11	08	TheMorningChronicle	0002
+1822	11	09	TheMorningChronicle	0002
+1822	11	09	TheMorningChronicle	0004
+1822	11	07	CaledonianMercury	0003
+1822	11	04	TheMorningChronicle	0002
+1822	11	08	TheMorningChronicle	0003
+1822	11	08	GlasgowHerald	0004
+1822	11	11	TheMorningChronicle	0002
+1822	11	11	TheMorningChronicle	0003
+1822	11	13	TheMorningChronicle	0001
+1822	11	12	TheMorningChronicle	0001
+1822	11	14	TheMorningChronicle	0003
+1822	11	09	TheNewcastleCourantetc	0003
+1822	11	12	TheMorningChronicle	0002
+1822	11	13	TheMorningChronicle	0003
+1822	11	14	TheMorningChronicle	0002
+1822	11	15	TheMorningChronicle	0004
+1822	11	16	TheMorningChronicle	0002
+1822	11	13	TheMorningChronicle	0002
+1822	11	16	TheMorningChronicle	0003
+1822	11	16	TheMorningChronicle	0004
+1822	11	17	TheExaminer	0002
+1822	11	03	TheExaminer	0014
+1822	11	17	TheExaminer	0016
+1822	11	20	TheMorningChronicle	0004
+1822	11	21	CaledonianMercury	0004
+1822	11	18	CaledonianMercury	0003
+1822	11	19	TheMorningChronicle	0002
+1822	11	17	TheExaminer	0014
+1822	11	02	TheNewcastleCourantetc	0003
+1822	11	16	TheNewcastleCourantetc	0003
+1822	11	18	TheMorningChronicle	0004
+1822	11	19	TheMorningChronicle	0004
+1822	11	12	TheMorningChronicle	0004
+1822	11	14	TheMorningChronicle	0004
+1822	11	17	TheExaminer	0010
+1822	11	21	TheMorningChronicle	0003
+1822	11	22	TheMorningChronicle	0001
+1822	11	19	TheMorningChronicle	0001
+1822	11	21	TheMorningChronicle	0002
+1822	11	19	TheMorningChronicle	0003
+1822	11	20	TheMorningChronicle	0002
+1822	11	24	TheExaminer	0007
+1822	11	22	TheMorningChronicle	0004
+1822	11	24	TheExaminer	0008
+1822	11	24	TheExaminer	0010
+1822	11	25	CaledonianMercury	0002
+1822	11	25	TheMorningChronicle	0002
+1822	11	28	CaledonianMercury	0002
+1822	11	28	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1822	11	27	TheMorningChronicle	0004
+1822	11	24	TheExaminer	0014
+1822	11	27	TheMorningChronicle	0002
+1822	11	28	TheMorningChronicle	0003
+1822	11	09	TheIpswichJournal	0001
+1822	11	25	TheMorningChronicle	0004
+1822	11	28	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1822	11	21	TheMorningChronicle	0004
+1822	11	25	CaledonianMercury	0003
+1822	11	26	TheMorningChronicle	0003
+1822	11	24	TheExaminer	0003
+1822	11	29	TheMorningChronicle	0002
+1822	11	21	CaledonianMercury	0003
+1822	11	27	TheMorningChronicle	0003
+1822	11	28	TheMorningChronicle	0002
+1822	11	30	TheMorningChronicle	0002
+1822	11	30	TheMorningChronicle	0004
+1822	11	29	TheMorningChronicle	0003
+1822	11	04	TheBristolMercury	0001

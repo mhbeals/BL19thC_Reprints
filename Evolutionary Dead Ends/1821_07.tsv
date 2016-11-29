@@ -1,59 +1,60 @@
-1821.07.02_CaledonianMercury_0003,
-1821.07.03_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1821.07.05_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1821.07.05_Freeman'sJournalandDailyCommercialAdvertiser_0004,
-1821.07.06_LiverpoolMercuryetc_0006,
-1821.07.05_CaledonianMercury_0004,
-1821.07.06_LiverpoolMercuryetc_0002,
-1821.07.07_CaledonianMercury_0003,
-1821.07.07_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.07.07_TheBristolMercury_0002,
-1821.07.07_Jackson'sOxfordJournal_0003,
-1821.07.08_TheExaminer_0006,
-1821.07.02_GlasgowHerald_0004,
-1821.07.04_TheAberdeenJournal_0004,
-1821.07.07_TheBristolMercury_0004,
-1821.07.03_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.07.05_CaledonianMercury_0002,
-1821.07.11_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1821.07.11_Freeman'sJournalandDailyCommercialAdvertiser_0004,
-1821.07.07_Cobbett'sWeeklyPoliticalRegister_0030,
-1821.07.07_Cobbett'sWeeklyPoliticalRegister_0031,
-1821.07.12_CaledonianMercury_0002,
-1821.07.12_CaledonianMercury_0003,
-1821.07.08_TheExaminer_0012,
-1821.07.13_LiverpoolMercuryetc_0008,
-1821.07.16_CaledonianMercury_0002,
-1821.07.17_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.07.14_TheBristolMercury_0002,
-1821.07.19_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.07.19_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,
-1821.07.20_LiverpoolMercuryetc_0005,
-1821.07.20_GlasgowHerald_0002,
-1821.07.14_Cobbett'sWeeklyPoliticalRegister_0023,
-1821.07.19_CaledonianMercury_0002,
-1821.07.20_LiverpoolMercuryetc_0007,
-1821.07.21_Jackson'sOxfordJournal_0003,
-1821.07.21_TheLeedsMercury_0003,
-1821.07.16_CaledonianMercury_0003,
-1821.07.24_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.07.21_Cobbett'sWeeklyPoliticalRegister_0023,
-1821.07.25_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.07.26_CaledonianMercury_0003,
-1821.07.22_TheExaminer_0003,
-1821.07.22_TheExaminer_0004,
-1821.07.22_TheExaminer_0006,
-1821.07.26_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.07.26_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,
-1821.07.28_CaledonianMercury_0002,
-1821.07.30_CaledonianMercury_0002,
-1821.07.16_CaledonianMercury_0004,
-1821.07.28_CaledonianMercury_0003,
-1821.07.28_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1821.07.30_GlasgowHerald_0002,
-1821.07.28_Cobbett'sWeeklyPoliticalRegister_0013,
-1821.07.28_Cobbett'sWeeklyPoliticalRegister_0014,
-1821.07.28_Cobbett'sWeeklyPoliticalRegister_0015,
-1821.07.30_GlasgowHerald_0004,
-1821.07.11_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1821.07.21_TheLeedsMercury_0004,
+YEAR	MONTH	DAY	TITLE	PAGE
+1821	07	02	CaledonianMercury	0003
+1821	07	03	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1821	07	05	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1821	07	05	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1821	07	06	LiverpoolMercuryetc	0006
+1821	07	05	CaledonianMercury	0004
+1821	07	06	LiverpoolMercuryetc	0002
+1821	07	07	CaledonianMercury	0003
+1821	07	07	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	07	07	TheBristolMercury	0002
+1821	07	07	Jackson'sOxfordJournal	0003
+1821	07	08	TheExaminer	0006
+1821	07	02	GlasgowHerald	0004
+1821	07	04	TheAberdeenJournal	0004
+1821	07	07	TheBristolMercury	0004
+1821	07	03	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	07	05	CaledonianMercury	0002
+1821	07	11	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1821	07	11	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1821	07	07	Cobbett'sWeeklyPoliticalRegister	0030
+1821	07	07	Cobbett'sWeeklyPoliticalRegister	0031
+1821	07	12	CaledonianMercury	0002
+1821	07	12	CaledonianMercury	0003
+1821	07	08	TheExaminer	0012
+1821	07	13	LiverpoolMercuryetc	0008
+1821	07	16	CaledonianMercury	0002
+1821	07	17	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	07	14	TheBristolMercury	0002
+1821	07	19	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	07	19	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1821	07	20	LiverpoolMercuryetc	0005
+1821	07	20	GlasgowHerald	0002
+1821	07	14	Cobbett'sWeeklyPoliticalRegister	0023
+1821	07	19	CaledonianMercury	0002
+1821	07	20	LiverpoolMercuryetc	0007
+1821	07	21	Jackson'sOxfordJournal	0003
+1821	07	21	TheLeedsMercury	0003
+1821	07	16	CaledonianMercury	0003
+1821	07	24	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	07	21	Cobbett'sWeeklyPoliticalRegister	0023
+1821	07	25	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	07	26	CaledonianMercury	0003
+1821	07	22	TheExaminer	0003
+1821	07	22	TheExaminer	0004
+1821	07	22	TheExaminer	0006
+1821	07	26	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	07	26	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1821	07	28	CaledonianMercury	0002
+1821	07	30	CaledonianMercury	0002
+1821	07	16	CaledonianMercury	0004
+1821	07	28	CaledonianMercury	0003
+1821	07	28	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1821	07	30	GlasgowHerald	0002
+1821	07	28	Cobbett'sWeeklyPoliticalRegister	0013
+1821	07	28	Cobbett'sWeeklyPoliticalRegister	0014
+1821	07	28	Cobbett'sWeeklyPoliticalRegister	0015
+1821	07	30	GlasgowHerald	0004
+1821	07	11	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1821	07	21	TheLeedsMercury	0004

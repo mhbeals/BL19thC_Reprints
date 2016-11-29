@@ -1,46 +1,47 @@
-1820.02.03_CaledonianMercury_0002,
-1820.02.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,
-1820.02.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,
-1820.02.03_CaledonianMercury_0004,
-1820.02.05_TheIpswichJournal_0002,
-1820.02.05_CaledonianMercury_0003,
-1820.02.05_Jackson'sOxfordJournal_0002,
-1820.02.05_CaledonianMercury_0004,
-1820.02.05_TheLeedsMercury_0004,
-1820.02.09_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1820.02.10_CaledonianMercury_0003,
-1820.02.10_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,
-1820.02.07_CaledonianMercury_0004,
-1820.02.07_Freeman'sJournalandDailyCommercialAdvertiser_0004,
-1820.02.10_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1820.02.09_Freeman'sJournalandDailyCommercialAdvertiser_0002,
-1820.02.11_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1820.02.12_Jackson'sOxfordJournal_0004,
-1820.02.14_TheBristolMercury_0002,
-1820.02.14_CaledonianMercury_0002,
-1820.02.07_GlasgowHerald_0004,
-1820.02.12_Jackson'sOxfordJournal_0002,
-1820.02.17_CaledonianMercury_0003,
-1820.02.14_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1820.02.14_GlasgowHerald_0004,
-1820.02.15_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1820.02.17_Freeman'sJournalandDailyCommercialAdvertiser_0004,
-1820.02.19_TheIpswichJournal_0002,
-1820.02.19_Jackson'sOxfordJournal_0002,
-1820.02.21_TheBristolMercury_0001,
-1820.02.21_CaledonianMercury_0002,
-1820.02.24_CaledonianMercury_0002,
-1820.02.24_CaledonianMercury_0004,
-1820.02.25_GlasgowHerald_0002,
-1820.02.25_LiverpoolMercuryetc_0008,
-1820.02.25_Freeman'sJournalandDailyCommercialAdvertiser_0003,
-1820.02.26_Jackson'sOxfordJournal_0001,
-1820.02.26_Jackson'sOxfordJournal_0002,
-1820.02.26_CaledonianMercury_0004,
-1820.02.25_Freeman'sJournalandDailyCommercialAdvertiser_0004,
-1820.02.28_TheBristolMercury_0002,
-1820.02.26_TheIpswichJournal_0002,
-1820.02.26_CaledonianMercury_0002,
-1820.02.26_Jackson'sOxfordJournal_0004,
-1820.02.26_TheNewcastleCourantetc_0003,
-1820.02.04_LiverpoolMercuryetc_0005,
+YEAR	MONTH	DAY	TITLE	PAGE
+1820	02	03	CaledonianMercury	0002
+1820	02	03	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1820	02	03	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1820	02	03	CaledonianMercury	0004
+1820	02	05	TheIpswichJournal	0002
+1820	02	05	CaledonianMercury	0003
+1820	02	05	Jackson'sOxfordJournal	0002
+1820	02	05	CaledonianMercury	0004
+1820	02	05	TheLeedsMercury	0004
+1820	02	09	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	02	10	CaledonianMercury	0003
+1820	02	10	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1820	02	07	CaledonianMercury	0004
+1820	02	07	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	02	10	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	02	09	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1820	02	11	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	02	12	Jackson'sOxfordJournal	0004
+1820	02	14	TheBristolMercury	0002
+1820	02	14	CaledonianMercury	0002
+1820	02	07	GlasgowHerald	0004
+1820	02	12	Jackson'sOxfordJournal	0002
+1820	02	17	CaledonianMercury	0003
+1820	02	14	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	02	14	GlasgowHerald	0004
+1820	02	15	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	02	17	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	02	19	TheIpswichJournal	0002
+1820	02	19	Jackson'sOxfordJournal	0002
+1820	02	21	TheBristolMercury	0001
+1820	02	21	CaledonianMercury	0002
+1820	02	24	CaledonianMercury	0002
+1820	02	24	CaledonianMercury	0004
+1820	02	25	GlasgowHerald	0002
+1820	02	25	LiverpoolMercuryetc	0008
+1820	02	25	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	02	26	Jackson'sOxfordJournal	0001
+1820	02	26	Jackson'sOxfordJournal	0002
+1820	02	26	CaledonianMercury	0004
+1820	02	25	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	02	28	TheBristolMercury	0002
+1820	02	26	TheIpswichJournal	0002
+1820	02	26	CaledonianMercury	0002
+1820	02	26	Jackson'sOxfordJournal	0004
+1820	02	26	TheNewcastleCourantetc	0003
+1820	02	04	LiverpoolMercuryetc	0005

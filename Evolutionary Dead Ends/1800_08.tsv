@@ -1,38 +1,39 @@
-1800.08.02_Jackson'sOxfordJournal_0002,
-1800.08.02_TheIpswichJournal_0002,
-1800.08.02_Jackson'sOxfordJournal_0001,
-1800.08.02_Jackson'sOxfordJournal_0004,
-1800.08.02_CaledonianMercury_0003,
-1800.08.02_TheIpswichJournal_0004,
-1800.08.07_CaledonianMercury_0002,
-1800.08.07_CaledonianMercury_0003,
-1800.08.09_TheIpswichJournal_0004,
-1800.08.09_CaledonianMercury_0003,
-1800.08.12_TheHullPacket_0003,
-1800.08.09_Jackson'sOxfordJournal_0002,
-1800.08.09_TheIpswichJournal_0002,
-1800.08.04_CaledonianMercury_0004,
-1800.08.04_TheAberdeenJournal_0001,
-1800.08.14_CaledonianMercury_0003,
-1800.08.14_Trewman'sExeterFlyingPost_0002,
-1800.08.14_Trewman'sExeterFlyingPost_0004,
-1800.08.16_Jackson'sOxfordJournal_0002,
-1800.08.09_CaledonianMercury_0002,
-1800.08.11_CaledonianMercury_0002,
-1800.08.14_Trewman'sExeterFlyingPost_0003,
-1800.08.21_CaledonianMercury_0003,
-1800.08.21_TheDerbyMercury_0004,
-1800.08.21_Trewman'sExeterFlyingPost_0003,
-1800.08.23_Jackson'sOxfordJournal_0002,
-1800.08.21_CaledonianMercury_0002,
-1800.08.23_CaledonianMercury_0002,
-1800.08.23_Jackson'sOxfordJournal_0001,
-1800.08.26_TheHullPacket_0003,
-1800.08.23_CaledonianMercury_0003,
-1800.08.23_TheIpswichJournal_0002,
-1800.08.30_CaledonianMercury_0002,
-1800.08.25_CaledonianMercury_0002,
-1800.08.30_CaledonianMercury_0003,
-1800.08.21_Trewman'sExeterFlyingPost_0001,
-1800.08.23_TheIpswichJournal_0004,
-1800.08.16_Jackson'sOxfordJournal_0001,
+YEAR	MONTH	DAY	TITLE	PAGE
+1800	08	02	Jackson'sOxfordJournal	0002
+1800	08	02	TheIpswichJournal	0002
+1800	08	02	Jackson'sOxfordJournal	0001
+1800	08	02	Jackson'sOxfordJournal	0004
+1800	08	02	CaledonianMercury	0003
+1800	08	02	TheIpswichJournal	0004
+1800	08	07	CaledonianMercury	0002
+1800	08	07	CaledonianMercury	0003
+1800	08	09	TheIpswichJournal	0004
+1800	08	09	CaledonianMercury	0003
+1800	08	12	TheHullPacket	0003
+1800	08	09	Jackson'sOxfordJournal	0002
+1800	08	09	TheIpswichJournal	0002
+1800	08	04	CaledonianMercury	0004
+1800	08	04	TheAberdeenJournal	0001
+1800	08	14	CaledonianMercury	0003
+1800	08	14	Trewman'sExeterFlyingPost	0002
+1800	08	14	Trewman'sExeterFlyingPost	0004
+1800	08	16	Jackson'sOxfordJournal	0002
+1800	08	09	CaledonianMercury	0002
+1800	08	11	CaledonianMercury	0002
+1800	08	14	Trewman'sExeterFlyingPost	0003
+1800	08	21	CaledonianMercury	0003
+1800	08	21	TheDerbyMercury	0004
+1800	08	21	Trewman'sExeterFlyingPost	0003
+1800	08	23	Jackson'sOxfordJournal	0002
+1800	08	21	CaledonianMercury	0002
+1800	08	23	CaledonianMercury	0002
+1800	08	23	Jackson'sOxfordJournal	0001
+1800	08	26	TheHullPacket	0003
+1800	08	23	CaledonianMercury	0003
+1800	08	23	TheIpswichJournal	0002
+1800	08	30	CaledonianMercury	0002
+1800	08	25	CaledonianMercury	0002
+1800	08	30	CaledonianMercury	0003
+1800	08	21	Trewman'sExeterFlyingPost	0001
+1800	08	23	TheIpswichJournal	0004
+1800	08	16	Jackson'sOxfordJournal	0001

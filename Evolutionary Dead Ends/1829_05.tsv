@@ -1,69 +1,70 @@
-1829.05.01_TheBelfastNews-Letter_0002,
-1829.05.02_TheNewcastleCourantetc_0002,
-1829.05.01_TheBelfastNews-Letter_0004,
-1829.05.01_TheMorningChronicle_0003,
-1829.05.02_CaledonianMercury_0002,
-1829.05.02_TheNewcastleCourantetc_0004,
-1829.05.02_TheNewcastleCourantetc_0003,
-1829.05.05_TheMorningChronicle_0002,
-1829.05.08_LiverpoolMercuryetc_0008,
-1829.05.05_TheMorningChronicle_0004,
-1829.05.07_TheMorningChronicle_0003,
-1829.05.06_TheMorningChronicle_0003,
-1829.05.04_TheMorningChronicle_0002,
-1829.05.04_TheMorningChronicle_0003,
-1829.05.02_TheMorningChronicle_0001,
-1829.05.06_TheDerbyMercury_0002,
-1829.05.09_TheNewcastleCourantetc_0004,
-1829.05.05_TheMorningChronicle_0003,
-1829.05.09_TheLeedsMercury_0003,
-1829.05.01_TheMorningChronicle_0004,
-1829.05.09_TheMorningChronicle_0001,
-1829.05.12_TheMorningChronicle_0003,
-1829.05.11_CaledonianMercury_0004,
-1829.05.12_TheMorningChronicle_0004,
-1829.05.12_TheMorningChronicle_0001,
-1829.05.13_TheMorningChronicle_0001,
-1829.05.16_TheNewcastleCourantetc_0004,
-1829.05.16_TheLeedsMercury_0001,
-1829.05.18_TheMorningChronicle_0002,
-1829.05.21_CaledonianMercury_0003,
-1829.05.19_TheMorningChronicle_0003,
-1829.05.13_TheMorningChronicle_0002,
-1829.05.19_TheMorningChronicle_0004,
-1829.05.20_TheMorningChronicle_0001,
-1829.05.14_TheMorningChronicle_0002,
-1829.05.14_TheMorningChronicle_0003,
-1829.05.22_LiverpoolMercuryetc_0003,
-1829.05.19_TheMorningChronicle_0002,
-1829.05.09_TheLeedsMercury_0001,
-1829.05.21_TheMorningChronicle_0002,
-1829.05.25_HampshireTelegraphandSussexChronicleetc_0002,
-1829.05.12_TheBelfastNews-Letter_0001,
-1829.05.25_CaledonianMercury_0001,
-1829.05.25_HampshireTelegraphandSussexChronicleetc_0003,
-1829.05.23_TheManchesterTimes_0004,
-1829.05.25_TheMorningChronicle_0002,
-1829.05.27_TheMorningChronicle_0002,
-1829.05.25_TheMorningChronicle_0003,
-1829.05.16_TheManchesterTimes_0001,
-1829.05.25_TheMorningChronicle_0004,
-1829.05.16_CaledonianMercury_0001,
-1829.05.22_TheMorningChronicle_0003,
-1829.05.25_CaledonianMercury_0002,
-1829.05.23_TheLeedsMercury_0001,
-1829.05.26_TheMorningChronicle_0002,
-1829.05.02_TheManchesterTimes_0004,
-1829.05.16_TheNewcastleCourantetc_0001,
-1829.05.29_TheMorningChronicle_0003,
-1829.05.30_TheMorningChronicle_0003,
-1829.05.30_TheMorningChronicle_0002,
-1829.05.23_CaledonianMercury_0004,
-1829.05.29_TheMorningChronicle_0004,
-1829.05.21_CaledonianMercury_0004,
-1829.05.04_CaledonianMercury_0001,
-1829.05.23_TheNewcastleCourantetc_0003,
-1829.05.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,
-1829.05.08_LiverpoolMercuryetc_0007,
-1829.05.18_TheMorningChronicle_0001,
-1829.05.30_TheLeedsMercury_0004,
+YEAR	MONTH	DAY	TITLE	PAGE
+1829	05	01	TheBelfastNews-Letter	0002
+1829	05	02	TheNewcastleCourantetc	0002
+1829	05	01	TheBelfastNews-Letter	0004
+1829	05	01	TheMorningChronicle	0003
+1829	05	02	CaledonianMercury	0002
+1829	05	02	TheNewcastleCourantetc	0004
+1829	05	02	TheNewcastleCourantetc	0003
+1829	05	05	TheMorningChronicle	0002
+1829	05	08	LiverpoolMercuryetc	0008
+1829	05	05	TheMorningChronicle	0004
+1829	05	07	TheMorningChronicle	0003
+1829	05	06	TheMorningChronicle	0003
+1829	05	04	TheMorningChronicle	0002
+1829	05	04	TheMorningChronicle	0003
+1829	05	02	TheMorningChronicle	0001
+1829	05	06	TheDerbyMercury	0002
+1829	05	09	TheNewcastleCourantetc	0004
+1829	05	05	TheMorningChronicle	0003
+1829	05	09	TheLeedsMercury	0003
+1829	05	01	TheMorningChronicle	0004
+1829	05	09	TheMorningChronicle	0001
+1829	05	12	TheMorningChronicle	0003
+1829	05	11	CaledonianMercury	0004
+1829	05	12	TheMorningChronicle	0004
+1829	05	12	TheMorningChronicle	0001
+1829	05	13	TheMorningChronicle	0001
+1829	05	16	TheNewcastleCourantetc	0004
+1829	05	16	TheLeedsMercury	0001
+1829	05	18	TheMorningChronicle	0002
+1829	05	21	CaledonianMercury	0003
+1829	05	19	TheMorningChronicle	0003
+1829	05	13	TheMorningChronicle	0002
+1829	05	19	TheMorningChronicle	0004
+1829	05	20	TheMorningChronicle	0001
+1829	05	14	TheMorningChronicle	0002
+1829	05	14	TheMorningChronicle	0003
+1829	05	22	LiverpoolMercuryetc	0003
+1829	05	19	TheMorningChronicle	0002
+1829	05	09	TheLeedsMercury	0001
+1829	05	21	TheMorningChronicle	0002
+1829	05	25	HampshireTelegraphandSussexChronicleetc	0002
+1829	05	12	TheBelfastNews-Letter	0001
+1829	05	25	CaledonianMercury	0001
+1829	05	25	HampshireTelegraphandSussexChronicleetc	0003
+1829	05	23	TheManchesterTimes	0004
+1829	05	25	TheMorningChronicle	0002
+1829	05	27	TheMorningChronicle	0002
+1829	05	25	TheMorningChronicle	0003
+1829	05	16	TheManchesterTimes	0001
+1829	05	25	TheMorningChronicle	0004
+1829	05	16	CaledonianMercury	0001
+1829	05	22	TheMorningChronicle	0003
+1829	05	25	CaledonianMercury	0002
+1829	05	23	TheLeedsMercury	0001
+1829	05	26	TheMorningChronicle	0002
+1829	05	02	TheManchesterTimes	0004
+1829	05	16	TheNewcastleCourantetc	0001
+1829	05	29	TheMorningChronicle	0003
+1829	05	30	TheMorningChronicle	0003
+1829	05	30	TheMorningChronicle	0002
+1829	05	23	CaledonianMercury	0004
+1829	05	29	TheMorningChronicle	0004
+1829	05	21	CaledonianMercury	0004
+1829	05	04	CaledonianMercury	0001
+1829	05	23	TheNewcastleCourantetc	0003
+1829	05	07	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1829	05	08	LiverpoolMercuryetc	0007
+1829	05	18	TheMorningChronicle	0001
+1829	05	30	TheLeedsMercury	0004

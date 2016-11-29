@@ -1,43 +1,44 @@
-1803.11.02_TheAberdeenJournal_0003,
-1803.11.01_TheHullPacket_0001,
-1803.11.03_TheMorningChronicle_0002,
-1803.11.03_TheDerbyMercury_0002,
-1803.11.03_Trewman'sExeterFlyingPost_0001,
-1803.11.05_Cobbett'sAnnualRegister_0004,
-1803.11.02_TheMorningChronicle_0003,
-1803.11.05_Jackson'sOxfordJournal_0001,
-1803.11.09_TheMorningChronicle_0001,
-1803.11.10_Trewman'sExeterFlyingPost_0004,
-1803.11.10_TheDerbyMercury_0004,
-1803.11.10_Trewman'sExeterFlyingPost_0003,
-1803.11.05_Cobbett'sAnnualRegister_0005,
-1803.11.12_Jackson'sOxfordJournal_0001,
-1803.11.14_HampshireTelegraphandSussexChronicleetc_0003,
-1803.11.10_TheMorningChronicle_0003,
-1803.11.12_Jackson'sOxfordJournal_0003,
-1803.11.15_TheHullPacket_0002,
-1803.11.15_TheHullPacket_0003,
-1803.11.12_TheMorningChronicle_0003,
-1803.11.15_TheMorningChronicle_0002,
-1803.11.15_TheMorningChronicle_0004,
-1803.11.16_TheMorningChronicle_0002,
-1803.11.17_TheDerbyMercury_0002,
-1803.11.18_TheMorningChronicle_0002,
-1803.11.14_TheMorningChronicle_0001,
-1803.11.17_Trewman'sExeterFlyingPost_0003,
-1803.11.10_TheMorningChronicle_0004,
-1803.11.17_TheDerbyMercury_0001,
-1803.11.19_TheNewcastleCourantetc_0004,
-1803.11.23_TheMorningChronicle_0001,
-1803.11.23_TheMorningChronicle_0002,
-1803.11.22_TheMorningChronicle_0002,
-1803.11.24_TheDerbyMercury_0003,
-1803.11.24_Trewman'sExeterFlyingPost_0003,
-1803.11.19_TheMorningChronicle_0003,
-1803.11.05_TheNewcastleCourantetc_0003,
-1803.11.25_TheMorningChronicle_0002,
-1803.11.26_TheMorningChronicle_0003,
-1803.11.30_TheMorningChronicle_0002,
-1803.11.03_Trewman'sExeterFlyingPost_0002,
-1803.11.19_TheIpswichJournal_0004,
-1803.11.03_TheDerbyMercury_0001,
+YEAR	MONTH	DAY	TITLE	PAGE
+1803	11	02	TheAberdeenJournal	0003
+1803	11	01	TheHullPacket	0001
+1803	11	03	TheMorningChronicle	0002
+1803	11	03	TheDerbyMercury	0002
+1803	11	03	Trewman'sExeterFlyingPost	0001
+1803	11	05	Cobbett'sAnnualRegister	0004
+1803	11	02	TheMorningChronicle	0003
+1803	11	05	Jackson'sOxfordJournal	0001
+1803	11	09	TheMorningChronicle	0001
+1803	11	10	Trewman'sExeterFlyingPost	0004
+1803	11	10	TheDerbyMercury	0004
+1803	11	10	Trewman'sExeterFlyingPost	0003
+1803	11	05	Cobbett'sAnnualRegister	0005
+1803	11	12	Jackson'sOxfordJournal	0001
+1803	11	14	HampshireTelegraphandSussexChronicleetc	0003
+1803	11	10	TheMorningChronicle	0003
+1803	11	12	Jackson'sOxfordJournal	0003
+1803	11	15	TheHullPacket	0002
+1803	11	15	TheHullPacket	0003
+1803	11	12	TheMorningChronicle	0003
+1803	11	15	TheMorningChronicle	0002
+1803	11	15	TheMorningChronicle	0004
+1803	11	16	TheMorningChronicle	0002
+1803	11	17	TheDerbyMercury	0002
+1803	11	18	TheMorningChronicle	0002
+1803	11	14	TheMorningChronicle	0001
+1803	11	17	Trewman'sExeterFlyingPost	0003
+1803	11	10	TheMorningChronicle	0004
+1803	11	17	TheDerbyMercury	0001
+1803	11	19	TheNewcastleCourantetc	0004
+1803	11	23	TheMorningChronicle	0001
+1803	11	23	TheMorningChronicle	0002
+1803	11	22	TheMorningChronicle	0002
+1803	11	24	TheDerbyMercury	0003
+1803	11	24	Trewman'sExeterFlyingPost	0003
+1803	11	19	TheMorningChronicle	0003
+1803	11	05	TheNewcastleCourantetc	0003
+1803	11	25	TheMorningChronicle	0002
+1803	11	26	TheMorningChronicle	0003
+1803	11	30	TheMorningChronicle	0002
+1803	11	03	Trewman'sExeterFlyingPost	0002
+1803	11	19	TheIpswichJournal	0004
+1803	11	03	TheDerbyMercury	0001

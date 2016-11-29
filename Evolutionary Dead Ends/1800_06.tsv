@@ -1,42 +1,43 @@
-1800.06.02_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003,
-1800.06.05_Trewman'sExeterFlyingPost_0003,
-1800.06.05_CaledonianMercury_0002,
-1800.06.05_CaledonianMercury_0003,
-1800.06.05_TheDerbyMercury_0002,
-1800.06.05_Trewman'sExeterFlyingPost_0002,
-1800.06.02_CaledonianMercury_0004,
-1800.06.05_CaledonianMercury_0004,
-1800.06.07_CaledonianMercury_0004,
-1800.06.02_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,
-1800.06.02_CaledonianMercury_0002,
-1800.06.05_TheDerbyMercury_0004,
-1800.06.05_Trewman'sExeterFlyingPost_0004,
-1800.06.07_TheIpswichJournal_0001,
-1800.06.02_TheAberdeenJournal_0001,
-1800.06.07_Jackson'sOxfordJournal_0001,
-1800.06.12_TheDerbyMercury_0004,
-1800.06.12_Trewman'sExeterFlyingPost_0004,
-1800.06.12_Trewman'sExeterFlyingPost_0003,
-1800.06.07_CaledonianMercury_0003,
-1800.06.17_TheHullPacket_0003,
-1800.06.16_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003,
-1800.06.21_CaledonianMercury_0002,
-1800.06.19_CaledonianMercury_0002,
-1800.06.19_CaledonianMercury_0003,
-1800.06.16_CaledonianMercury_0003,
-1800.06.23_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003,
-1800.06.09_CaledonianMercury_0004,
-1800.06.16_CaledonianMercury_0004,
-1800.06.28_CaledonianMercury_0003,
-1800.06.28_TheIpswichJournal_0002,
-1800.06.16_CaledonianMercury_0001,
-1800.06.21_CaledonianMercury_0003,
-1800.06.23_CaledonianMercury_0003,
-1800.06.26_CaledonianMercury_0003,
-1800.06.30_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003,
-1800.06.30_CaledonianMercury_0002,
-1800.06.05_TheDerbyMercury_0001,
-1800.06.23_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002,
-1800.06.05_CaledonianMercury_0001,
-1800.06.19_TheDerbyMercury_0001,
-1800.06.19_Trewman'sExeterFlyingPost_0001,
+YEAR	MONTH	DAY	TITLE	PAGE
+1800	06	02	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0003
+1800	06	05	Trewman'sExeterFlyingPost	0003
+1800	06	05	CaledonianMercury	0002
+1800	06	05	CaledonianMercury	0003
+1800	06	05	TheDerbyMercury	0002
+1800	06	05	Trewman'sExeterFlyingPost	0002
+1800	06	02	CaledonianMercury	0004
+1800	06	05	CaledonianMercury	0004
+1800	06	07	CaledonianMercury	0004
+1800	06	02	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	06	02	CaledonianMercury	0002
+1800	06	05	TheDerbyMercury	0004
+1800	06	05	Trewman'sExeterFlyingPost	0004
+1800	06	07	TheIpswichJournal	0001
+1800	06	02	TheAberdeenJournal	0001
+1800	06	07	Jackson'sOxfordJournal	0001
+1800	06	12	TheDerbyMercury	0004
+1800	06	12	Trewman'sExeterFlyingPost	0004
+1800	06	12	Trewman'sExeterFlyingPost	0003
+1800	06	07	CaledonianMercury	0003
+1800	06	17	TheHullPacket	0003
+1800	06	16	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0003
+1800	06	21	CaledonianMercury	0002
+1800	06	19	CaledonianMercury	0002
+1800	06	19	CaledonianMercury	0003
+1800	06	16	CaledonianMercury	0003
+1800	06	23	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0003
+1800	06	09	CaledonianMercury	0004
+1800	06	16	CaledonianMercury	0004
+1800	06	28	CaledonianMercury	0003
+1800	06	28	TheIpswichJournal	0002
+1800	06	16	CaledonianMercury	0001
+1800	06	21	CaledonianMercury	0003
+1800	06	23	CaledonianMercury	0003
+1800	06	26	CaledonianMercury	0003
+1800	06	30	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0003
+1800	06	30	CaledonianMercury	0002
+1800	06	05	TheDerbyMercury	0001
+1800	06	23	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0002
+1800	06	05	CaledonianMercury	0001
+1800	06	19	TheDerbyMercury	0001
+1800	06	19	Trewman'sExeterFlyingPost	0001

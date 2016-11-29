@@ -1,33 +1,34 @@
-1805.05.02_CaledonianMercury_0002,
-1805.05.02_TheDerbyMercury_0002,
-1805.05.01_TheMorningChronicle_0003,
-1805.05.02_TheMorningChronicle_0002,
-1805.05.02_Trewman'sExeterFlyingPost_0004,
-1805.05.04_Jackson'sOxfordJournal_0001,
-1805.05.04_CaledonianMercury_0004,
-1805.05.02_CaledonianMercury_0003,
-1805.05.04_TheNewcastleCourantetc_0004,
-1805.05.07_TheMorningChronicle_0003,
-1805.05.04_TheNewcastleCourantetc_0003,
-1805.05.08_TheMorningChronicle_0002,
-1805.05.08_TheMorningChronicle_0003,
-1805.05.04_TheIpswichJournal_0002,
-1805.05.04_TheIpswichJournal_0004,
-1805.05.09_TheDerbyMercury_0004,
-1805.05.10_TheMorningChronicle_0003,
-1805.05.09_CaledonianMercury_0004,
-1805.05.09_CaledonianMercury_0002,
-1805.05.16_CaledonianMercury_0003,
-1805.05.18_Jackson'sOxfordJournal_0002,
-1805.05.25_Jackson'sOxfordJournal_0001,
-1805.05.25_Jackson'sOxfordJournal_0004,
-1805.05.25_Jackson'sOxfordJournal_0002,
-1805.05.27_TheMorningChronicle_0002,
-1805.05.28_TheMorningChronicle_0002,
-1805.05.28_TheMorningChronicle_0003,
-1805.05.22_HampshireTelegraphandSussexChronicleetc_0002,
-1805.05.31_TheMorningChronicle_0003,
-1805.05.16_Trewman'sExeterFlyingPost_0003,
-1805.05.30_CaledonianMercury_0002,
-1805.05.23_Trewman'sExeterFlyingPost_0003,
-1805.05.30_TheDerbyMercury_0004,
+YEAR	MONTH	DAY	TITLE	PAGE
+1805	05	02	CaledonianMercury	0002
+1805	05	02	TheDerbyMercury	0002
+1805	05	01	TheMorningChronicle	0003
+1805	05	02	TheMorningChronicle	0002
+1805	05	02	Trewman'sExeterFlyingPost	0004
+1805	05	04	Jackson'sOxfordJournal	0001
+1805	05	04	CaledonianMercury	0004
+1805	05	02	CaledonianMercury	0003
+1805	05	04	TheNewcastleCourantetc	0004
+1805	05	07	TheMorningChronicle	0003
+1805	05	04	TheNewcastleCourantetc	0003
+1805	05	08	TheMorningChronicle	0002
+1805	05	08	TheMorningChronicle	0003
+1805	05	04	TheIpswichJournal	0002
+1805	05	04	TheIpswichJournal	0004
+1805	05	09	TheDerbyMercury	0004
+1805	05	10	TheMorningChronicle	0003
+1805	05	09	CaledonianMercury	0004
+1805	05	09	CaledonianMercury	0002
+1805	05	16	CaledonianMercury	0003
+1805	05	18	Jackson'sOxfordJournal	0002
+1805	05	25	Jackson'sOxfordJournal	0001
+1805	05	25	Jackson'sOxfordJournal	0004
+1805	05	25	Jackson'sOxfordJournal	0002
+1805	05	27	TheMorningChronicle	0002
+1805	05	28	TheMorningChronicle	0002
+1805	05	28	TheMorningChronicle	0003
+1805	05	22	HampshireTelegraphandSussexChronicleetc	0002
+1805	05	31	TheMorningChronicle	0003
+1805	05	16	Trewman'sExeterFlyingPost	0003
+1805	05	30	CaledonianMercury	0002
+1805	05	23	Trewman'sExeterFlyingPost	0003
+1805	05	30	TheDerbyMercury	0004

@@ -1,77 +1,78 @@
-1825.06.01_TheDerbyMercury_0002,
-1825.06.01_TheMorningChronicle_0003,
-1825.06.02_TheMorningChronicle_0002,
-1825.06.01_TheDerbyMercury_0001,
-1825.06.04_CaledonianMercury_0002,
-1825.06.01_TheMorningChronicle_0001,
-1825.06.01_TheMorningChronicle_0002,
-1825.06.04_TheMorningChronicle_0001,
-1825.06.04_TheIpswichJournal_0004,
-1825.06.05_TheExaminer_0003,
-1825.06.05_TheExaminer_0007,
-1825.06.07_TheMorningChronicle_0002,
-1825.06.08_TheMorningChronicle_0002,
-1825.06.08_TheMorningChronicle_0003,
-1825.06.10_TheMorningChronicle_0003,
-1825.06.08_TheMorningChronicle_0004,
-1825.06.12_TheExaminer_0006,
-1825.06.10_TheMorningChronicle_0004,
-1825.06.09_TheMorningChronicle_0002,
-1825.06.11_TheMorningChronicle_0003,
-1825.06.13_TheBristolMercury_0002,
-1825.06.13_TheMorningChronicle_0002,
-1825.06.07_TheMorningChronicle_0004,
-1825.06.14_TheMorningChronicle_0002,
-1825.06.10_TheMorningChronicle_0002,
-1825.06.16_TheMorningChronicle_0002,
-1825.06.17_TheMorningChronicle_0003,
-1825.06.18_TheIpswichJournal_0002,
-1825.06.15_TheMorningChronicle_0002,
-1825.06.10_LiverpoolMercuryetc_0008,
-1825.06.06_HampshireTelegraphandSussexChronicleetc_0004,
-1825.06.09_CaledonianMercury_0003,
-1825.06.18_CaledonianMercury_0002,
-1825.06.19_TheExaminer_0006,
-1825.06.19_TheExaminer_0007,
-1825.06.16_TheMorningChronicle_0004,
-1825.06.20_HampshireTelegraphandSussexChronicleetc_0003,
-1825.06.20_TheBristolMercury_0002,
-1825.06.18_TheMorningChronicle_0002,
-1825.06.18_TheMorningChronicle_0003,
-1825.06.22_TheDerbyMercury_0002,
-1825.06.17_LiverpoolMercuryetc_0005,
-1825.06.12_TheExaminer_0015,
-1825.06.19_TheExaminer_0010,
-1825.06.04_CaledonianMercury_0001,
-1825.06.04_TheNewcastleCourantetc_0003,
-1825.06.18_TheNewcastleCourantetc_0003,
-1825.06.22_TheMorningChronicle_0001,
-1825.06.23_TheMorningChronicle_0002,
-1825.06.20_TheMorningChronicle_0003,
-1825.06.15_TheMorningChronicle_0004,
-1825.06.24_TheMorningChronicle_0002,
-1825.06.21_TheMorningChronicle_0003,
-1825.06.26_TheExaminer_0011,
-1825.06.20_HampshireTelegraphandSussexChronicleetc_0004,
-1825.06.22_TheMorningChronicle_0004,
-1825.06.25_TheIpswichJournal_0002,
-1825.06.26_TheExaminer_0005,
-1825.06.22_TheMorningChronicle_0003,
-1825.06.14_TheMorningChronicle_0003,
-1825.06.11_TheIpswichJournal_0001,
-1825.06.25_TheIpswichJournal_0001,
-1825.06.12_TheExaminer_0016,
-1825.06.27_HampshireTelegraphandSussexChronicleetc_0004,
-1825.06.25_TheMorningChronicle_0003,
-1825.06.11_CaledonianMercury_0001,
-1825.06.18_CaledonianMercury_0001,
-1825.06.29_TheMorningChronicle_0003,
-1825.06.23_CaledonianMercury_0001,
-1825.06.20_CaledonianMercury_0001,
-1825.06.30_TheMorningChronicle_0002,
-1825.06.26_TheExaminer_0015,
-1825.06.27_TheMorningChronicle_0003,
-1825.06.16_CaledonianMercury_0003,
-1825.06.27_CaledonianMercury_0003,
-1825.06.04_TheLeedsMercury_0004,
-1825.06.11_TheLeedsMercury_0001,
+YEAR	MONTH	DAY	TITLE	PAGE
+1825	06	01	TheDerbyMercury	0002
+1825	06	01	TheMorningChronicle	0003
+1825	06	02	TheMorningChronicle	0002
+1825	06	01	TheDerbyMercury	0001
+1825	06	04	CaledonianMercury	0002
+1825	06	01	TheMorningChronicle	0001
+1825	06	01	TheMorningChronicle	0002
+1825	06	04	TheMorningChronicle	0001
+1825	06	04	TheIpswichJournal	0004
+1825	06	05	TheExaminer	0003
+1825	06	05	TheExaminer	0007
+1825	06	07	TheMorningChronicle	0002
+1825	06	08	TheMorningChronicle	0002
+1825	06	08	TheMorningChronicle	0003
+1825	06	10	TheMorningChronicle	0003
+1825	06	08	TheMorningChronicle	0004
+1825	06	12	TheExaminer	0006
+1825	06	10	TheMorningChronicle	0004
+1825	06	09	TheMorningChronicle	0002
+1825	06	11	TheMorningChronicle	0003
+1825	06	13	TheBristolMercury	0002
+1825	06	13	TheMorningChronicle	0002
+1825	06	07	TheMorningChronicle	0004
+1825	06	14	TheMorningChronicle	0002
+1825	06	10	TheMorningChronicle	0002
+1825	06	16	TheMorningChronicle	0002
+1825	06	17	TheMorningChronicle	0003
+1825	06	18	TheIpswichJournal	0002
+1825	06	15	TheMorningChronicle	0002
+1825	06	10	LiverpoolMercuryetc	0008
+1825	06	06	HampshireTelegraphandSussexChronicleetc	0004
+1825	06	09	CaledonianMercury	0003
+1825	06	18	CaledonianMercury	0002
+1825	06	19	TheExaminer	0006
+1825	06	19	TheExaminer	0007
+1825	06	16	TheMorningChronicle	0004
+1825	06	20	HampshireTelegraphandSussexChronicleetc	0003
+1825	06	20	TheBristolMercury	0002
+1825	06	18	TheMorningChronicle	0002
+1825	06	18	TheMorningChronicle	0003
+1825	06	22	TheDerbyMercury	0002
+1825	06	17	LiverpoolMercuryetc	0005
+1825	06	12	TheExaminer	0015
+1825	06	19	TheExaminer	0010
+1825	06	04	CaledonianMercury	0001
+1825	06	04	TheNewcastleCourantetc	0003
+1825	06	18	TheNewcastleCourantetc	0003
+1825	06	22	TheMorningChronicle	0001
+1825	06	23	TheMorningChronicle	0002
+1825	06	20	TheMorningChronicle	0003
+1825	06	15	TheMorningChronicle	0004
+1825	06	24	TheMorningChronicle	0002
+1825	06	21	TheMorningChronicle	0003
+1825	06	26	TheExaminer	0011
+1825	06	20	HampshireTelegraphandSussexChronicleetc	0004
+1825	06	22	TheMorningChronicle	0004
+1825	06	25	TheIpswichJournal	0002
+1825	06	26	TheExaminer	0005
+1825	06	22	TheMorningChronicle	0003
+1825	06	14	TheMorningChronicle	0003
+1825	06	11	TheIpswichJournal	0001
+1825	06	25	TheIpswichJournal	0001
+1825	06	12	TheExaminer	0016
+1825	06	27	HampshireTelegraphandSussexChronicleetc	0004
+1825	06	25	TheMorningChronicle	0003
+1825	06	11	CaledonianMercury	0001
+1825	06	18	CaledonianMercury	0001
+1825	06	29	TheMorningChronicle	0003
+1825	06	23	CaledonianMercury	0001
+1825	06	20	CaledonianMercury	0001
+1825	06	30	TheMorningChronicle	0002
+1825	06	26	TheExaminer	0015
+1825	06	27	TheMorningChronicle	0003
+1825	06	16	CaledonianMercury	0003
+1825	06	27	CaledonianMercury	0003
+1825	06	04	TheLeedsMercury	0004
+1825	06	11	TheLeedsMercury	0001

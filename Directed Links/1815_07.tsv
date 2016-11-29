@@ -1,3 +1,4 @@
-1815.07.02_TheExaminer_0003,1815.07.01_Jackson'sOxfordJournal_0002
-1815.07.02_TheExaminer_0014,1815.07.01_Jackson'sOxfordJournal_0003
-1815.07.03_CaledonianMercury_0002,1815.07.01_Jackson'sOxfordJournal_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1815	07	02	TheExaminer	0003	1815	07	01	Jackson'sOxfordJournal	0002
+1815	07	02	TheExaminer	0014	1815	07	01	Jackson'sOxfordJournal	0003
+1815	07	03	CaledonianMercury	0002	1815	07	01	Jackson'sOxfordJournal	0003

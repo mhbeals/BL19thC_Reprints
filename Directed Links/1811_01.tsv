@@ -1,7 +1,8 @@
-1811.01.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,1811.01.02_TheMorningChronicle_0001
-1811.01.05_CaledonianMercury_0003,1811.01.03_TheMorningChronicle_0001
-1811.01.05_TheLeedsMercury_0003,1811.01.03_TheMorningChronicle_0001
-1811.01.06_TheExaminer_0002,1811.01.03_TheMorningChronicle_0001
-1811.01.06_TheExaminer_0005,1811.01.03_TheMorningChronicle_0001
-1811.01.07_CaledonianMercury_0003,1811.01.04_TheMorningChronicle_0003
-1811.01.07_CaledonianMercury_0004,1811.01.03_TheMorningChronicle_0001
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1811	01	03	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004	1811	01	02	TheMorningChronicle	0001
+1811	01	05	CaledonianMercury	0003	1811	01	03	TheMorningChronicle	0001
+1811	01	05	TheLeedsMercury	0003	1811	01	03	TheMorningChronicle	0001
+1811	01	06	TheExaminer	0002	1811	01	03	TheMorningChronicle	0001
+1811	01	06	TheExaminer	0005	1811	01	03	TheMorningChronicle	0001
+1811	01	07	CaledonianMercury	0003	1811	01	04	TheMorningChronicle	0003
+1811	01	07	CaledonianMercury	0004	1811	01	03	TheMorningChronicle	0001

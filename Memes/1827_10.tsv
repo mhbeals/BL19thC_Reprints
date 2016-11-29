@@ -1,33 +1,34 @@
-1827.10.01_TheMorningChronicle_0002,1827.10.01_HampshireTelegraphandSussexChronicleetc_0004
-1827.10.03_TheAberdeenJournal_0004,1827.10.01_CaledonianMercury_0003
-1827.10.03_TheDerbyMercury_0002,1827.10.01_TheMorningChronicle_0003
-1827.10.03_TheDerbyMercury_0002,1827.10.02_TheMorningChronicle_0002
-1827.10.03_TheMorningChronicle_0004,1827.10.01_CaledonianMercury_0003
-1827.10.03_TheMorningChronicle_0004,1827.10.03_TheAberdeenJournal_0004
-1827.10.04_CaledonianMercury_0004,1827.10.01_HampshireTelegraphandSussexChronicleetc_0004
-1827.10.04_NorthWalesChronicle_0003,1827.10.03_TheDerbyMercury_0004
-1827.10.04_TheMorningChronicle_0001,1827.10.01_TheBristolMercury_0004
-1827.10.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1827.10.01_TheBristolMercury_0001
-1827.10.05_LiverpoolMercuryetc_0002,1827.10.04_NorthWalesChronicle_0003
-1827.10.06_CaledonianMercury_0001,1827.10.03_TheAberdeenJournal_0001
-1827.10.06_CaledonianMercury_0004,1827.10.03_TheAberdeenJournal_0004
-1827.10.06_Cobbett'sWeeklyPoliticalRegister_0028,1827.10.05_LiverpoolMercuryetc_0003
-1827.10.06_Cobbett'sWeeklyPoliticalRegister_0029,1827.10.03_TheDerbyMercury_0004
-1827.10.06_TheIpswichJournal_0002,1827.10.02_TheMorningChronicle_0004
-1827.10.06_TheIpswichJournal_0004,1827.10.02_TheMorningChronicle_0002
-1827.10.06_TheIpswichJournal_0004,1827.10.04_NorthWalesChronicle_0003
-1827.10.06_TheLeedsMercury_0004,1827.10.04_NorthWalesChronicle_0003
-1827.10.06_TheNewcastleCourantetc_0002,1827.10.02_TheMorningChronicle_0001
-1827.10.06_TheNewcastleCourantetc_0003,1827.10.03_TheDerbyMercury_0001
-1827.10.07_TheExaminer_0002,1827.10.04_TheMorningChronicle_0002
-1827.10.07_TheExaminer_0002,1827.10.04_TheMorningChronicle_0003
-1827.10.07_TheExaminer_0003,1827.10.04_TheMorningChronicle_0002
-1827.10.07_TheExaminer_0003,1827.10.06_TheMorningChronicle_0002
-1827.10.07_TheExaminer_0010,1827.10.06_TheIpswichJournal_0004
-1827.10.07_TheExaminer_0012,1827.10.03_TheMorningChronicle_0004
-1827.10.08_CaledonianMercury_0002,1827.10.05_TheMorningChronicle_0004
-1827.10.08_TheBristolMercury_0002,1827.10.01_TheMorningChronicle_0001
-1827.10.08_TheBristolMercury_0002,1827.10.08_HampshireTelegraphandSussexChronicleetc_0001
-1827.10.08_TheBristolMercury_0003,1827.10.04_NorthWalesChronicle_0003
-1827.10.08_TheMorningChronicle_0003,1827.10.08_HampshireTelegraphandSussexChronicleetc_0004
-1827.10.08_TheMorningChronicle_0004,1827.10.03_TheDerbyMercury_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1827	10	01	TheMorningChronicle	0002	1827	10	01	HampshireTelegraphandSussexChronicleetc	0004
+1827	10	03	TheAberdeenJournal	0004	1827	10	01	CaledonianMercury	0003
+1827	10	03	TheDerbyMercury	0002	1827	10	01	TheMorningChronicle	0003
+1827	10	03	TheDerbyMercury	0002	1827	10	02	TheMorningChronicle	0002
+1827	10	03	TheMorningChronicle	0004	1827	10	01	CaledonianMercury	0003
+1827	10	03	TheMorningChronicle	0004	1827	10	03	TheAberdeenJournal	0004
+1827	10	04	CaledonianMercury	0004	1827	10	01	HampshireTelegraphandSussexChronicleetc	0004
+1827	10	04	NorthWalesChronicle	0003	1827	10	03	TheDerbyMercury	0004
+1827	10	04	TheMorningChronicle	0001	1827	10	01	TheBristolMercury	0004
+1827	10	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1827	10	01	TheBristolMercury	0001
+1827	10	05	LiverpoolMercuryetc	0002	1827	10	04	NorthWalesChronicle	0003
+1827	10	06	CaledonianMercury	0001	1827	10	03	TheAberdeenJournal	0001
+1827	10	06	CaledonianMercury	0004	1827	10	03	TheAberdeenJournal	0004
+1827	10	06	Cobbett'sWeeklyPoliticalRegister	0028	1827	10	05	LiverpoolMercuryetc	0003
+1827	10	06	Cobbett'sWeeklyPoliticalRegister	0029	1827	10	03	TheDerbyMercury	0004
+1827	10	06	TheIpswichJournal	0002	1827	10	02	TheMorningChronicle	0004
+1827	10	06	TheIpswichJournal	0004	1827	10	02	TheMorningChronicle	0002
+1827	10	06	TheIpswichJournal	0004	1827	10	04	NorthWalesChronicle	0003
+1827	10	06	TheLeedsMercury	0004	1827	10	04	NorthWalesChronicle	0003
+1827	10	06	TheNewcastleCourantetc	0002	1827	10	02	TheMorningChronicle	0001
+1827	10	06	TheNewcastleCourantetc	0003	1827	10	03	TheDerbyMercury	0001
+1827	10	07	TheExaminer	0002	1827	10	04	TheMorningChronicle	0002
+1827	10	07	TheExaminer	0002	1827	10	04	TheMorningChronicle	0003
+1827	10	07	TheExaminer	0003	1827	10	04	TheMorningChronicle	0002
+1827	10	07	TheExaminer	0003	1827	10	06	TheMorningChronicle	0002
+1827	10	07	TheExaminer	0010	1827	10	06	TheIpswichJournal	0004
+1827	10	07	TheExaminer	0012	1827	10	03	TheMorningChronicle	0004
+1827	10	08	CaledonianMercury	0002	1827	10	05	TheMorningChronicle	0004
+1827	10	08	TheBristolMercury	0002	1827	10	01	TheMorningChronicle	0001
+1827	10	08	TheBristolMercury	0002	1827	10	08	HampshireTelegraphandSussexChronicleetc	0001
+1827	10	08	TheBristolMercury	0003	1827	10	04	NorthWalesChronicle	0003
+1827	10	08	TheMorningChronicle	0003	1827	10	08	HampshireTelegraphandSussexChronicleetc	0004
+1827	10	08	TheMorningChronicle	0004	1827	10	03	TheDerbyMercury	0004

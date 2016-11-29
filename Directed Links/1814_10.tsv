@@ -1,3 +1,4 @@
-1814.10.02_TheExaminer_0002,1814.10.01_TheMorningChronicle_0002
-1814.10.02_TheExaminer_0003,1814.10.01_CaledonianMercury_0002
-1814.10.03_CaledonianMercury_0003,1814.10.02_TheExaminer_0010
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1814	10	02	TheExaminer	0002	1814	10	01	TheMorningChronicle	0002
+1814	10	02	TheExaminer	0003	1814	10	01	CaledonianMercury	0002
+1814	10	03	CaledonianMercury	0003	1814	10	02	TheExaminer	0010

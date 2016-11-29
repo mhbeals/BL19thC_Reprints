@@ -1,17 +1,18 @@
-1810.11.03_Jackson'sOxfordJournal_0004,1810.11.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1810.11.03_Jackson'sOxfordJournal_0004,1810.11.03_Cobbett'sWeeklyPoliticalRegister_0016
-1810.11.03_TheIpswichJournal_0004,1810.11.03_Jackson'sOxfordJournal_0004
-1810.11.05_CaledonianMercury_0002,1810.11.03_Cobbett'sWeeklyPoliticalRegister_0010
-1810.11.07_TheAberdeenJournal_0002,1810.11.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1810.11.07_TheAberdeenJournal_0003,1810.11.01_TheDerbyMercury_0002
-1810.11.08_CaledonianMercury_0004,1810.11.07_Cobbett'sWeeklyPoliticalRegister_0015
-1810.11.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1810.11.03_Cobbett'sWeeklyPoliticalRegister_0011
-1810.11.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1810.11.05_CaledonianMercury_0002
-1810.11.10_Cobbett'sWeeklyPoliticalRegister_0010,1810.11.08_TheMorningChronicle_0003
-1810.11.10_Cobbett'sWeeklyPoliticalRegister_0011,1810.11.08_TheMorningChronicle_0003
-1810.11.10_Jackson'sOxfordJournal_0004,1810.11.05_TheMorningChronicle_0003
-1810.11.10_Jackson'sOxfordJournal_0004,1810.11.08_CaledonianMercury_0002
-1810.11.10_TheIpswichJournal_0001,1810.11.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1810.11.10_TheIpswichJournal_0001,1810.11.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1810.11.10_TheIpswichJournal_0001,1810.11.10_Jackson'sOxfordJournal_0004
-1810.11.11_TheExaminer_0015,1810.11.08_TheMorningChronicle_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1810	11	03	Jackson'sOxfordJournal	0004	1810	11	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1810	11	03	Jackson'sOxfordJournal	0004	1810	11	03	Cobbett'sWeeklyPoliticalRegister	0016
+1810	11	03	TheIpswichJournal	0004	1810	11	03	Jackson'sOxfordJournal	0004
+1810	11	05	CaledonianMercury	0002	1810	11	03	Cobbett'sWeeklyPoliticalRegister	0010
+1810	11	07	TheAberdeenJournal	0002	1810	11	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1810	11	07	TheAberdeenJournal	0003	1810	11	01	TheDerbyMercury	0002
+1810	11	08	CaledonianMercury	0004	1810	11	07	Cobbett'sWeeklyPoliticalRegister	0015
+1810	11	08	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1810	11	03	Cobbett'sWeeklyPoliticalRegister	0011
+1810	11	08	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1810	11	05	CaledonianMercury	0002
+1810	11	10	Cobbett'sWeeklyPoliticalRegister	0010	1810	11	08	TheMorningChronicle	0003
+1810	11	10	Cobbett'sWeeklyPoliticalRegister	0011	1810	11	08	TheMorningChronicle	0003
+1810	11	10	Jackson'sOxfordJournal	0004	1810	11	05	TheMorningChronicle	0003
+1810	11	10	Jackson'sOxfordJournal	0004	1810	11	08	CaledonianMercury	0002
+1810	11	10	TheIpswichJournal	0001	1810	11	08	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1810	11	10	TheIpswichJournal	0001	1810	11	08	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1810	11	10	TheIpswichJournal	0001	1810	11	10	Jackson'sOxfordJournal	0004
+1810	11	11	TheExaminer	0015	1810	11	08	TheMorningChronicle	0003

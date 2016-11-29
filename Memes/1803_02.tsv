@@ -1,7 +1,8 @@
-1803.02.03_Trewman'sExeterFlyingPost_0002,1803.02.03_TheDerbyMercury_0004
-1803.02.05_Jackson'sOxfordJournal_0004,1803.02.03_TheDerbyMercury_0001
-1803.02.05_TheNewcastleCourantetc_0002,1803.02.01_TheHullPacket_0003
-1803.02.05_TheNewcastleCourantetc_0002,1803.02.03_TheDerbyMercury_0002
-1803.02.05_TheNewcastleCourantetc_0002,1803.02.03_TheDerbyMercury_0004
-1803.02.05_TheNewcastleCourantetc_0002,1803.02.03_Trewman'sExeterFlyingPost_0004
-1803.02.05_TheNewcastleCourantetc_0004,1803.02.05_Jackson'sOxfordJournal_0001
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1803	02	03	Trewman'sExeterFlyingPost	0002	1803	02	03	TheDerbyMercury	0004
+1803	02	05	Jackson'sOxfordJournal	0004	1803	02	03	TheDerbyMercury	0001
+1803	02	05	TheNewcastleCourantetc	0002	1803	02	01	TheHullPacket	0003
+1803	02	05	TheNewcastleCourantetc	0002	1803	02	03	TheDerbyMercury	0002
+1803	02	05	TheNewcastleCourantetc	0002	1803	02	03	TheDerbyMercury	0004
+1803	02	05	TheNewcastleCourantetc	0002	1803	02	03	Trewman'sExeterFlyingPost	0004
+1803	02	05	TheNewcastleCourantetc	0004	1803	02	05	Jackson'sOxfordJournal	0001

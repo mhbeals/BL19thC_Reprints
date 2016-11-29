@@ -1,19 +1,20 @@
-1808.08.04_CaledonianMercury_0002,1808.08.02_TheMorningChronicle_0002
-1808.08.06_CaledonianMercury_0002,1808.08.04_TheMorningChronicle_0003
-1808.08.06_Jackson'sOxfordJournal_0002,1808.08.04_TheMorningChronicle_0003
-1808.08.06_Jackson'sOxfordJournal_0002,1808.08.06_CaledonianMercury_0002
-1808.08.07_TheExaminer_0002,1808.08.02_TheMorningChronicle_0002
-1808.08.07_TheExaminer_0002,1808.08.04_CaledonianMercury_0002
-1808.08.07_TheExaminer_0004,1808.08.05_TheMorningChronicle_0002
-1808.08.07_TheExaminer_0004,1808.08.06_CaledonianMercury_0002
-1808.08.07_TheExaminer_0004,1808.08.06_Jackson'sOxfordJournal_0002
-1808.08.07_TheExaminer_0006,1808.08.04_TheMorningChronicle_0003
-1808.08.07_TheExaminer_0006,1808.08.06_Jackson'sOxfordJournal_0002
-1808.08.07_TheExaminer_0006,1808.08.06_TheIpswichJournal_0002
-1808.08.07_TheExaminer_0007,1808.08.03_TheMorningChronicle_0002
-1808.08.07_TheExaminer_0007,1808.08.06_CaledonianMercury_0002
-1808.08.07_TheExaminer_0007,1808.08.06_Jackson'sOxfordJournal_0002
-1808.08.07_TheExaminer_0015,1808.08.05_TheMorningChronicle_0003
-1808.08.08_CaledonianMercury_0002,1808.08.05_TheMorningChronicle_0002
-1808.08.08_CaledonianMercury_0002,1808.08.07_TheExaminer_0004
-1808.08.08_CaledonianMercury_0002,1808.08.07_TheExaminer_0005
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1808	08	04	CaledonianMercury	0002	1808	08	02	TheMorningChronicle	0002
+1808	08	06	CaledonianMercury	0002	1808	08	04	TheMorningChronicle	0003
+1808	08	06	Jackson'sOxfordJournal	0002	1808	08	04	TheMorningChronicle	0003
+1808	08	06	Jackson'sOxfordJournal	0002	1808	08	06	CaledonianMercury	0002
+1808	08	07	TheExaminer	0002	1808	08	02	TheMorningChronicle	0002
+1808	08	07	TheExaminer	0002	1808	08	04	CaledonianMercury	0002
+1808	08	07	TheExaminer	0004	1808	08	05	TheMorningChronicle	0002
+1808	08	07	TheExaminer	0004	1808	08	06	CaledonianMercury	0002
+1808	08	07	TheExaminer	0004	1808	08	06	Jackson'sOxfordJournal	0002
+1808	08	07	TheExaminer	0006	1808	08	04	TheMorningChronicle	0003
+1808	08	07	TheExaminer	0006	1808	08	06	Jackson'sOxfordJournal	0002
+1808	08	07	TheExaminer	0006	1808	08	06	TheIpswichJournal	0002
+1808	08	07	TheExaminer	0007	1808	08	03	TheMorningChronicle	0002
+1808	08	07	TheExaminer	0007	1808	08	06	CaledonianMercury	0002
+1808	08	07	TheExaminer	0007	1808	08	06	Jackson'sOxfordJournal	0002
+1808	08	07	TheExaminer	0015	1808	08	05	TheMorningChronicle	0003
+1808	08	08	CaledonianMercury	0002	1808	08	05	TheMorningChronicle	0002
+1808	08	08	CaledonianMercury	0002	1808	08	07	TheExaminer	0004
+1808	08	08	CaledonianMercury	0002	1808	08	07	TheExaminer	0005

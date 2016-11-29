@@ -1,5 +1,6 @@
-1823.02.02_TheExaminer_0005,1823.02.01_TheIpswichJournal_0002
-1823.02.03_CaledonianMercury_0002,1823.02.01_TheIpswichJournal_0002
-1823.02.03_HampshireTelegraphandSussexChronicleetc_0002,1823.02.01_CaledonianMercury_0002
-1823.02.03_HampshireTelegraphandSussexChronicleetc_0004,1823.02.01_TheMorningChronicle_0002
-1823.02.03_TheBristolMercury_0004,1823.02.01_TheIpswichJournal_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1823	02	02	TheExaminer	0005	1823	02	01	TheIpswichJournal	0002
+1823	02	03	CaledonianMercury	0002	1823	02	01	TheIpswichJournal	0002
+1823	02	03	HampshireTelegraphandSussexChronicleetc	0002	1823	02	01	CaledonianMercury	0002
+1823	02	03	HampshireTelegraphandSussexChronicleetc	0004	1823	02	01	TheMorningChronicle	0002
+1823	02	03	TheBristolMercury	0004	1823	02	01	TheIpswichJournal	0004

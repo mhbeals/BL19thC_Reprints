@@ -1,11 +1,12 @@
-1816.04.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,1816.04.02_TheMorningChronicle_0003
-1816.04.05_LiverpoolMercuryetc_0003,1816.04.04_CaledonianMercury_0002
-1816.04.06_CaledonianMercury_0004,1816.04.05_LiverpoolMercuryetc_0006
-1816.04.06_Jackson'sOxfordJournal_0001,1816.04.02_TheMorningChronicle_0003
-1816.04.06_TheLeedsMercury_0002,1816.04.02_TheMorningChronicle_0003
-1816.04.07_TheExaminer_0005,1816.04.06_CaledonianMercury_0003
-1816.04.08_CaledonianMercury_0002,1816.04.07_TheExaminer_0007
-1816.04.11_CaledonianMercury_0002,1816.04.08_TheMorningChronicle_0002
-1816.04.11_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1816.04.06_CaledonianMercury_0003
-1816.04.12_LiverpoolMercuryetc_0006,1816.04.07_TheExaminer_0010
-1816.04.18_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1816.04.04_CaledonianMercury_0001
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1816	04	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004	1816	04	02	TheMorningChronicle	0003
+1816	04	05	LiverpoolMercuryetc	0003	1816	04	04	CaledonianMercury	0002
+1816	04	06	CaledonianMercury	0004	1816	04	05	LiverpoolMercuryetc	0006
+1816	04	06	Jackson'sOxfordJournal	0001	1816	04	02	TheMorningChronicle	0003
+1816	04	06	TheLeedsMercury	0002	1816	04	02	TheMorningChronicle	0003
+1816	04	07	TheExaminer	0005	1816	04	06	CaledonianMercury	0003
+1816	04	08	CaledonianMercury	0002	1816	04	07	TheExaminer	0007
+1816	04	11	CaledonianMercury	0002	1816	04	08	TheMorningChronicle	0002
+1816	04	11	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1816	04	06	CaledonianMercury	0003
+1816	04	12	LiverpoolMercuryetc	0006	1816	04	07	TheExaminer	0010
+1816	04	18	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1816	04	04	CaledonianMercury	0001

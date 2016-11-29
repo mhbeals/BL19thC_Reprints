@@ -1,5 +1,6 @@
-1812.05.02_Jackson'sOxfordJournal_0002,1812.05.02_CaledonianMercury_0003
-1812.05.02_TheIpswichJournal_0002,1812.05.02_Jackson'sOxfordJournal_0002
-1812.05.02_TheLeedsMercury_0002,1812.05.02_Jackson'sOxfordJournal_0002
-1812.05.04_CaledonianMercury_0002,1812.05.02_TheMorningChronicle_0001
-1812.05.04_HampshireTelegraphandSussexChronicleetc_0004,1812.05.02_CaledonianMercury_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1812	05	02	Jackson'sOxfordJournal	0002	1812	05	02	CaledonianMercury	0003
+1812	05	02	TheIpswichJournal	0002	1812	05	02	Jackson'sOxfordJournal	0002
+1812	05	02	TheLeedsMercury	0002	1812	05	02	Jackson'sOxfordJournal	0002
+1812	05	04	CaledonianMercury	0002	1812	05	02	TheMorningChronicle	0001
+1812	05	04	HampshireTelegraphandSussexChronicleetc	0004	1812	05	02	CaledonianMercury	0002

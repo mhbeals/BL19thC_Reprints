@@ -1,2 +1,3 @@
-1815.06.05_CaledonianMercury_0002,1815.06.03_TheIpswichJournal_0002
-1815.06.05_CaledonianMercury_0004,1815.06.03_Cobbett'sWeeklyPoliticalRegister_0015
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1815	06	05	CaledonianMercury	0002	1815	06	03	TheIpswichJournal	0002
+1815	06	05	CaledonianMercury	0004	1815	06	03	Cobbett'sWeeklyPoliticalRegister	0015

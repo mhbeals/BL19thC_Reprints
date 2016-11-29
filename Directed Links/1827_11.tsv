@@ -1,7 +1,8 @@
-1827.11.02_LiverpoolMercuryetc_0007,1827.11.01_NorthWalesChronicle_0003
-1827.11.03_TheNewcastleCourantetc_0004,1827.11.01_NorthWalesChronicle_0002
-1827.11.04_TheExaminer_0006,1827.11.01_TheMorningChronicle_0002
-1827.11.05_CaledonianMercury_0002,1827.11.03_TheIpswichJournal_0004
-1827.11.05_TheBristolMercury_0001,1827.11.03_TheIpswichJournal_0002
-1827.11.05_TheBristolMercury_0003,1827.11.03_TheIpswichJournal_0002
-1827.11.05_TheBristolMercury_0004,1827.11.03_TheIpswichJournal_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1827	11	02	LiverpoolMercuryetc	0007	1827	11	01	NorthWalesChronicle	0003
+1827	11	03	TheNewcastleCourantetc	0004	1827	11	01	NorthWalesChronicle	0002
+1827	11	04	TheExaminer	0006	1827	11	01	TheMorningChronicle	0002
+1827	11	05	CaledonianMercury	0002	1827	11	03	TheIpswichJournal	0004
+1827	11	05	TheBristolMercury	0001	1827	11	03	TheIpswichJournal	0002
+1827	11	05	TheBristolMercury	0003	1827	11	03	TheIpswichJournal	0002
+1827	11	05	TheBristolMercury	0004	1827	11	03	TheIpswichJournal	0004

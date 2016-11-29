@@ -1,8 +1,9 @@
-1814.06.03_LiverpoolMercuryetc_0006,1814.06.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1814.06.03_LiverpoolMercuryetc_0007,1814.06.02_TheDerbyMercury_0004
-1814.06.04_CaledonianMercury_0002,1814.06.01_TheMorningChronicle_0002
-1814.06.04_Cobbett'sWeeklyPoliticalRegister_0013,1814.06.02_CaledonianMercury_0002
-1814.06.04_TheLeedsMercury_0002,1814.06.02_CaledonianMercury_0002
-1814.06.04_TheLeedsMercury_0004,1814.06.02_CaledonianMercury_0004
-1814.06.05_TheExaminer_0005,1814.06.04_TheMorningChronicle_0002
-1814.06.05_TheExaminer_0006,1814.06.04_TheMorningChronicle_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1814	06	03	LiverpoolMercuryetc	0006	1814	06	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1814	06	03	LiverpoolMercuryetc	0007	1814	06	02	TheDerbyMercury	0004
+1814	06	04	CaledonianMercury	0002	1814	06	01	TheMorningChronicle	0002
+1814	06	04	Cobbett'sWeeklyPoliticalRegister	0013	1814	06	02	CaledonianMercury	0002
+1814	06	04	TheLeedsMercury	0002	1814	06	02	CaledonianMercury	0002
+1814	06	04	TheLeedsMercury	0004	1814	06	02	CaledonianMercury	0004
+1814	06	05	TheExaminer	0005	1814	06	04	TheMorningChronicle	0002
+1814	06	05	TheExaminer	0006	1814	06	04	TheMorningChronicle	0002

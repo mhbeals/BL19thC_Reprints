@@ -1,253 +1,254 @@
-1800.07.03_TheDerbyMercury_0001,1800.07.01_TheHullPacket_0001
-1800.07.05_CaledonianMercury_0001,1800.07.01_TheHullPacket_0001
-1800.07.05_Jackson'sOxfordJournal_0001,1800.07.01_TheHullPacket_0001
-1800.07.05_Jackson'sOxfordJournal_0004,1800.07.01_TheHullPacket_0001
-1800.07.05_TheIpswichJournal_0004,1800.07.01_TheHullPacket_0001
-1800.07.05_TheIpswichJournal_0004,1800.07.03_TheDerbyMercury_0003
-1800.07.05_TheIpswichJournal_0004,1800.07.05_Jackson'sOxfordJournal_0001
-1800.07.07_CaledonianMercury_0002,1800.07.05_Jackson'sOxfordJournal_0002
-1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001,1800.07.01_TheHullPacket_0001
-1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001,1800.07.03_TheDerbyMercury_0001
-1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.03_TheDerbyMercury_0003
-1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.05_CaledonianMercury_0002
-1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.05_TheIpswichJournal_0004
-1800.07.07_TheAberdeenJournal_0004,1800.07.01_TheHullPacket_0001
-1800.07.07_TheAberdeenJournal_0004,1800.07.03_CaledonianMercury_0002
-1800.07.10_TheDerbyMercury_0003,1800.07.01_TheHullPacket_0001
-1800.07.10_TheDerbyMercury_0003,1800.07.05_TheIpswichJournal_0004
-1800.07.10_Trewman'sExeterFlyingPost_0004,1800.07.03_TheDerbyMercury_0003
-1800.07.10_Trewman'sExeterFlyingPost_0004,1800.07.05_TheIpswichJournal_0004
-1800.07.12_Jackson'sOxfordJournal_0001,1800.07.01_TheHullPacket_0001
-1800.07.12_Jackson'sOxfordJournal_0001,1800.07.03_TheDerbyMercury_0001
-1800.07.12_Jackson'sOxfordJournal_0001,1800.07.03_Trewman'sExeterFlyingPost_0004
-1800.07.12_Jackson'sOxfordJournal_0001,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.07.12_Jackson'sOxfordJournal_0001,1800.07.10_TheDerbyMercury_0004
-1800.07.12_Jackson'sOxfordJournal_0001,1800.07.10_Trewman'sExeterFlyingPost_0004
-1800.07.12_Jackson'sOxfordJournal_0002,1800.07.10_TheDerbyMercury_0003
-1800.07.12_Jackson'sOxfordJournal_0002,1800.07.12_CaledonianMercury_0003
-1800.07.12_Jackson'sOxfordJournal_0004,1800.07.10_TheDerbyMercury_0002
-1800.07.12_TheIpswichJournal_0004,1800.07.01_TheHullPacket_0004
-1800.07.12_TheIpswichJournal_0004,1800.07.10_TheDerbyMercury_0003
-1800.07.12_TheIpswichJournal_0004,1800.07.10_Trewman'sExeterFlyingPost_0004
-1800.07.12_TheIpswichJournal_0004,1800.07.12_CaledonianMercury_0002
-1800.07.12_TheIpswichJournal_0004,1800.07.12_Jackson'sOxfordJournal_0001
-1800.07.14_CaledonianMercury_0003,1800.07.12_TheIpswichJournal_0002
-1800.07.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.12_CaledonianMercury_0002
-1800.07.14_TheAberdeenJournal_0002,1800.07.05_CaledonianMercury_0002
-1800.07.14_TheAberdeenJournal_0002,1800.07.05_CaledonianMercury_0003
-1800.07.14_TheAberdeenJournal_0002,1800.07.05_Jackson'sOxfordJournal_0002
-1800.07.14_TheAberdeenJournal_0002,1800.07.05_TheIpswichJournal_0002
-1800.07.14_TheAberdeenJournal_0002,1800.07.07_CaledonianMercury_0002
-1800.07.14_TheAberdeenJournal_0004,1800.07.10_CaledonianMercury_0003
-1800.07.15_TheHullPacket_0001,1800.07.12_CaledonianMercury_0002
-1800.07.15_TheHullPacket_0001,1800.07.12_Jackson'sOxfordJournal_0002
-1800.07.15_TheHullPacket_0001,1800.07.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.07.15_TheHullPacket_0002,1800.07.12_Jackson'sOxfordJournal_0003
-1800.07.15_TheHullPacket_0004,1800.07.03_TheDerbyMercury_0003
-1800.07.15_TheHullPacket_0004,1800.07.05_TheIpswichJournal_0004
-1800.07.15_TheHullPacket_0004,1800.07.10_TheDerbyMercury_0002
-1800.07.15_TheHullPacket_0004,1800.07.10_TheDerbyMercury_0003
-1800.07.15_TheHullPacket_0004,1800.07.10_Trewman'sExeterFlyingPost_0004
-1800.07.15_TheHullPacket_0004,1800.07.12_Jackson'sOxfordJournal_0004
-1800.07.15_TheHullPacket_0004,1800.07.12_TheIpswichJournal_0004
-1800.07.17_CaledonianMercury_0002,1800.07.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
-1800.07.17_TheDerbyMercury_0002,1800.07.01_TheHullPacket_0001
-1800.07.17_TheDerbyMercury_0002,1800.07.14_CaledonianMercury_0003
-1800.07.17_Trewman'sExeterFlyingPost_0004,1800.07.01_TheHullPacket_0001
-1800.07.17_Trewman'sExeterFlyingPost_0004,1800.07.10_TheDerbyMercury_0003
-1800.07.17_Trewman'sExeterFlyingPost_0004,1800.07.12_Jackson'sOxfordJournal_0001
-1800.07.19_CaledonianMercury_0002,1800.07.17_Trewman'sExeterFlyingPost_0003
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.01_TheHullPacket_0001
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.03_TheDerbyMercury_0001
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.03_Trewman'sExeterFlyingPost_0004
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.05_TheIpswichJournal_0004
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.07_TheAberdeenJournal_0004
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.10_TheDerbyMercury_0001
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.10_TheDerbyMercury_0003
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.10_Trewman'sExeterFlyingPost_0004
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.15_TheHullPacket_0004
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.17_Trewman'sExeterFlyingPost_0003
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.17_Trewman'sExeterFlyingPost_0004
-1800.07.19_Jackson'sOxfordJournal_0001,1800.07.19_CaledonianMercury_0002
-1800.07.19_Jackson'sOxfordJournal_0002,1800.07.19_CaledonianMercury_0002
-1800.07.19_Jackson'sOxfordJournal_0004,1800.07.01_TheHullPacket_0001
-1800.07.19_Jackson'sOxfordJournal_0004,1800.07.10_TheDerbyMercury_0003
-1800.07.19_Jackson'sOxfordJournal_0004,1800.07.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
-1800.07.19_Jackson'sOxfordJournal_0004,1800.07.17_CaledonianMercury_0002
-1800.07.19_Jackson'sOxfordJournal_0004,1800.07.17_TheDerbyMercury_0002
-1800.07.19_Jackson'sOxfordJournal_0004,1800.07.17_Trewman'sExeterFlyingPost_0004
-1800.07.19_TheIpswichJournal_0004,1800.07.10_TheDerbyMercury_0003
-1800.07.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001,1800.07.12_Jackson'sOxfordJournal_0001
-1800.07.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001,1800.07.19_Jackson'sOxfordJournal_0001
-1800.07.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.19_Jackson'sOxfordJournal_0002
-1800.07.21_TheAberdeenJournal_0001,1800.07.05_TheIpswichJournal_0004
-1800.07.21_TheAberdeenJournal_0001,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002
-1800.07.21_TheAberdeenJournal_0001,1800.07.10_TheDerbyMercury_0003
-1800.07.21_TheAberdeenJournal_0001,1800.07.12_TheIpswichJournal_0004
-1800.07.21_TheAberdeenJournal_0001,1800.07.17_CaledonianMercury_0004
-1800.07.21_TheAberdeenJournal_0001,1800.07.19_Jackson'sOxfordJournal_0002
-1800.07.21_TheAberdeenJournal_0001,1800.07.19_TheIpswichJournal_0003
-1800.07.21_TheAberdeenJournal_0001,1800.07.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.07.21_TheAberdeenJournal_0002,1800.07.12_CaledonianMercury_0002
-1800.07.21_TheAberdeenJournal_0002,1800.07.12_Jackson'sOxfordJournal_0002
-1800.07.21_TheAberdeenJournal_0002,1800.07.14_CaledonianMercury_0003
-1800.07.21_TheAberdeenJournal_0002,1800.07.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.07.21_TheAberdeenJournal_0002,1800.07.15_TheHullPacket_0001
-1800.07.21_TheAberdeenJournal_0002,1800.07.21_CaledonianMercury_0004
-1800.07.21_TheAberdeenJournal_0003,1800.07.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0003
-1800.07.21_TheAberdeenJournal_0003,1800.07.17_CaledonianMercury_0002
-1800.07.21_TheAberdeenJournal_0003,1800.07.19_Jackson'sOxfordJournal_0004
-1800.07.21_TheAberdeenJournal_0004,1800.07.19_CaledonianMercury_0002
-1800.07.22_TheHullPacket_0001,1800.07.19_Jackson'sOxfordJournal_0002
-1800.07.22_TheHullPacket_0001,1800.07.21_TheAberdeenJournal_0001
-1800.07.24_TheDerbyMercury_0001,1800.07.21_TheAberdeenJournal_0001
-1800.07.24_TheDerbyMercury_0002,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002
-1800.07.24_TheDerbyMercury_0002,1800.07.21_TheAberdeenJournal_0001
-1800.07.24_TheDerbyMercury_0002,1800.07.24_CaledonianMercury_0002
-1800.07.24_TheDerbyMercury_0003,1800.07.01_TheHullPacket_0001
-1800.07.24_TheDerbyMercury_0003,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.07.24_TheDerbyMercury_0003,1800.07.07_TheAberdeenJournal_0004
-1800.07.24_TheDerbyMercury_0003,1800.07.12_Jackson'sOxfordJournal_0001
-1800.07.24_TheDerbyMercury_0003,1800.07.17_Trewman'sExeterFlyingPost_0004
-1800.07.24_TheDerbyMercury_0003,1800.07.19_CaledonianMercury_0002
-1800.07.24_TheDerbyMercury_0003,1800.07.19_Jackson'sOxfordJournal_0001
-1800.07.24_TheDerbyMercury_0003,1800.07.19_Jackson'sOxfordJournal_0002
-1800.07.24_TheDerbyMercury_0003,1800.07.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.07.24_TheDerbyMercury_0003,1800.07.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.07.24_TheDerbyMercury_0003,1800.07.22_TheHullPacket_0001
-1800.07.24_Trewman'sExeterFlyingPost_0001,1800.07.21_TheAberdeenJournal_0001
-1800.07.24_Trewman'sExeterFlyingPost_0003,1800.07.24_CaledonianMercury_0002
-1800.07.24_Trewman'sExeterFlyingPost_0004,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.07.24_Trewman'sExeterFlyingPost_0004,1800.07.12_Jackson'sOxfordJournal_0001
-1800.07.24_Trewman'sExeterFlyingPost_0004,1800.07.19_Jackson'sOxfordJournal_0001
-1800.07.24_Trewman'sExeterFlyingPost_0004,1800.07.24_TheDerbyMercury_0003
-1800.07.26_CaledonianMercury_0003,1800.07.21_TheAberdeenJournal_0004
-1800.07.26_Jackson'sOxfordJournal_0001,1800.07.01_TheHullPacket_0001
-1800.07.26_Jackson'sOxfordJournal_0001,1800.07.03_TheDerbyMercury_0001
-1800.07.26_Jackson'sOxfordJournal_0001,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.07.26_Jackson'sOxfordJournal_0001,1800.07.07_TheAberdeenJournal_0004
-1800.07.26_Jackson'sOxfordJournal_0001,1800.07.14_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.07.26_Jackson'sOxfordJournal_0001,1800.07.17_Trewman'sExeterFlyingPost_0004
-1800.07.26_Jackson'sOxfordJournal_0001,1800.07.21_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.07.26_Jackson'sOxfordJournal_0001,1800.07.24_CaledonianMercury_0002
-1800.07.26_Jackson'sOxfordJournal_0001,1800.07.24_TheDerbyMercury_0003
-1800.07.26_Jackson'sOxfordJournal_0002,1800.07.26_CaledonianMercury_0002
-1800.07.26_Jackson'sOxfordJournal_0004,1800.07.24_CaledonianMercury_0002
-1800.07.26_TheIpswichJournal_0004,1800.07.03_TheDerbyMercury_0003
-1800.07.26_TheIpswichJournal_0004,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.07.26_TheIpswichJournal_0004,1800.07.15_TheHullPacket_0004
-1800.07.26_TheIpswichJournal_0004,1800.07.19_Jackson'sOxfordJournal_0001
-1800.07.26_TheIpswichJournal_0004,1800.07.26_CaledonianMercury_0002
-1800.07.26_TheIpswichJournal_0004,1800.07.26_Jackson'sOxfordJournal_0001
-1800.07.26_TheIpswichJournal_0004,1800.07.26_Jackson'sOxfordJournal_0002
-1800.07.28_CaledonianMercury_0002,1800.07.26_Jackson'sOxfordJournal_0002
-1800.07.28_CaledonianMercury_0004,1800.07.19_Jackson'sOxfordJournal_0004
-1800.07.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.26_CaledonianMercury_0002
-1800.07.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.26_Jackson'sOxfordJournal_0002
-1800.07.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.26_TheIpswichJournal_0004
-1800.07.28_TheAberdeenJournal_0002,1800.07.19_Jackson'sOxfordJournal_0002
-1800.07.28_TheAberdeenJournal_0002,1800.07.21_CaledonianMercury_0002
-1800.07.28_TheAberdeenJournal_0002,1800.07.24_TheDerbyMercury_0003
-1800.07.28_TheAberdeenJournal_0004,1800.07.24_CaledonianMercury_0002
-1800.07.28_TheAberdeenJournal_0004,1800.07.26_Jackson'sOxfordJournal_0001
-1800.07.29_TheHullPacket_0004,1800.07.26_CaledonianMercury_0002
-1800.07.29_TheHullPacket_0004,1800.07.26_Jackson'sOxfordJournal_0002
-1800.07.29_TheHullPacket_0004,1800.07.26_Jackson'sOxfordJournal_0004
-1800.07.29_TheHullPacket_0004,1800.07.26_TheIpswichJournal_0004
-1800.07.29_TheHullPacket_0004,1800.07.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.07.31_TheDerbyMercury_0003,1800.07.26_CaledonianMercury_0002
-1800.07.31_TheDerbyMercury_0003,1800.07.26_TheIpswichJournal_0004
-1800.07.31_Trewman'sExeterFlyingPost_0003,1800.07.31_CaledonianMercury_0003
-1800.07.31_Trewman'sExeterFlyingPost_0004,1800.07.01_TheHullPacket_0001
-1800.07.31_Trewman'sExeterFlyingPost_0004,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.07.31_Trewman'sExeterFlyingPost_0004,1800.07.12_Jackson'sOxfordJournal_0001
-1800.07.31_Trewman'sExeterFlyingPost_0004,1800.07.19_Jackson'sOxfordJournal_0001
-1800.07.31_Trewman'sExeterFlyingPost_0004,1800.07.24_TheDerbyMercury_0003
-1800.07.31_Trewman'sExeterFlyingPost_0004,1800.07.26_Jackson'sOxfordJournal_0001
-1800.08.02_Jackson'sOxfordJournal_0001,1800.07.10_TheDerbyMercury_0001
-1800.08.02_Jackson'sOxfordJournal_0001,1800.07.31_CaledonianMercury_0002
-1800.08.02_Jackson'sOxfordJournal_0002,1800.07.31_TheDerbyMercury_0004
-1800.08.02_TheIpswichJournal_0004,1800.07.31_TheDerbyMercury_0004
-1800.08.04_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.01_TheHullPacket_0004
-1800.08.04_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.21_TheAberdeenJournal_0001
-1800.08.04_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.24_TheDerbyMercury_0002
-1800.08.04_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.31_CaledonianMercury_0002
-1800.08.04_TheAberdeenJournal_0001,1800.07.17_CaledonianMercury_0004
-1800.08.04_TheAberdeenJournal_0001,1800.07.28_CaledonianMercury_0004
-1800.08.04_TheAberdeenJournal_0002,1800.07.26_CaledonianMercury_0002
-1800.08.04_TheAberdeenJournal_0002,1800.07.26_Jackson'sOxfordJournal_0002
-1800.08.04_TheAberdeenJournal_0002,1800.07.26_TheIpswichJournal_0004
-1800.08.04_TheAberdeenJournal_0002,1800.07.28_CaledonianMercury_0002
-1800.08.04_TheAberdeenJournal_0002,1800.07.28_CaledonianMercury_0003
-1800.08.04_TheAberdeenJournal_0002,1800.07.28_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.08.04_TheAberdeenJournal_0002,1800.07.29_TheHullPacket_0004
-1800.08.04_TheAberdeenJournal_0003,1800.07.31_CaledonianMercury_0003
-1800.08.04_TheAberdeenJournal_0003,1800.07.31_Trewman'sExeterFlyingPost_0003
-1800.08.04_TheAberdeenJournal_0004,1800.07.31_TheDerbyMercury_0004
-1800.08.07_CaledonianMercury_0001,1800.07.19_TheIpswichJournal_0003
-1800.08.07_CaledonianMercury_0001,1800.07.21_TheAberdeenJournal_0001
-1800.08.07_TheDerbyMercury_0003,1800.07.01_TheHullPacket_0004
-1800.08.07_TheDerbyMercury_0003,1800.07.12_Jackson'sOxfordJournal_0004
-1800.08.07_TheDerbyMercury_0003,1800.07.12_TheIpswichJournal_0004
-1800.08.07_TheDerbyMercury_0003,1800.07.19_TheIpswichJournal_0004
-1800.08.09_TheIpswichJournal_0004,1800.07.14_CaledonianMercury_0004
-1800.08.14_TheDerbyMercury_0003,1800.07.01_TheHullPacket_0004
-1800.08.14_TheDerbyMercury_0003,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002
-1800.08.14_TheDerbyMercury_0003,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.08.14_TheDerbyMercury_0003,1800.07.21_TheAberdeenJournal_0001
-1800.08.14_TheDerbyMercury_0003,1800.07.26_TheIpswichJournal_0004
-1800.08.21_Trewman'sExeterFlyingPost_0004,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.08.23_TheIpswichJournal_0004,1800.07.03_TheDerbyMercury_0001
-1800.08.26_TheHullPacket_0004,1800.07.03_TheDerbyMercury_0003
-1800.08.26_TheHullPacket_0004,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.08.26_TheHullPacket_0004,1800.07.26_TheIpswichJournal_0004
-1800.08.28_TheDerbyMercury_0001,1800.07.26_Jackson'sOxfordJournal_0001
-1800.08.28_TheDerbyMercury_0003,1800.07.01_TheHullPacket_0004
-1800.08.28_TheDerbyMercury_0003,1800.07.14_TheAberdeenJournal_0003
-1800.09.04_Trewman'sExeterFlyingPost_0001,1800.07.01_TheHullPacket_0001
-1800.09.04_Trewman'sExeterFlyingPost_0001,1800.07.10_TheDerbyMercury_0003
-1800.09.04_Trewman'sExeterFlyingPost_0001,1800.07.19_Jackson'sOxfordJournal_0004
-1800.09.04_Trewman'sExeterFlyingPost_0004,1800.07.01_TheHullPacket_0001
-1800.09.04_Trewman'sExeterFlyingPost_0004,1800.07.03_TheDerbyMercury_0001
-1800.09.04_Trewman'sExeterFlyingPost_0004,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0001
-1800.09.04_Trewman'sExeterFlyingPost_0004,1800.07.10_TheDerbyMercury_0001
-1800.09.04_Trewman'sExeterFlyingPost_0004,1800.07.12_Jackson'sOxfordJournal_0001
-1800.09.04_Trewman'sExeterFlyingPost_0004,1800.07.19_Jackson'sOxfordJournal_0001
-1800.09.04_Trewman'sExeterFlyingPost_0004,1800.07.24_TheDerbyMercury_0003
-1800.09.04_Trewman'sExeterFlyingPost_0004,1800.07.26_Jackson'sOxfordJournal_0001
-1800.09.06_Jackson'sOxfordJournal_0004,1800.07.15_TheHullPacket_0002
-1800.09.06_Jackson'sOxfordJournal_0004,1800.07.29_TheHullPacket_0004
-1800.09.06_Jackson'sOxfordJournal_0004,1800.07.31_TheDerbyMercury_0003
-1800.09.08_TheAberdeenJournal_0001,1800.07.01_TheHullPacket_0004
-1800.09.08_TheAberdeenJournal_0001,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0002
-1800.09.08_TheAberdeenJournal_0001,1800.07.12_Jackson'sOxfordJournal_0003
-1800.09.08_TheAberdeenJournal_0001,1800.07.24_TheDerbyMercury_0002
-1800.09.11_Trewman'sExeterFlyingPost_0001,1800.07.03_TheDerbyMercury_0003
-1800.09.11_Trewman'sExeterFlyingPost_0001,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.09.11_Trewman'sExeterFlyingPost_0001,1800.07.26_TheIpswichJournal_0004
-1800.09.15_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.03_TheDerbyMercury_0003
-1800.09.15_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.24_TheDerbyMercury_0002
-1800.09.15_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004,1800.07.26_TheIpswichJournal_0004
-1800.09.25_TheDerbyMercury_0003,1800.07.01_TheHullPacket_0004
-1800.09.29_CaledonianMercury_0001,1800.07.12_Jackson'sOxfordJournal_0003
-1800.09.29_CaledonianMercury_0001,1800.07.15_TheHullPacket_0002
-1800.10.04_Jackson'sOxfordJournal_0001,1800.07.05_TheIpswichJournal_0004
-1800.10.07_TheHullPacket_0004,1800.07.03_TheDerbyMercury_0003
-1800.10.07_TheHullPacket_0004,1800.07.10_Trewman'sExeterFlyingPost_0004
-1800.10.28_TheHullPacket_0004,1800.07.03_TheDerbyMercury_0003
-1800.10.28_TheHullPacket_0004,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.10.28_TheHullPacket_0004,1800.07.26_TheIpswichJournal_0004
-1800.11.04_TheHullPacket_0002,1800.07.12_TheIpswichJournal_0004
-1800.11.13_TheDerbyMercury_0003,1800.07.26_Jackson'sOxfordJournal_0001
-1800.11.18_TheHullPacket_0004,1800.07.03_TheDerbyMercury_0003
-1800.11.18_TheHullPacket_0004,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.11.18_TheHullPacket_0004,1800.07.26_TheIpswichJournal_0004
-1800.11.22_Jackson'sOxfordJournal_0003,1800.07.03_TheDerbyMercury_0003
-1800.11.22_Jackson'sOxfordJournal_0003,1800.07.07_PortsmouthTelegraphorMottley'sNavalandMilitaryJournal_0004
-1800.11.22_Jackson'sOxfordJournal_0003,1800.07.26_TheIpswichJournal_0004
-1800.12.27_Jackson'sOxfordJournal_0001,1800.07.05_TheIpswichJournal_0004
-1801.01.03_Jackson'sOxfordJournal_0001,1800.07.01_TheHullPacket_0001
-1801.01.03_Jackson'sOxfordJournal_0001,1800.07.05_TheIpswichJournal_0004
-1801.01.29_TheDerbyMercury_0001,1800.07.26_Jackson'sOxfordJournal_0001
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1800	07	03	TheDerbyMercury	0001	1800	07	01	TheHullPacket	0001
+1800	07	05	CaledonianMercury	0001	1800	07	01	TheHullPacket	0001
+1800	07	05	Jackson'sOxfordJournal	0001	1800	07	01	TheHullPacket	0001
+1800	07	05	Jackson'sOxfordJournal	0004	1800	07	01	TheHullPacket	0001
+1800	07	05	TheIpswichJournal	0004	1800	07	01	TheHullPacket	0001
+1800	07	05	TheIpswichJournal	0004	1800	07	03	TheDerbyMercury	0003
+1800	07	05	TheIpswichJournal	0004	1800	07	05	Jackson'sOxfordJournal	0001
+1800	07	07	CaledonianMercury	0002	1800	07	05	Jackson'sOxfordJournal	0002
+1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001	1800	07	01	TheHullPacket	0001
+1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001	1800	07	03	TheDerbyMercury	0001
+1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	03	TheDerbyMercury	0003
+1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	05	CaledonianMercury	0002
+1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	05	TheIpswichJournal	0004
+1800	07	07	TheAberdeenJournal	0004	1800	07	01	TheHullPacket	0001
+1800	07	07	TheAberdeenJournal	0004	1800	07	03	CaledonianMercury	0002
+1800	07	10	TheDerbyMercury	0003	1800	07	01	TheHullPacket	0001
+1800	07	10	TheDerbyMercury	0003	1800	07	05	TheIpswichJournal	0004
+1800	07	10	Trewman'sExeterFlyingPost	0004	1800	07	03	TheDerbyMercury	0003
+1800	07	10	Trewman'sExeterFlyingPost	0004	1800	07	05	TheIpswichJournal	0004
+1800	07	12	Jackson'sOxfordJournal	0001	1800	07	01	TheHullPacket	0001
+1800	07	12	Jackson'sOxfordJournal	0001	1800	07	03	TheDerbyMercury	0001
+1800	07	12	Jackson'sOxfordJournal	0001	1800	07	03	Trewman'sExeterFlyingPost	0004
+1800	07	12	Jackson'sOxfordJournal	0001	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	07	12	Jackson'sOxfordJournal	0001	1800	07	10	TheDerbyMercury	0004
+1800	07	12	Jackson'sOxfordJournal	0001	1800	07	10	Trewman'sExeterFlyingPost	0004
+1800	07	12	Jackson'sOxfordJournal	0002	1800	07	10	TheDerbyMercury	0003
+1800	07	12	Jackson'sOxfordJournal	0002	1800	07	12	CaledonianMercury	0003
+1800	07	12	Jackson'sOxfordJournal	0004	1800	07	10	TheDerbyMercury	0002
+1800	07	12	TheIpswichJournal	0004	1800	07	01	TheHullPacket	0004
+1800	07	12	TheIpswichJournal	0004	1800	07	10	TheDerbyMercury	0003
+1800	07	12	TheIpswichJournal	0004	1800	07	10	Trewman'sExeterFlyingPost	0004
+1800	07	12	TheIpswichJournal	0004	1800	07	12	CaledonianMercury	0002
+1800	07	12	TheIpswichJournal	0004	1800	07	12	Jackson'sOxfordJournal	0001
+1800	07	14	CaledonianMercury	0003	1800	07	12	TheIpswichJournal	0002
+1800	07	14	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	12	CaledonianMercury	0002
+1800	07	14	TheAberdeenJournal	0002	1800	07	05	CaledonianMercury	0002
+1800	07	14	TheAberdeenJournal	0002	1800	07	05	CaledonianMercury	0003
+1800	07	14	TheAberdeenJournal	0002	1800	07	05	Jackson'sOxfordJournal	0002
+1800	07	14	TheAberdeenJournal	0002	1800	07	05	TheIpswichJournal	0002
+1800	07	14	TheAberdeenJournal	0002	1800	07	07	CaledonianMercury	0002
+1800	07	14	TheAberdeenJournal	0004	1800	07	10	CaledonianMercury	0003
+1800	07	15	TheHullPacket	0001	1800	07	12	CaledonianMercury	0002
+1800	07	15	TheHullPacket	0001	1800	07	12	Jackson'sOxfordJournal	0002
+1800	07	15	TheHullPacket	0001	1800	07	14	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	07	15	TheHullPacket	0002	1800	07	12	Jackson'sOxfordJournal	0003
+1800	07	15	TheHullPacket	0004	1800	07	03	TheDerbyMercury	0003
+1800	07	15	TheHullPacket	0004	1800	07	05	TheIpswichJournal	0004
+1800	07	15	TheHullPacket	0004	1800	07	10	TheDerbyMercury	0002
+1800	07	15	TheHullPacket	0004	1800	07	10	TheDerbyMercury	0003
+1800	07	15	TheHullPacket	0004	1800	07	10	Trewman'sExeterFlyingPost	0004
+1800	07	15	TheHullPacket	0004	1800	07	12	Jackson'sOxfordJournal	0004
+1800	07	15	TheHullPacket	0004	1800	07	12	TheIpswichJournal	0004
+1800	07	17	CaledonianMercury	0002	1800	07	14	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0003
+1800	07	17	TheDerbyMercury	0002	1800	07	01	TheHullPacket	0001
+1800	07	17	TheDerbyMercury	0002	1800	07	14	CaledonianMercury	0003
+1800	07	17	Trewman'sExeterFlyingPost	0004	1800	07	01	TheHullPacket	0001
+1800	07	17	Trewman'sExeterFlyingPost	0004	1800	07	10	TheDerbyMercury	0003
+1800	07	17	Trewman'sExeterFlyingPost	0004	1800	07	12	Jackson'sOxfordJournal	0001
+1800	07	19	CaledonianMercury	0002	1800	07	17	Trewman'sExeterFlyingPost	0003
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	01	TheHullPacket	0001
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	03	TheDerbyMercury	0001
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	03	Trewman'sExeterFlyingPost	0004
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	05	TheIpswichJournal	0004
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	07	TheAberdeenJournal	0004
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	10	TheDerbyMercury	0001
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	10	TheDerbyMercury	0003
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	10	Trewman'sExeterFlyingPost	0004
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	14	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	15	TheHullPacket	0004
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	17	Trewman'sExeterFlyingPost	0003
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	17	Trewman'sExeterFlyingPost	0004
+1800	07	19	Jackson'sOxfordJournal	0001	1800	07	19	CaledonianMercury	0002
+1800	07	19	Jackson'sOxfordJournal	0002	1800	07	19	CaledonianMercury	0002
+1800	07	19	Jackson'sOxfordJournal	0004	1800	07	01	TheHullPacket	0001
+1800	07	19	Jackson'sOxfordJournal	0004	1800	07	10	TheDerbyMercury	0003
+1800	07	19	Jackson'sOxfordJournal	0004	1800	07	14	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0003
+1800	07	19	Jackson'sOxfordJournal	0004	1800	07	17	CaledonianMercury	0002
+1800	07	19	Jackson'sOxfordJournal	0004	1800	07	17	TheDerbyMercury	0002
+1800	07	19	Jackson'sOxfordJournal	0004	1800	07	17	Trewman'sExeterFlyingPost	0004
+1800	07	19	TheIpswichJournal	0004	1800	07	10	TheDerbyMercury	0003
+1800	07	21	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001	1800	07	12	Jackson'sOxfordJournal	0001
+1800	07	21	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001	1800	07	19	Jackson'sOxfordJournal	0001
+1800	07	21	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	19	Jackson'sOxfordJournal	0002
+1800	07	21	TheAberdeenJournal	0001	1800	07	05	TheIpswichJournal	0004
+1800	07	21	TheAberdeenJournal	0001	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0002
+1800	07	21	TheAberdeenJournal	0001	1800	07	10	TheDerbyMercury	0003
+1800	07	21	TheAberdeenJournal	0001	1800	07	12	TheIpswichJournal	0004
+1800	07	21	TheAberdeenJournal	0001	1800	07	17	CaledonianMercury	0004
+1800	07	21	TheAberdeenJournal	0001	1800	07	19	Jackson'sOxfordJournal	0002
+1800	07	21	TheAberdeenJournal	0001	1800	07	19	TheIpswichJournal	0003
+1800	07	21	TheAberdeenJournal	0001	1800	07	21	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	07	21	TheAberdeenJournal	0002	1800	07	12	CaledonianMercury	0002
+1800	07	21	TheAberdeenJournal	0002	1800	07	12	Jackson'sOxfordJournal	0002
+1800	07	21	TheAberdeenJournal	0002	1800	07	14	CaledonianMercury	0003
+1800	07	21	TheAberdeenJournal	0002	1800	07	14	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	07	21	TheAberdeenJournal	0002	1800	07	15	TheHullPacket	0001
+1800	07	21	TheAberdeenJournal	0002	1800	07	21	CaledonianMercury	0004
+1800	07	21	TheAberdeenJournal	0003	1800	07	14	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0003
+1800	07	21	TheAberdeenJournal	0003	1800	07	17	CaledonianMercury	0002
+1800	07	21	TheAberdeenJournal	0003	1800	07	19	Jackson'sOxfordJournal	0004
+1800	07	21	TheAberdeenJournal	0004	1800	07	19	CaledonianMercury	0002
+1800	07	22	TheHullPacket	0001	1800	07	19	Jackson'sOxfordJournal	0002
+1800	07	22	TheHullPacket	0001	1800	07	21	TheAberdeenJournal	0001
+1800	07	24	TheDerbyMercury	0001	1800	07	21	TheAberdeenJournal	0001
+1800	07	24	TheDerbyMercury	0002	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0002
+1800	07	24	TheDerbyMercury	0002	1800	07	21	TheAberdeenJournal	0001
+1800	07	24	TheDerbyMercury	0002	1800	07	24	CaledonianMercury	0002
+1800	07	24	TheDerbyMercury	0003	1800	07	01	TheHullPacket	0001
+1800	07	24	TheDerbyMercury	0003	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	07	24	TheDerbyMercury	0003	1800	07	07	TheAberdeenJournal	0004
+1800	07	24	TheDerbyMercury	0003	1800	07	12	Jackson'sOxfordJournal	0001
+1800	07	24	TheDerbyMercury	0003	1800	07	17	Trewman'sExeterFlyingPost	0004
+1800	07	24	TheDerbyMercury	0003	1800	07	19	CaledonianMercury	0002
+1800	07	24	TheDerbyMercury	0003	1800	07	19	Jackson'sOxfordJournal	0001
+1800	07	24	TheDerbyMercury	0003	1800	07	19	Jackson'sOxfordJournal	0002
+1800	07	24	TheDerbyMercury	0003	1800	07	21	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	07	24	TheDerbyMercury	0003	1800	07	21	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	07	24	TheDerbyMercury	0003	1800	07	22	TheHullPacket	0001
+1800	07	24	Trewman'sExeterFlyingPost	0001	1800	07	21	TheAberdeenJournal	0001
+1800	07	24	Trewman'sExeterFlyingPost	0003	1800	07	24	CaledonianMercury	0002
+1800	07	24	Trewman'sExeterFlyingPost	0004	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	07	24	Trewman'sExeterFlyingPost	0004	1800	07	12	Jackson'sOxfordJournal	0001
+1800	07	24	Trewman'sExeterFlyingPost	0004	1800	07	19	Jackson'sOxfordJournal	0001
+1800	07	24	Trewman'sExeterFlyingPost	0004	1800	07	24	TheDerbyMercury	0003
+1800	07	26	CaledonianMercury	0003	1800	07	21	TheAberdeenJournal	0004
+1800	07	26	Jackson'sOxfordJournal	0001	1800	07	01	TheHullPacket	0001
+1800	07	26	Jackson'sOxfordJournal	0001	1800	07	03	TheDerbyMercury	0001
+1800	07	26	Jackson'sOxfordJournal	0001	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	07	26	Jackson'sOxfordJournal	0001	1800	07	07	TheAberdeenJournal	0004
+1800	07	26	Jackson'sOxfordJournal	0001	1800	07	14	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	07	26	Jackson'sOxfordJournal	0001	1800	07	17	Trewman'sExeterFlyingPost	0004
+1800	07	26	Jackson'sOxfordJournal	0001	1800	07	21	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	07	26	Jackson'sOxfordJournal	0001	1800	07	24	CaledonianMercury	0002
+1800	07	26	Jackson'sOxfordJournal	0001	1800	07	24	TheDerbyMercury	0003
+1800	07	26	Jackson'sOxfordJournal	0002	1800	07	26	CaledonianMercury	0002
+1800	07	26	Jackson'sOxfordJournal	0004	1800	07	24	CaledonianMercury	0002
+1800	07	26	TheIpswichJournal	0004	1800	07	03	TheDerbyMercury	0003
+1800	07	26	TheIpswichJournal	0004	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	07	26	TheIpswichJournal	0004	1800	07	15	TheHullPacket	0004
+1800	07	26	TheIpswichJournal	0004	1800	07	19	Jackson'sOxfordJournal	0001
+1800	07	26	TheIpswichJournal	0004	1800	07	26	CaledonianMercury	0002
+1800	07	26	TheIpswichJournal	0004	1800	07	26	Jackson'sOxfordJournal	0001
+1800	07	26	TheIpswichJournal	0004	1800	07	26	Jackson'sOxfordJournal	0002
+1800	07	28	CaledonianMercury	0002	1800	07	26	Jackson'sOxfordJournal	0002
+1800	07	28	CaledonianMercury	0004	1800	07	19	Jackson'sOxfordJournal	0004
+1800	07	28	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	26	CaledonianMercury	0002
+1800	07	28	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	26	Jackson'sOxfordJournal	0002
+1800	07	28	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	26	TheIpswichJournal	0004
+1800	07	28	TheAberdeenJournal	0002	1800	07	19	Jackson'sOxfordJournal	0002
+1800	07	28	TheAberdeenJournal	0002	1800	07	21	CaledonianMercury	0002
+1800	07	28	TheAberdeenJournal	0002	1800	07	24	TheDerbyMercury	0003
+1800	07	28	TheAberdeenJournal	0004	1800	07	24	CaledonianMercury	0002
+1800	07	28	TheAberdeenJournal	0004	1800	07	26	Jackson'sOxfordJournal	0001
+1800	07	29	TheHullPacket	0004	1800	07	26	CaledonianMercury	0002
+1800	07	29	TheHullPacket	0004	1800	07	26	Jackson'sOxfordJournal	0002
+1800	07	29	TheHullPacket	0004	1800	07	26	Jackson'sOxfordJournal	0004
+1800	07	29	TheHullPacket	0004	1800	07	26	TheIpswichJournal	0004
+1800	07	29	TheHullPacket	0004	1800	07	28	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	07	31	TheDerbyMercury	0003	1800	07	26	CaledonianMercury	0002
+1800	07	31	TheDerbyMercury	0003	1800	07	26	TheIpswichJournal	0004
+1800	07	31	Trewman'sExeterFlyingPost	0003	1800	07	31	CaledonianMercury	0003
+1800	07	31	Trewman'sExeterFlyingPost	0004	1800	07	01	TheHullPacket	0001
+1800	07	31	Trewman'sExeterFlyingPost	0004	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	07	31	Trewman'sExeterFlyingPost	0004	1800	07	12	Jackson'sOxfordJournal	0001
+1800	07	31	Trewman'sExeterFlyingPost	0004	1800	07	19	Jackson'sOxfordJournal	0001
+1800	07	31	Trewman'sExeterFlyingPost	0004	1800	07	24	TheDerbyMercury	0003
+1800	07	31	Trewman'sExeterFlyingPost	0004	1800	07	26	Jackson'sOxfordJournal	0001
+1800	08	02	Jackson'sOxfordJournal	0001	1800	07	10	TheDerbyMercury	0001
+1800	08	02	Jackson'sOxfordJournal	0001	1800	07	31	CaledonianMercury	0002
+1800	08	02	Jackson'sOxfordJournal	0002	1800	07	31	TheDerbyMercury	0004
+1800	08	02	TheIpswichJournal	0004	1800	07	31	TheDerbyMercury	0004
+1800	08	04	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	01	TheHullPacket	0004
+1800	08	04	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	21	TheAberdeenJournal	0001
+1800	08	04	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	24	TheDerbyMercury	0002
+1800	08	04	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	31	CaledonianMercury	0002
+1800	08	04	TheAberdeenJournal	0001	1800	07	17	CaledonianMercury	0004
+1800	08	04	TheAberdeenJournal	0001	1800	07	28	CaledonianMercury	0004
+1800	08	04	TheAberdeenJournal	0002	1800	07	26	CaledonianMercury	0002
+1800	08	04	TheAberdeenJournal	0002	1800	07	26	Jackson'sOxfordJournal	0002
+1800	08	04	TheAberdeenJournal	0002	1800	07	26	TheIpswichJournal	0004
+1800	08	04	TheAberdeenJournal	0002	1800	07	28	CaledonianMercury	0002
+1800	08	04	TheAberdeenJournal	0002	1800	07	28	CaledonianMercury	0003
+1800	08	04	TheAberdeenJournal	0002	1800	07	28	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	08	04	TheAberdeenJournal	0002	1800	07	29	TheHullPacket	0004
+1800	08	04	TheAberdeenJournal	0003	1800	07	31	CaledonianMercury	0003
+1800	08	04	TheAberdeenJournal	0003	1800	07	31	Trewman'sExeterFlyingPost	0003
+1800	08	04	TheAberdeenJournal	0004	1800	07	31	TheDerbyMercury	0004
+1800	08	07	CaledonianMercury	0001	1800	07	19	TheIpswichJournal	0003
+1800	08	07	CaledonianMercury	0001	1800	07	21	TheAberdeenJournal	0001
+1800	08	07	TheDerbyMercury	0003	1800	07	01	TheHullPacket	0004
+1800	08	07	TheDerbyMercury	0003	1800	07	12	Jackson'sOxfordJournal	0004
+1800	08	07	TheDerbyMercury	0003	1800	07	12	TheIpswichJournal	0004
+1800	08	07	TheDerbyMercury	0003	1800	07	19	TheIpswichJournal	0004
+1800	08	09	TheIpswichJournal	0004	1800	07	14	CaledonianMercury	0004
+1800	08	14	TheDerbyMercury	0003	1800	07	01	TheHullPacket	0004
+1800	08	14	TheDerbyMercury	0003	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0002
+1800	08	14	TheDerbyMercury	0003	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	08	14	TheDerbyMercury	0003	1800	07	21	TheAberdeenJournal	0001
+1800	08	14	TheDerbyMercury	0003	1800	07	26	TheIpswichJournal	0004
+1800	08	21	Trewman'sExeterFlyingPost	0004	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	08	23	TheIpswichJournal	0004	1800	07	03	TheDerbyMercury	0001
+1800	08	26	TheHullPacket	0004	1800	07	03	TheDerbyMercury	0003
+1800	08	26	TheHullPacket	0004	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	08	26	TheHullPacket	0004	1800	07	26	TheIpswichJournal	0004
+1800	08	28	TheDerbyMercury	0001	1800	07	26	Jackson'sOxfordJournal	0001
+1800	08	28	TheDerbyMercury	0003	1800	07	01	TheHullPacket	0004
+1800	08	28	TheDerbyMercury	0003	1800	07	14	TheAberdeenJournal	0003
+1800	09	04	Trewman'sExeterFlyingPost	0001	1800	07	01	TheHullPacket	0001
+1800	09	04	Trewman'sExeterFlyingPost	0001	1800	07	10	TheDerbyMercury	0003
+1800	09	04	Trewman'sExeterFlyingPost	0001	1800	07	19	Jackson'sOxfordJournal	0004
+1800	09	04	Trewman'sExeterFlyingPost	0004	1800	07	01	TheHullPacket	0001
+1800	09	04	Trewman'sExeterFlyingPost	0004	1800	07	03	TheDerbyMercury	0001
+1800	09	04	Trewman'sExeterFlyingPost	0004	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0001
+1800	09	04	Trewman'sExeterFlyingPost	0004	1800	07	10	TheDerbyMercury	0001
+1800	09	04	Trewman'sExeterFlyingPost	0004	1800	07	12	Jackson'sOxfordJournal	0001
+1800	09	04	Trewman'sExeterFlyingPost	0004	1800	07	19	Jackson'sOxfordJournal	0001
+1800	09	04	Trewman'sExeterFlyingPost	0004	1800	07	24	TheDerbyMercury	0003
+1800	09	04	Trewman'sExeterFlyingPost	0004	1800	07	26	Jackson'sOxfordJournal	0001
+1800	09	06	Jackson'sOxfordJournal	0004	1800	07	15	TheHullPacket	0002
+1800	09	06	Jackson'sOxfordJournal	0004	1800	07	29	TheHullPacket	0004
+1800	09	06	Jackson'sOxfordJournal	0004	1800	07	31	TheDerbyMercury	0003
+1800	09	08	TheAberdeenJournal	0001	1800	07	01	TheHullPacket	0004
+1800	09	08	TheAberdeenJournal	0001	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0002
+1800	09	08	TheAberdeenJournal	0001	1800	07	12	Jackson'sOxfordJournal	0003
+1800	09	08	TheAberdeenJournal	0001	1800	07	24	TheDerbyMercury	0002
+1800	09	11	Trewman'sExeterFlyingPost	0001	1800	07	03	TheDerbyMercury	0003
+1800	09	11	Trewman'sExeterFlyingPost	0001	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	09	11	Trewman'sExeterFlyingPost	0001	1800	07	26	TheIpswichJournal	0004
+1800	09	15	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	03	TheDerbyMercury	0003
+1800	09	15	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	24	TheDerbyMercury	0002
+1800	09	15	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004	1800	07	26	TheIpswichJournal	0004
+1800	09	25	TheDerbyMercury	0003	1800	07	01	TheHullPacket	0004
+1800	09	29	CaledonianMercury	0001	1800	07	12	Jackson'sOxfordJournal	0003
+1800	09	29	CaledonianMercury	0001	1800	07	15	TheHullPacket	0002
+1800	10	04	Jackson'sOxfordJournal	0001	1800	07	05	TheIpswichJournal	0004
+1800	10	07	TheHullPacket	0004	1800	07	03	TheDerbyMercury	0003
+1800	10	07	TheHullPacket	0004	1800	07	10	Trewman'sExeterFlyingPost	0004
+1800	10	28	TheHullPacket	0004	1800	07	03	TheDerbyMercury	0003
+1800	10	28	TheHullPacket	0004	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	10	28	TheHullPacket	0004	1800	07	26	TheIpswichJournal	0004
+1800	11	04	TheHullPacket	0002	1800	07	12	TheIpswichJournal	0004
+1800	11	13	TheDerbyMercury	0003	1800	07	26	Jackson'sOxfordJournal	0001
+1800	11	18	TheHullPacket	0004	1800	07	03	TheDerbyMercury	0003
+1800	11	18	TheHullPacket	0004	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	11	18	TheHullPacket	0004	1800	07	26	TheIpswichJournal	0004
+1800	11	22	Jackson'sOxfordJournal	0003	1800	07	03	TheDerbyMercury	0003
+1800	11	22	Jackson'sOxfordJournal	0003	1800	07	07	PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	0004
+1800	11	22	Jackson'sOxfordJournal	0003	1800	07	26	TheIpswichJournal	0004
+1800	12	27	Jackson'sOxfordJournal	0001	1800	07	05	TheIpswichJournal	0004
+1801	01	03	Jackson'sOxfordJournal	0001	1800	07	01	TheHullPacket	0001
+1801	01	03	Jackson'sOxfordJournal	0001	1800	07	05	TheIpswichJournal	0004
+1801	01	29	TheDerbyMercury	0001	1800	07	26	Jackson'sOxfordJournal	0001

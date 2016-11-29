@@ -1,5 +1,6 @@
-1802.07.03_Jackson'sOxfordJournal_0001,1802.07.01_Trewman'sExeterFlyingPost_0004
-1802.07.03_Jackson'sOxfordJournal_0002,1802.07.01_Trewman'sExeterFlyingPost_0004
-1802.07.03_Jackson'sOxfordJournal_0004,1802.07.01_TheDerbyMercury_0002
-1802.07.03_TheIpswichJournal_0004,1802.07.01_TheDerbyMercury_0003
-1802.07.05_CaledonianMercury_0002,1802.07.03_TheMorningChronicle_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1802	07	03	Jackson'sOxfordJournal	0001	1802	07	01	Trewman'sExeterFlyingPost	0004
+1802	07	03	Jackson'sOxfordJournal	0002	1802	07	01	Trewman'sExeterFlyingPost	0004
+1802	07	03	Jackson'sOxfordJournal	0004	1802	07	01	TheDerbyMercury	0002
+1802	07	03	TheIpswichJournal	0004	1802	07	01	TheDerbyMercury	0003
+1802	07	05	CaledonianMercury	0002	1802	07	03	TheMorningChronicle	0003

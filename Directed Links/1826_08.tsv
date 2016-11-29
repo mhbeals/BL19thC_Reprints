@@ -1,6 +1,7 @@
-1826.08.03_CaledonianMercury_0001,1826.08.02_TheDerbyMercury_0001
-1826.08.04_GlasgowHerald_0001,1826.08.01_TheMorningChronicle_0004
-1826.08.04_GlasgowHerald_0004,1826.08.03_CaledonianMercury_0002
-1826.08.05_CaledonianMercury_0001,1826.08.04_GlasgowHerald_0003
-1826.08.05_CaledonianMercury_0002,1826.08.04_TheMorningChronicle_0001
-1826.08.05_CaledonianMercury_0003,1826.08.04_GlasgowHerald_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1826	08	03	CaledonianMercury	0001	1826	08	02	TheDerbyMercury	0001
+1826	08	04	GlasgowHerald	0001	1826	08	01	TheMorningChronicle	0004
+1826	08	04	GlasgowHerald	0004	1826	08	03	CaledonianMercury	0002
+1826	08	05	CaledonianMercury	0001	1826	08	04	GlasgowHerald	0003
+1826	08	05	CaledonianMercury	0002	1826	08	04	TheMorningChronicle	0001
+1826	08	05	CaledonianMercury	0003	1826	08	04	GlasgowHerald	0004

@@ -1,9 +1,10 @@
-1819.10.04_CaledonianMercury_0002,1819.10.01_TheMorningChronicle_0003
-1819.10.04_CaledonianMercury_0002,1819.10.02_TheMorningChronicle_0002
-1819.10.04_TheBristolMercury_0001,1819.10.01_TheMorningChronicle_0003
-1819.10.04_TheBristolMercury_0001,1819.10.02_CaledonianMercury_0002
-1819.10.04_TheBristolMercury_0001,1819.10.02_TheLeedsMercury_0002
-1819.10.04_TheBristolMercury_0001,1819.10.02_TheNewcastleCourantetc_0003
-1819.10.04_TheBristolMercury_0002,1819.10.02_TheMorningChronicle_0002
-1819.10.04_TheBristolMercury_0004,1819.10.01_TheMorningChronicle_0003
-1819.10.04_TheBristolMercury_0004,1819.10.02_CaledonianMercury_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1819	10	04	CaledonianMercury	0002	1819	10	01	TheMorningChronicle	0003
+1819	10	04	CaledonianMercury	0002	1819	10	02	TheMorningChronicle	0002
+1819	10	04	TheBristolMercury	0001	1819	10	01	TheMorningChronicle	0003
+1819	10	04	TheBristolMercury	0001	1819	10	02	CaledonianMercury	0002
+1819	10	04	TheBristolMercury	0001	1819	10	02	TheLeedsMercury	0002
+1819	10	04	TheBristolMercury	0001	1819	10	02	TheNewcastleCourantetc	0003
+1819	10	04	TheBristolMercury	0002	1819	10	02	TheMorningChronicle	0002
+1819	10	04	TheBristolMercury	0004	1819	10	01	TheMorningChronicle	0003
+1819	10	04	TheBristolMercury	0004	1819	10	02	CaledonianMercury	0002

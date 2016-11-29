@@ -1,16 +1,17 @@
-1823.05.03_TheIpswichJournal_0001,1823.05.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1823.05.03_TheIpswichJournal_0002,1823.05.01_TheMorningChronicle_0003
-1823.05.03_TheIpswichJournal_0003,1823.05.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1823.05.03_TheLeedsMercury_0001,1823.05.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1823.05.03_TheLeedsMercury_0004,1823.05.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1823.05.03_TheLeedsMercury_0004,1823.05.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1823.05.03_TheMorningChronicle_0003,1823.05.03_CaledonianMercury_0004
-1823.05.04_TheExaminer_0003,1823.05.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1823.05.05_HampshireTelegraphandSussexChronicleetc_0002,1823.05.03_CaledonianMercury_0002
-1823.05.05_HampshireTelegraphandSussexChronicleetc_0004,1823.05.03_TheMorningChronicle_0002
-1823.05.05_HampshireTelegraphandSussexChronicleetc_0004,1823.05.03_TheMorningChronicle_0003
-1823.05.05_TheBristolMercury_0001,1823.05.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1823.05.05_TheBristolMercury_0002,1823.05.02_TheMorningChronicle_0003
-1823.05.05_TheBristolMercury_0002,1823.05.03_TheMorningChronicle_0003
-1823.05.05_TheBristolMercury_0004,1823.05.01_TheMorningChronicle_0002
-1823.05.05_TheBristolMercury_0004,1823.05.01_TheMorningChronicle_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1823	05	03	TheIpswichJournal	0001	1823	05	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1823	05	03	TheIpswichJournal	0002	1823	05	01	TheMorningChronicle	0003
+1823	05	03	TheIpswichJournal	0003	1823	05	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1823	05	03	TheLeedsMercury	0001	1823	05	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1823	05	03	TheLeedsMercury	0004	1823	05	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1823	05	03	TheLeedsMercury	0004	1823	05	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1823	05	03	TheMorningChronicle	0003	1823	05	03	CaledonianMercury	0004
+1823	05	04	TheExaminer	0003	1823	05	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1823	05	05	HampshireTelegraphandSussexChronicleetc	0002	1823	05	03	CaledonianMercury	0002
+1823	05	05	HampshireTelegraphandSussexChronicleetc	0004	1823	05	03	TheMorningChronicle	0002
+1823	05	05	HampshireTelegraphandSussexChronicleetc	0004	1823	05	03	TheMorningChronicle	0003
+1823	05	05	TheBristolMercury	0001	1823	05	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1823	05	05	TheBristolMercury	0002	1823	05	02	TheMorningChronicle	0003
+1823	05	05	TheBristolMercury	0002	1823	05	03	TheMorningChronicle	0003
+1823	05	05	TheBristolMercury	0004	1823	05	01	TheMorningChronicle	0002
+1823	05	05	TheBristolMercury	0004	1823	05	01	TheMorningChronicle	0003

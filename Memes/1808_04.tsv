@@ -1,6 +1,7 @@
-1808.04.03_TheExaminer_0004,1808.04.02_Jackson'sOxfordJournal_0002
-1808.04.03_TheExaminer_0012,1808.04.01_TheMorningChronicle_0003
-1808.04.03_TheExaminer_0013,1808.04.01_TheMorningChronicle_0002
-1808.04.03_TheExaminer_0013,1808.04.01_TheMorningChronicle_0003
-1808.04.03_TheExaminer_0014,1808.04.02_TheMorningChronicle_0003
-1808.04.04_CaledonianMercury_0002,1808.04.03_TheExaminer_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1808	04	03	TheExaminer	0004	1808	04	02	Jackson'sOxfordJournal	0002
+1808	04	03	TheExaminer	0012	1808	04	01	TheMorningChronicle	0003
+1808	04	03	TheExaminer	0013	1808	04	01	TheMorningChronicle	0002
+1808	04	03	TheExaminer	0013	1808	04	01	TheMorningChronicle	0003
+1808	04	03	TheExaminer	0014	1808	04	02	TheMorningChronicle	0003
+1808	04	04	CaledonianMercury	0002	1808	04	03	TheExaminer	0004

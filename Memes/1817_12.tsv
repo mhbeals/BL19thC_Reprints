@@ -1,12 +1,13 @@
-1817.12.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,1817.12.01_TheMorningChronicle_0002
-1817.12.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,1817.12.01_TheMorningChronicle_0003
-1817.12.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1817.12.01_TheMorningChronicle_0003
-1817.12.05_LiverpoolMercuryetc_0002,1817.12.01_CaledonianMercury_0002
-1817.12.06_CaledonianMercury_0004,1817.12.01_TheMorningChronicle_0003
-1817.12.06_CaledonianMercury_0004,1817.12.03_TheMorningChronicle_0003
-1817.12.06_CaledonianMercury_0004,1817.12.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1817.12.06_CaledonianMercury_0004,1817.12.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1817.12.06_TheIpswichJournal_0001,1817.12.01_TheMorningChronicle_0002
-1817.12.06_TheIpswichJournal_0001,1817.12.01_TheMorningChronicle_0003
-1817.12.06_TheIpswichJournal_0004,1817.12.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1817.12.06_TheIpswichJournal_0004,1817.12.06_CaledonianMercury_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1817	12	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001	1817	12	01	TheMorningChronicle	0002
+1817	12	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001	1817	12	01	TheMorningChronicle	0003
+1817	12	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1817	12	01	TheMorningChronicle	0003
+1817	12	05	LiverpoolMercuryetc	0002	1817	12	01	CaledonianMercury	0002
+1817	12	06	CaledonianMercury	0004	1817	12	01	TheMorningChronicle	0003
+1817	12	06	CaledonianMercury	0004	1817	12	03	TheMorningChronicle	0003
+1817	12	06	CaledonianMercury	0004	1817	12	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1817	12	06	CaledonianMercury	0004	1817	12	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1817	12	06	TheIpswichJournal	0001	1817	12	01	TheMorningChronicle	0002
+1817	12	06	TheIpswichJournal	0001	1817	12	01	TheMorningChronicle	0003
+1817	12	06	TheIpswichJournal	0004	1817	12	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1817	12	06	TheIpswichJournal	0004	1817	12	06	CaledonianMercury	0004

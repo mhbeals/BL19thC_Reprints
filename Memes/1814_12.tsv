@@ -1,25 +1,26 @@
-1814.12.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1814.12.01_CaledonianMercury_0002
-1814.12.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1814.12.01_CaledonianMercury_0004
-1814.12.02_LiverpoolMercuryetc_0002,1814.12.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1814.12.02_LiverpoolMercuryetc_0003,1814.12.01_CaledonianMercury_0002
-1814.12.02_LiverpoolMercuryetc_0003,1814.12.01_CaledonianMercury_0004
-1814.12.02_LiverpoolMercuryetc_0003,1814.12.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1814.12.03_CaledonianMercury_0003,1814.12.02_LiverpoolMercuryetc_0008
-1814.12.03_TheIpswichJournal_0004,1814.12.01_CaledonianMercury_0002
-1814.12.03_TheIpswichJournal_0004,1814.12.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1814.12.03_TheIpswichJournal_0004,1814.12.03_CaledonianMercury_0002
-1814.12.03_TheLeedsMercury_0002,1814.12.02_LiverpoolMercuryetc_0003
-1814.12.03_TheLeedsMercury_0002,1814.12.03_CaledonianMercury_0002
-1814.12.03_TheLeedsMercury_0002,1814.12.03_CaledonianMercury_0004
-1814.12.03_TheLeedsMercury_0004,1814.12.01_CaledonianMercury_0002
-1814.12.03_TheLeedsMercury_0004,1814.12.01_TheDerbyMercury_0001
-1814.12.03_TheLeedsMercury_0004,1814.12.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1814.12.03_TheLeedsMercury_0004,1814.12.02_LiverpoolMercuryetc_0003
-1814.12.03_TheLeedsMercury_0004,1814.12.03_TheIpswichJournal_0004
-1814.12.04_TheExaminer_0005,1814.12.01_CaledonianMercury_0004
-1814.12.04_TheExaminer_0005,1814.12.02_LiverpoolMercuryetc_0003
-1814.12.04_TheExaminer_0007,1814.12.03_CaledonianMercury_0002
-1814.12.04_TheExaminer_0008,1814.12.03_CaledonianMercury_0002
-1814.12.05_CaledonianMercury_0002,1814.12.04_TheExaminer_0004
-1814.12.05_CaledonianMercury_0003,1814.12.03_TheLeedsMercury_0003
-1814.12.05_CaledonianMercury_0003,1814.12.04_TheExaminer_0012
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1814	12	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1814	12	01	CaledonianMercury	0002
+1814	12	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1814	12	01	CaledonianMercury	0004
+1814	12	02	LiverpoolMercuryetc	0002	1814	12	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1814	12	02	LiverpoolMercuryetc	0003	1814	12	01	CaledonianMercury	0002
+1814	12	02	LiverpoolMercuryetc	0003	1814	12	01	CaledonianMercury	0004
+1814	12	02	LiverpoolMercuryetc	0003	1814	12	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1814	12	03	CaledonianMercury	0003	1814	12	02	LiverpoolMercuryetc	0008
+1814	12	03	TheIpswichJournal	0004	1814	12	01	CaledonianMercury	0002
+1814	12	03	TheIpswichJournal	0004	1814	12	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1814	12	03	TheIpswichJournal	0004	1814	12	03	CaledonianMercury	0002
+1814	12	03	TheLeedsMercury	0002	1814	12	02	LiverpoolMercuryetc	0003
+1814	12	03	TheLeedsMercury	0002	1814	12	03	CaledonianMercury	0002
+1814	12	03	TheLeedsMercury	0002	1814	12	03	CaledonianMercury	0004
+1814	12	03	TheLeedsMercury	0004	1814	12	01	CaledonianMercury	0002
+1814	12	03	TheLeedsMercury	0004	1814	12	01	TheDerbyMercury	0001
+1814	12	03	TheLeedsMercury	0004	1814	12	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1814	12	03	TheLeedsMercury	0004	1814	12	02	LiverpoolMercuryetc	0003
+1814	12	03	TheLeedsMercury	0004	1814	12	03	TheIpswichJournal	0004
+1814	12	04	TheExaminer	0005	1814	12	01	CaledonianMercury	0004
+1814	12	04	TheExaminer	0005	1814	12	02	LiverpoolMercuryetc	0003
+1814	12	04	TheExaminer	0007	1814	12	03	CaledonianMercury	0002
+1814	12	04	TheExaminer	0008	1814	12	03	CaledonianMercury	0002
+1814	12	05	CaledonianMercury	0002	1814	12	04	TheExaminer	0004
+1814	12	05	CaledonianMercury	0003	1814	12	03	TheLeedsMercury	0003
+1814	12	05	CaledonianMercury	0003	1814	12	04	TheExaminer	0012

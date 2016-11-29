@@ -1,6 +1,7 @@
-1809.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1809.03.01_TheAberdeenJournal_0004
-1809.03.04_Jackson'sOxfordJournal_0001,1809.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1809.03.04_Jackson'sOxfordJournal_0004,1809.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1809.03.04_TheLeedsMercury_0002,1809.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1809.03.05_TheExaminer_0015,1809.03.04_CaledonianMercury_0003
-1809.03.06_CaledonianMercury_0002,1809.03.05_TheExaminer_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1809	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1809	03	01	TheAberdeenJournal	0004
+1809	03	04	Jackson'sOxfordJournal	0001	1809	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1809	03	04	Jackson'sOxfordJournal	0004	1809	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1809	03	04	TheLeedsMercury	0002	1809	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1809	03	05	TheExaminer	0015	1809	03	04	CaledonianMercury	0003
+1809	03	06	CaledonianMercury	0002	1809	03	05	TheExaminer	0004

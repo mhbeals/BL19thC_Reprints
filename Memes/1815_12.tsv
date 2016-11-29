@@ -1,27 +1,28 @@
-1815.12.02_CaledonianMercury_0004,1815.12.01_LiverpoolMercuryetc_0002
-1815.12.02_Cobbett'sWeeklyPoliticalRegister_0012,1815.12.02_CaledonianMercury_0002
-1815.12.02_Cobbett'sWeeklyPoliticalRegister_0013,1815.12.02_CaledonianMercury_0002
-1815.12.02_Cobbett'sWeeklyPoliticalRegister_0014,1815.12.02_CaledonianMercury_0002
-1815.12.02_Cobbett'sWeeklyPoliticalRegister_0015,1815.12.02_CaledonianMercury_0002
-1815.12.02_Jackson'sOxfordJournal_0001,1815.12.02_CaledonianMercury_0002
-1815.12.02_Jackson'sOxfordJournal_0001,1815.12.02_Cobbett'sWeeklyPoliticalRegister_0011
-1815.12.02_Jackson'sOxfordJournal_0001,1815.12.02_Cobbett'sWeeklyPoliticalRegister_0012
-1815.12.02_Jackson'sOxfordJournal_0001,1815.12.02_Cobbett'sWeeklyPoliticalRegister_0013
-1815.12.02_TheIpswichJournal_0004,1815.12.02_CaledonianMercury_0002
-1815.12.02_TheIpswichJournal_0004,1815.12.02_Cobbett'sWeeklyPoliticalRegister_0011
-1815.12.02_TheIpswichJournal_0004,1815.12.02_Cobbett'sWeeklyPoliticalRegister_0012
-1815.12.02_TheIpswichJournal_0004,1815.12.02_Jackson'sOxfordJournal_0001
-1815.12.02_TheLeedsMercury_0002,1815.12.02_CaledonianMercury_0002
-1815.12.02_TheLeedsMercury_0002,1815.12.02_Cobbett'sWeeklyPoliticalRegister_0012
-1815.12.02_TheLeedsMercury_0002,1815.12.02_Cobbett'sWeeklyPoliticalRegister_0015
-1815.12.02_TheLeedsMercury_0002,1815.12.02_Jackson'sOxfordJournal_0001
-1815.12.02_TheLeedsMercury_0004,1815.12.02_Jackson'sOxfordJournal_0004
-1815.12.03_TheExaminer_0010,1815.12.02_CaledonianMercury_0002
-1815.12.03_TheExaminer_0010,1815.12.02_Cobbett'sWeeklyPoliticalRegister_0011
-1815.12.03_TheExaminer_0010,1815.12.02_Cobbett'sWeeklyPoliticalRegister_0012
-1815.12.03_TheExaminer_0010,1815.12.02_Jackson'sOxfordJournal_0001
-1815.12.03_TheExaminer_0010,1815.12.02_TheIpswichJournal_0004
-1815.12.03_TheExaminer_0011,1815.12.02_CaledonianMercury_0002
-1815.12.03_TheExaminer_0011,1815.12.02_Cobbett'sWeeklyPoliticalRegister_0013
-1815.12.03_TheExaminer_0011,1815.12.02_Jackson'sOxfordJournal_0001
-1815.12.04_CaledonianMercury_0002,1815.12.02_TheMorningChronicle_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1815	12	02	CaledonianMercury	0004	1815	12	01	LiverpoolMercuryetc	0002
+1815	12	02	Cobbett'sWeeklyPoliticalRegister	0012	1815	12	02	CaledonianMercury	0002
+1815	12	02	Cobbett'sWeeklyPoliticalRegister	0013	1815	12	02	CaledonianMercury	0002
+1815	12	02	Cobbett'sWeeklyPoliticalRegister	0014	1815	12	02	CaledonianMercury	0002
+1815	12	02	Cobbett'sWeeklyPoliticalRegister	0015	1815	12	02	CaledonianMercury	0002
+1815	12	02	Jackson'sOxfordJournal	0001	1815	12	02	CaledonianMercury	0002
+1815	12	02	Jackson'sOxfordJournal	0001	1815	12	02	Cobbett'sWeeklyPoliticalRegister	0011
+1815	12	02	Jackson'sOxfordJournal	0001	1815	12	02	Cobbett'sWeeklyPoliticalRegister	0012
+1815	12	02	Jackson'sOxfordJournal	0001	1815	12	02	Cobbett'sWeeklyPoliticalRegister	0013
+1815	12	02	TheIpswichJournal	0004	1815	12	02	CaledonianMercury	0002
+1815	12	02	TheIpswichJournal	0004	1815	12	02	Cobbett'sWeeklyPoliticalRegister	0011
+1815	12	02	TheIpswichJournal	0004	1815	12	02	Cobbett'sWeeklyPoliticalRegister	0012
+1815	12	02	TheIpswichJournal	0004	1815	12	02	Jackson'sOxfordJournal	0001
+1815	12	02	TheLeedsMercury	0002	1815	12	02	CaledonianMercury	0002
+1815	12	02	TheLeedsMercury	0002	1815	12	02	Cobbett'sWeeklyPoliticalRegister	0012
+1815	12	02	TheLeedsMercury	0002	1815	12	02	Cobbett'sWeeklyPoliticalRegister	0015
+1815	12	02	TheLeedsMercury	0002	1815	12	02	Jackson'sOxfordJournal	0001
+1815	12	02	TheLeedsMercury	0004	1815	12	02	Jackson'sOxfordJournal	0004
+1815	12	03	TheExaminer	0010	1815	12	02	CaledonianMercury	0002
+1815	12	03	TheExaminer	0010	1815	12	02	Cobbett'sWeeklyPoliticalRegister	0011
+1815	12	03	TheExaminer	0010	1815	12	02	Cobbett'sWeeklyPoliticalRegister	0012
+1815	12	03	TheExaminer	0010	1815	12	02	Jackson'sOxfordJournal	0001
+1815	12	03	TheExaminer	0010	1815	12	02	TheIpswichJournal	0004
+1815	12	03	TheExaminer	0011	1815	12	02	CaledonianMercury	0002
+1815	12	03	TheExaminer	0011	1815	12	02	Cobbett'sWeeklyPoliticalRegister	0013
+1815	12	03	TheExaminer	0011	1815	12	02	Jackson'sOxfordJournal	0001
+1815	12	04	CaledonianMercury	0002	1815	12	02	TheMorningChronicle	0002

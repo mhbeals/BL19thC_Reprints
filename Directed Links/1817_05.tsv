@@ -1,38 +1,39 @@
-1817.05.02_LiverpoolMercuryetc_0002,1817.05.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1817.05.03_TheLeedsMercury_0003,1817.05.01_TheMorningChronicle_0002
-1817.05.03_TheLeedsMercury_0004,1817.05.02_LiverpoolMercuryetc_0001
-1817.05.08_CaledonianMercury_0002,1817.05.03_TheMorningChronicle_0003
-1817.05.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1817.05.01_CaledonianMercury_0002
-1817.05.09_LiverpoolMercuryetc_0003,1817.05.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1817.05.10_CaledonianMercury_0002,1817.05.06_TheMorningChronicle_0002
-1817.05.10_TheLeedsMercury_0002,1817.05.07_TheMorningChronicle_0003
-1817.05.10_TheLeedsMercury_0003,1817.05.03_TheMorningChronicle_0003
-1817.05.10_TheLeedsMercury_0004,1817.05.02_LiverpoolMercuryetc_0001
-1817.05.12_CaledonianMercury_0002,1817.05.08_TheMorningChronicle_0003
-1817.05.12_CaledonianMercury_0004,1817.05.09_LiverpoolMercuryetc_0003
-1817.05.15_CaledonianMercury_0002,1817.05.12_TheMorningChronicle_0002
-1817.05.15_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1817.05.10_TheMorningChronicle_0003
-1817.05.16_LiverpoolMercuryetc_0002,1817.05.07_TheMorningChronicle_0002
-1817.05.16_LiverpoolMercuryetc_0003,1817.05.10_TheLeedsMercury_0002
-1817.05.16_LiverpoolMercuryetc_0007,1817.05.15_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1817.05.17_CaledonianMercury_0001,1817.05.15_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1817.05.17_TheLeedsMercury_0002,1817.05.02_LiverpoolMercuryetc_0001
-1817.05.17_TheLeedsMercury_0003,1817.05.15_TheMorningChronicle_0002
-1817.05.17_TheLeedsMercury_0004,1817.05.02_LiverpoolMercuryetc_0001
-1817.05.18_TheExaminer_0015,1817.05.12_TheMorningChronicle_0003
-1817.05.19_CaledonianMercury_0002,1817.05.17_Jackson'sOxfordJournal_0002
-1817.05.22_CaledonianMercury_0004,1817.05.19_TheMorningChronicle_0003
-1817.05.22_TheDerbyMercury_0001,1817.05.17_TheMorningChronicle_0003
-1817.05.22_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1817.05.19_CaledonianMercury_0002
-1817.05.23_LiverpoolMercuryetc_0001,1817.05.10_TheLeedsMercury_0004
-1817.05.23_LiverpoolMercuryetc_0002,1817.05.17_TheMorningChronicle_0003
-1817.05.23_LiverpoolMercuryetc_0006,1817.05.18_TheExaminer_0001
-1817.05.24_CaledonianMercury_0004,1817.05.17_TheMorningChronicle_0003
-1817.05.24_TheIpswichJournal_0004,1817.05.22_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1817.05.24_TheLeedsMercury_0001,1817.05.02_LiverpoolMercuryetc_0001
-1817.05.24_TheLeedsMercury_0003,1817.05.22_TheMorningChronicle_0003
-1817.05.24_TheLeedsMercury_0004,1817.05.02_LiverpoolMercuryetc_0001
-1817.05.25_TheExaminer_0013,1817.05.24_TheIpswichJournal_0002
-1817.05.26_CaledonianMercury_0002,1817.05.22_TheMorningChronicle_0003
-1817.05.26_CaledonianMercury_0003,1817.05.23_TheMorningChronicle_0003
-1817.05.26_CaledonianMercury_0004,1817.05.22_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1817	05	02	LiverpoolMercuryetc	0002	1817	05	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1817	05	03	TheLeedsMercury	0003	1817	05	01	TheMorningChronicle	0002
+1817	05	03	TheLeedsMercury	0004	1817	05	02	LiverpoolMercuryetc	0001
+1817	05	08	CaledonianMercury	0002	1817	05	03	TheMorningChronicle	0003
+1817	05	08	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1817	05	01	CaledonianMercury	0002
+1817	05	09	LiverpoolMercuryetc	0003	1817	05	08	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1817	05	10	CaledonianMercury	0002	1817	05	06	TheMorningChronicle	0002
+1817	05	10	TheLeedsMercury	0002	1817	05	07	TheMorningChronicle	0003
+1817	05	10	TheLeedsMercury	0003	1817	05	03	TheMorningChronicle	0003
+1817	05	10	TheLeedsMercury	0004	1817	05	02	LiverpoolMercuryetc	0001
+1817	05	12	CaledonianMercury	0002	1817	05	08	TheMorningChronicle	0003
+1817	05	12	CaledonianMercury	0004	1817	05	09	LiverpoolMercuryetc	0003
+1817	05	15	CaledonianMercury	0002	1817	05	12	TheMorningChronicle	0002
+1817	05	15	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1817	05	10	TheMorningChronicle	0003
+1817	05	16	LiverpoolMercuryetc	0002	1817	05	07	TheMorningChronicle	0002
+1817	05	16	LiverpoolMercuryetc	0003	1817	05	10	TheLeedsMercury	0002
+1817	05	16	LiverpoolMercuryetc	0007	1817	05	15	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1817	05	17	CaledonianMercury	0001	1817	05	15	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1817	05	17	TheLeedsMercury	0002	1817	05	02	LiverpoolMercuryetc	0001
+1817	05	17	TheLeedsMercury	0003	1817	05	15	TheMorningChronicle	0002
+1817	05	17	TheLeedsMercury	0004	1817	05	02	LiverpoolMercuryetc	0001
+1817	05	18	TheExaminer	0015	1817	05	12	TheMorningChronicle	0003
+1817	05	19	CaledonianMercury	0002	1817	05	17	Jackson'sOxfordJournal	0002
+1817	05	22	CaledonianMercury	0004	1817	05	19	TheMorningChronicle	0003
+1817	05	22	TheDerbyMercury	0001	1817	05	17	TheMorningChronicle	0003
+1817	05	22	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1817	05	19	CaledonianMercury	0002
+1817	05	23	LiverpoolMercuryetc	0001	1817	05	10	TheLeedsMercury	0004
+1817	05	23	LiverpoolMercuryetc	0002	1817	05	17	TheMorningChronicle	0003
+1817	05	23	LiverpoolMercuryetc	0006	1817	05	18	TheExaminer	0001
+1817	05	24	CaledonianMercury	0004	1817	05	17	TheMorningChronicle	0003
+1817	05	24	TheIpswichJournal	0004	1817	05	22	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1817	05	24	TheLeedsMercury	0001	1817	05	02	LiverpoolMercuryetc	0001
+1817	05	24	TheLeedsMercury	0003	1817	05	22	TheMorningChronicle	0003
+1817	05	24	TheLeedsMercury	0004	1817	05	02	LiverpoolMercuryetc	0001
+1817	05	25	TheExaminer	0013	1817	05	24	TheIpswichJournal	0002
+1817	05	26	CaledonianMercury	0002	1817	05	22	TheMorningChronicle	0003
+1817	05	26	CaledonianMercury	0003	1817	05	23	TheMorningChronicle	0003
+1817	05	26	CaledonianMercury	0004	1817	05	22	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003

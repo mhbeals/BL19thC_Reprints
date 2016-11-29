@@ -1,7 +1,8 @@
-1803.03.05_Jackson'sOxfordJournal_0001,1803.03.03_Trewman'sExeterFlyingPost_0004
-1803.03.05_Jackson'sOxfordJournal_0004,1803.03.03_Trewman'sExeterFlyingPost_0003
-1803.03.05_TheIpswichJournal_0004,1803.03.03_Trewman'sExeterFlyingPost_0004
-1803.03.05_TheIpswichJournal_0004,1803.03.05_Jackson'sOxfordJournal_0001
-1803.03.05_TheIpswichJournal_0004,1803.03.05_Jackson'sOxfordJournal_0004
-1803.03.05_TheNewcastleCourantetc_0002,1803.03.03_Trewman'sExeterFlyingPost_0004
-1803.03.05_TheNewcastleCourantetc_0003,1803.03.05_Jackson'sOxfordJournal_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1803	03	05	Jackson'sOxfordJournal	0001	1803	03	03	Trewman'sExeterFlyingPost	0004
+1803	03	05	Jackson'sOxfordJournal	0004	1803	03	03	Trewman'sExeterFlyingPost	0003
+1803	03	05	TheIpswichJournal	0004	1803	03	03	Trewman'sExeterFlyingPost	0004
+1803	03	05	TheIpswichJournal	0004	1803	03	05	Jackson'sOxfordJournal	0001
+1803	03	05	TheIpswichJournal	0004	1803	03	05	Jackson'sOxfordJournal	0004
+1803	03	05	TheNewcastleCourantetc	0002	1803	03	03	Trewman'sExeterFlyingPost	0004
+1803	03	05	TheNewcastleCourantetc	0003	1803	03	05	Jackson'sOxfordJournal	0004

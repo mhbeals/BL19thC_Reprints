@@ -1,6 +1,7 @@
-1803.04.02_Jackson'sOxfordJournal_0003,1803.04.01_TheMorningChronicle_0003
-1803.04.02_TheIpswichJournal_0002,1803.04.02_Jackson'sOxfordJournal_0002
-1803.04.02_TheNewcastleCourantetc_0002,1803.04.02_Jackson'sOxfordJournal_0004
-1803.04.02_TheNewcastleCourantetc_0002,1803.04.02_TheIpswichJournal_0001
-1803.04.02_TheNewcastleCourantetc_0002,1803.04.02_TheIpswichJournal_0004
-1803.04.02_TheNewcastleCourantetc_0003,1803.04.02_TheIpswichJournal_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1803	04	02	Jackson'sOxfordJournal	0003	1803	04	01	TheMorningChronicle	0003
+1803	04	02	TheIpswichJournal	0002	1803	04	02	Jackson'sOxfordJournal	0002
+1803	04	02	TheNewcastleCourantetc	0002	1803	04	02	Jackson'sOxfordJournal	0004
+1803	04	02	TheNewcastleCourantetc	0002	1803	04	02	TheIpswichJournal	0001
+1803	04	02	TheNewcastleCourantetc	0002	1803	04	02	TheIpswichJournal	0004
+1803	04	02	TheNewcastleCourantetc	0003	1803	04	02	TheIpswichJournal	0004

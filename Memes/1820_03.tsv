@@ -1,190 +1,191 @@
-1820.03.02_CaledonianMercury_0002,1820.03.01_Freeman'sJournalandDailyCommercialAdvertiser_0002
-1820.03.02_CaledonianMercury_0002,1820.03.01_Freeman'sJournalandDailyCommercialAdvertiser_0003
-1820.03.03_GlasgowHerald_0001,1820.03.02_CaledonianMercury_0003
-1820.03.03_GlasgowHerald_0001,1820.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1820.03.03_GlasgowHerald_0001,1820.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1820.03.03_LiverpoolMercuryetc_0008,1820.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1820.03.04_CaledonianMercury_0004,1820.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1820.03.04_CaledonianMercury_0004,1820.03.03_GlasgowHerald_0001
-1820.03.04_Jackson'sOxfordJournal_0002,1820.03.04_CaledonianMercury_0002
-1820.03.04_TheLeedsMercury_0002,1820.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1820.03.04_TheLeedsMercury_0002,1820.03.03_GlasgowHerald_0001
-1820.03.04_TheLeedsMercury_0002,1820.03.04_Jackson'sOxfordJournal_0004
-1820.03.04_TheNewcastleCourantetc_0002,1820.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1820.03.04_TheNewcastleCourantetc_0002,1820.03.04_TheLeedsMercury_0002
-1820.03.06_Freeman'sJournalandDailyCommercialAdvertiser_0003,1820.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1820.03.06_Freeman'sJournalandDailyCommercialAdvertiser_0004,1820.03.04_Jackson'sOxfordJournal_0002
-1820.03.06_GlasgowHerald_0001,1820.03.05_TheExaminer_0005
-1820.03.06_GlasgowHerald_0002,1820.03.06_CaledonianMercury_0003
-1820.03.07_Freeman'sJournalandDailyCommercialAdvertiser_0004,1820.03.04_CaledonianMercury_0002
-1820.03.08_TheAberdeenJournal_0002,1820.03.06_GlasgowHerald_0004
-1820.03.08_TheAberdeenJournal_0004,1820.03.03_GlasgowHerald_0001
-1820.03.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1820.03.06_CaledonianMercury_0002
-1820.03.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1820.03.08_Freeman'sJournalandDailyCommercialAdvertiser_0002
-1820.03.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1820.03.09_CaledonianMercury_0002
-1820.03.10_Freeman'sJournalandDailyCommercialAdvertiser_0004,1820.03.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1820.03.10_GlasgowHerald_0001,1820.03.06_CaledonianMercury_0003
-1820.03.10_GlasgowHerald_0001,1820.03.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1820.03.10_GlasgowHerald_0001,1820.03.10_Freeman'sJournalandDailyCommercialAdvertiser_0004
-1820.03.10_GlasgowHerald_0002,1820.03.09_CaledonianMercury_0003
-1820.03.10_LiverpoolMercuryetc_0002,1820.03.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1820.03.11_CaledonianMercury_0004,1820.03.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1820.03.11_CaledonianMercury_0004,1820.03.10_Freeman'sJournalandDailyCommercialAdvertiser_0004
-1820.03.11_CaledonianMercury_0004,1820.03.10_GlasgowHerald_0001
-1820.03.11_Freeman'sJournalandDailyCommercialAdvertiser_0004,1820.03.10_GlasgowHerald_0001
-1820.03.11_Jackson'sOxfordJournal_0001,1820.03.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1820.03.11_Jackson'sOxfordJournal_0001,1820.03.10_GlasgowHerald_0001
-1820.03.11_Jackson'sOxfordJournal_0001,1820.03.11_CaledonianMercury_0004
-1820.03.11_Jackson'sOxfordJournal_0004,1820.03.09_CaledonianMercury_0002
-1820.03.11_Jackson'sOxfordJournal_0004,1820.03.11_Freeman'sJournalandDailyCommercialAdvertiser_0004
-1820.03.11_TheIpswichJournal_0004,1820.03.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1820.03.11_TheIpswichJournal_0004,1820.03.10_Freeman'sJournalandDailyCommercialAdvertiser_0004
-1820.03.11_TheIpswichJournal_0004,1820.03.10_GlasgowHerald_0001
-1820.03.11_TheIpswichJournal_0004,1820.03.11_CaledonianMercury_0004
-1820.03.11_TheNewcastleCourantetc_0002,1820.03.06_GlasgowHerald_0002
-1820.03.11_TheNewcastleCourantetc_0002,1820.03.08_Freeman'sJournalandDailyCommercialAdvertiser_0002
-1820.03.11_TheNewcastleCourantetc_0002,1820.03.09_CaledonianMercury_0004
-1820.03.11_TheNewcastleCourantetc_0002,1820.03.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1820.03.11_TheNewcastleCourantetc_0002,1820.03.11_CaledonianMercury_0004
-1820.03.11_TheNewcastleCourantetc_0002,1820.03.11_Freeman'sJournalandDailyCommercialAdvertiser_0004
-1820.03.11_TheNewcastleCourantetc_0002,1820.03.11_Jackson'sOxfordJournal_0004
-1820.03.12_TheExaminer_0015,1820.03.10_Freeman'sJournalandDailyCommercialAdvertiser_0004
-1820.03.13_GlasgowHerald_0001,1820.03.11_CaledonianMercury_0002
-1820.03.13_TheBristolMercury_0001,1820.03.11_Jackson'sOxfordJournal_0002
-1820.03.13_TheBristolMercury_0004,1820.03.12_TheExaminer_0009
-1820.03.14_LiverpoolMercuryetc_0002,1820.03.04_TheLeedsMercury_0004
-1820.03.14_LiverpoolMercuryetc_0003,1820.03.04_TheLeedsMercury_0004
-1820.03.14_LiverpoolMercuryetc_0007,1820.03.11_TheNewcastleCourantetc_0002
-1820.03.15_TheAberdeenJournal_0002,1820.03.09_CaledonianMercury_0002
-1820.03.17_GlasgowHerald_0001,1820.03.15_Freeman'sJournalandDailyCommercialAdvertiser_0003
-1820.03.17_GlasgowHerald_0004,1820.03.11_TheNewcastleCourantetc_0004
-1820.03.17_LiverpoolMercuryetc_0005,1820.03.15_TheAberdeenJournal_0004
-1820.03.18_CaledonianMercury_0004,1820.03.15_Freeman'sJournalandDailyCommercialAdvertiser_0003
-1820.03.18_CaledonianMercury_0004,1820.03.17_GlasgowHerald_0004
-1820.03.18_Jackson'sOxfordJournal_0004,1820.03.11_TheNewcastleCourantetc_0001
-1820.03.18_Jackson'sOxfordJournal_0004,1820.03.16_CaledonianMercury_0002
-1820.03.18_TheIpswichJournal_0001,1820.03.11_Jackson'sOxfordJournal_0002
-1820.03.18_TheNewcastleCourantetc_0002,1820.03.13_CaledonianMercury_0003
-1820.03.18_TheNewcastleCourantetc_0002,1820.03.15_Freeman'sJournalandDailyCommercialAdvertiser_0003
-1820.03.18_TheNewcastleCourantetc_0002,1820.03.16_CaledonianMercury_0004
-1820.03.18_TheNewcastleCourantetc_0002,1820.03.17_GlasgowHerald_0001
-1820.03.18_TheNewcastleCourantetc_0002,1820.03.17_GlasgowHerald_0004
-1820.03.18_TheNewcastleCourantetc_0003,1820.03.11_Jackson'sOxfordJournal_0002
-1820.03.18_TheNewcastleCourantetc_0003,1820.03.18_Jackson'sOxfordJournal_0004
-1820.03.19_TheExaminer_0009,1820.03.15_Freeman'sJournalandDailyCommercialAdvertiser_0003
-1820.03.19_TheExaminer_0009,1820.03.18_TheNewcastleCourantetc_0002
-1820.03.20_CaledonianMercury_0004,1820.03.15_Freeman'sJournalandDailyCommercialAdvertiser_0003
-1820.03.20_HampshireTelegraphandSussexChronicleetc_0002,1820.03.16_CaledonianMercury_0002
-1820.03.20_TheBristolMercury_0001,1820.03.15_Freeman'sJournalandDailyCommercialAdvertiser_0003
-1820.03.20_TheBristolMercury_0001,1820.03.15_TheAberdeenJournal_0004
-1820.03.20_TheBristolMercury_0001,1820.03.18_TheNewcastleCourantetc_0002
-1820.03.21_Freeman'sJournalandDailyCommercialAdvertiser_0002,1820.03.20_CaledonianMercury_0002
-1820.03.21_Freeman'sJournalandDailyCommercialAdvertiser_0004,1820.03.06_CaledonianMercury_0002
-1820.03.21_LiverpoolMercuryetc_0006,1820.03.15_Freeman'sJournalandDailyCommercialAdvertiser_0003
-1820.03.22_TheAberdeenJournal_0004,1820.03.10_LiverpoolMercuryetc_0005
-1820.03.23_CaledonianMercury_0002,1820.03.21_LiverpoolMercuryetc_0003
-1820.03.23_CaledonianMercury_0004,1820.03.20_GlasgowHerald_0001
-1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,1820.03.23_CaledonianMercury_0002
-1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1820.03.11_CaledonianMercury_0001
-1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1820.03.15_TheAberdeenJournal_0004
-1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1820.03.17_LiverpoolMercuryetc_0005
-1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1820.03.20_CaledonianMercury_0002
-1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1820.03.20_GlasgowHerald_0004
-1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1820.03.20_TheBristolMercury_0001
-1820.03.24_GlasgowHerald_0001,1820.03.23_CaledonianMercury_0002
-1820.03.24_GlasgowHerald_0001,1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1820.03.25_CaledonianMercury_0002,1820.03.21_LiverpoolMercuryetc_0008
-1820.03.25_Freeman'sJournalandDailyCommercialAdvertiser_0002,1820.03.25_CaledonianMercury_0002
-1820.03.25_Freeman'sJournalandDailyCommercialAdvertiser_0004,1820.03.20_CaledonianMercury_0003
-1820.03.25_Jackson'sOxfordJournal_0002,1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1820.03.25_Jackson'sOxfordJournal_0004,1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1820.03.25_TheLeedsMercury_0002,1820.03.23_CaledonianMercury_0002
-1820.03.25_TheLeedsMercury_0002,1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1820.03.25_TheLeedsMercury_0002,1820.03.24_GlasgowHerald_0001
-1820.03.25_TheNewcastleCourantetc_0001,1820.03.25_Jackson'sOxfordJournal_0002
-1820.03.25_TheNewcastleCourantetc_0002,1820.03.21_LiverpoolMercuryetc_0002
-1820.03.27_CaledonianMercury_0004,1820.03.24_GlasgowHerald_0001
-1820.03.27_GlasgowHerald_0001,1820.03.18_CaledonianMercury_0003
-1820.03.27_GlasgowHerald_0001,1820.03.20_CaledonianMercury_0003
-1820.03.27_GlasgowHerald_0001,1820.03.23_CaledonianMercury_0004
-1820.03.27_GlasgowHerald_0001,1820.03.25_CaledonianMercury_0002
-1820.03.27_GlasgowHerald_0001,1820.03.25_Freeman'sJournalandDailyCommercialAdvertiser_0004
-1820.03.27_GlasgowHerald_0004,1820.03.20_Freeman'sJournalandDailyCommercialAdvertiser_0004
-1820.03.27_GlasgowHerald_0004,1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1820.03.27_GlasgowHerald_0004,1820.03.25_Jackson'sOxfordJournal_0004
-1820.03.27_TheBristolMercury_0002,1820.03.21_LiverpoolMercuryetc_0007
-1820.03.29_TheAberdeenJournal_0002,1820.03.23_CaledonianMercury_0002
-1820.03.29_TheAberdeenJournal_0003,1820.03.25_TheNewcastleCourantetc_0004
-1820.03.30_CaledonianMercury_0002,1820.03.29_TheDerbyMercury_0002
-1820.03.30_CaledonianMercury_0004,1820.03.29_Freeman'sJournalandDailyCommercialAdvertiser_0003
-1820.03.30_Freeman'sJournalandDailyCommercialAdvertiser_0002,1820.03.30_CaledonianMercury_0002
-1820.03.30_Freeman'sJournalandDailyCommercialAdvertiser_0004,1820.03.30_CaledonianMercury_0004
-1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,1820.03.27_TheBristolMercury_0003
-1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1820.03.27_TheBristolMercury_0004
-1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1820.03.29_Freeman'sJournalandDailyCommercialAdvertiser_0003
-1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1820.03.30_CaledonianMercury_0004
-1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,1820.03.30_CaledonianMercury_0002
-1820.03.31_GlasgowHerald_0001,1820.03.27_CaledonianMercury_0003
-1820.03.31_GlasgowHerald_0001,1820.03.31_Freeman'sJournalandDailyCommercialAdvertiser_0004
-1820.03.31_GlasgowHerald_0004,1820.03.25_CaledonianMercury_0003
-1820.03.31_GlasgowHerald_0004,1820.03.30_CaledonianMercury_0004
-1820.03.31_GlasgowHerald_0004,1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1820.04.01_CaledonianMercury_0002,1820.03.31_Freeman'sJournalandDailyCommercialAdvertiser_0002
-1820.04.01_CaledonianMercury_0004,1820.03.27_GlasgowHerald_0001
-1820.04.01_CaledonianMercury_0004,1820.03.31_GlasgowHerald_0001
-1820.04.01_Jackson'sOxfordJournal_0002,1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1820.04.01_Jackson'sOxfordJournal_0004,1820.03.27_CaledonianMercury_0002
-1820.04.01_Jackson'sOxfordJournal_0004,1820.03.29_Freeman'sJournalandDailyCommercialAdvertiser_0003
-1820.04.01_Jackson'sOxfordJournal_0004,1820.03.30_CaledonianMercury_0004
-1820.04.01_Jackson'sOxfordJournal_0004,1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1820.04.01_Jackson'sOxfordJournal_0004,1820.03.31_GlasgowHerald_0004
-1820.04.01_TheNewcastleCourantetc_0003,1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1820.04.01_TheNewcastleCourantetc_0004,1820.03.30_CaledonianMercury_0002
-1820.04.02_TheExaminer_0005,1820.03.30_CaledonianMercury_0004
-1820.04.03_TheBristolMercury_0004,1820.03.27_CaledonianMercury_0004
-1820.04.05_TheAberdeenJournal_0004,1820.03.21_Freeman'sJournalandDailyCommercialAdvertiser_0004
-1820.04.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,1820.03.17_GlasgowHerald_0004
-1820.04.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,1820.03.18_CaledonianMercury_0004
-1820.04.08_Freeman'sJournalandDailyCommercialAdvertiser_0003,1820.03.17_GlasgowHerald_0004
-1820.04.08_Jackson'sOxfordJournal_0004,1820.03.11_TheNewcastleCourantetc_0003
-1820.04.08_Jackson'sOxfordJournal_0004,1820.03.17_GlasgowHerald_0004
-1820.04.08_Jackson'sOxfordJournal_0004,1820.03.18_CaledonianMercury_0004
-1820.04.08_Jackson'sOxfordJournal_0004,1820.03.18_TheNewcastleCourantetc_0003
-1820.04.08_TheLeedsMercury_0001,1820.03.23_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1820.04.08_TheLeedsMercury_0001,1820.03.25_Jackson'sOxfordJournal_0002
-1820.04.08_TheLeedsMercury_0001,1820.03.27_HampshireTelegraphandSussexChronicleetc_0002
-1820.04.26_TheAberdeenJournal_0004,1820.03.16_CaledonianMercury_0001
-1820.04.28_LiverpoolMercuryetc_0005,1820.03.04_TheLeedsMercury_0004
-1820.04.29_Jackson'sOxfordJournal_0002,1820.03.04_TheLeedsMercury_0004
-1820.04.29_Jackson'sOxfordJournal_0002,1820.03.11_TheLeedsMercury_0004
-1820.04.29_Jackson'sOxfordJournal_0002,1820.03.18_TheLeedsMercury_0004
-1820.04.29_Jackson'sOxfordJournal_0002,1820.03.25_TheLeedsMercury_0004
-1820.05.13_Jackson'sOxfordJournal_0004,1820.03.11_TheNewcastleCourantetc_0003
-1820.05.13_TheNewcastleCourantetc_0003,1820.03.04_TheLeedsMercury_0004
-1820.05.13_TheNewcastleCourantetc_0003,1820.03.11_TheLeedsMercury_0004
-1820.05.13_TheNewcastleCourantetc_0003,1820.03.18_TheLeedsMercury_0004
-1820.05.15_TheBristolMercury_0003,1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1820.05.20_TheNewcastleCourantetc_0003,1820.03.10_LiverpoolMercuryetc_0005
-1820.05.20_TheNewcastleCourantetc_0003,1820.03.11_TheLeedsMercury_0004
-1820.05.27_Jackson'sOxfordJournal_0001,1820.03.04_TheLeedsMercury_0004
-1820.05.27_Jackson'sOxfordJournal_0001,1820.03.11_TheLeedsMercury_0004
-1820.06.17_Jackson'sOxfordJournal_0004,1820.03.11_TheNewcastleCourantetc_0003
-1820.07.08_Jackson'sOxfordJournal_0004,1820.03.04_TheLeedsMercury_0004
-1820.07.08_Jackson'sOxfordJournal_0004,1820.03.11_TheLeedsMercury_0004
-1820.07.08_TheNewcastleCourantetc_0003,1820.03.25_Jackson'sOxfordJournal_0002
-1820.07.10_TheBristolMercury_0001,1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1820.07.22_TheNewcastleCourantetc_0003,1820.03.04_TheLeedsMercury_0004
-1820.07.22_TheNewcastleCourantetc_0003,1820.03.11_TheLeedsMercury_0004
-1820.07.29_TheNewcastleCourantetc_0003,1820.03.11_TheLeedsMercury_0004
-1820.08.05_Jackson'sOxfordJournal_0002,1820.03.18_TheNewcastleCourantetc_0003
-1820.08.07_TheBristolMercury_0001,1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1820.09.09_Jackson'sOxfordJournal_0004,1820.03.11_TheNewcastleCourantetc_0001
-1820.09.09_Jackson'sOxfordJournal_0004,1820.03.11_TheNewcastleCourantetc_0003
-1820.09.09_Jackson'sOxfordJournal_0004,1820.03.18_TheNewcastleCourantetc_0003
-1820.09.09_TheNewcastleCourantetc_0003,1820.03.18_Jackson'sOxfordJournal_0004
-1820.09.16_Jackson'sOxfordJournal_0002,1820.03.11_TheNewcastleCourantetc_0003
-1820.09.16_Jackson'sOxfordJournal_0004,1820.03.11_TheNewcastleCourantetc_0003
-1820.09.18_TheBristolMercury_0002,1820.03.18_TheLeedsMercury_0004
-1820.09.23_Jackson'sOxfordJournal_0004,1820.03.20_TheBristolMercury_0001
-1820.09.30_TheNewcastleCourantetc_0003,1820.03.25_Jackson'sOxfordJournal_0002
-1820.09.30_TheNewcastleCourantetc_0003,1820.03.30_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1820	03	02	CaledonianMercury	0002	1820	03	01	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1820	03	02	CaledonianMercury	0002	1820	03	01	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	03	03	GlasgowHerald	0001	1820	03	02	CaledonianMercury	0003
+1820	03	03	GlasgowHerald	0001	1820	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1820	03	03	GlasgowHerald	0001	1820	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1820	03	03	LiverpoolMercuryetc	0008	1820	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1820	03	04	CaledonianMercury	0004	1820	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1820	03	04	CaledonianMercury	0004	1820	03	03	GlasgowHerald	0001
+1820	03	04	Jackson'sOxfordJournal	0002	1820	03	04	CaledonianMercury	0002
+1820	03	04	TheLeedsMercury	0002	1820	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1820	03	04	TheLeedsMercury	0002	1820	03	03	GlasgowHerald	0001
+1820	03	04	TheLeedsMercury	0002	1820	03	04	Jackson'sOxfordJournal	0004
+1820	03	04	TheNewcastleCourantetc	0002	1820	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1820	03	04	TheNewcastleCourantetc	0002	1820	03	04	TheLeedsMercury	0002
+1820	03	06	Freeman'sJournalandDailyCommercialAdvertiser	0003	1820	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1820	03	06	Freeman'sJournalandDailyCommercialAdvertiser	0004	1820	03	04	Jackson'sOxfordJournal	0002
+1820	03	06	GlasgowHerald	0001	1820	03	05	TheExaminer	0005
+1820	03	06	GlasgowHerald	0002	1820	03	06	CaledonianMercury	0003
+1820	03	07	Freeman'sJournalandDailyCommercialAdvertiser	0004	1820	03	04	CaledonianMercury	0002
+1820	03	08	TheAberdeenJournal	0002	1820	03	06	GlasgowHerald	0004
+1820	03	08	TheAberdeenJournal	0004	1820	03	03	GlasgowHerald	0001
+1820	03	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1820	03	06	CaledonianMercury	0002
+1820	03	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1820	03	08	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1820	03	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1820	03	09	CaledonianMercury	0002
+1820	03	10	Freeman'sJournalandDailyCommercialAdvertiser	0004	1820	03	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1820	03	10	GlasgowHerald	0001	1820	03	06	CaledonianMercury	0003
+1820	03	10	GlasgowHerald	0001	1820	03	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1820	03	10	GlasgowHerald	0001	1820	03	10	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	03	10	GlasgowHerald	0002	1820	03	09	CaledonianMercury	0003
+1820	03	10	LiverpoolMercuryetc	0002	1820	03	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1820	03	11	CaledonianMercury	0004	1820	03	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1820	03	11	CaledonianMercury	0004	1820	03	10	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	03	11	CaledonianMercury	0004	1820	03	10	GlasgowHerald	0001
+1820	03	11	Freeman'sJournalandDailyCommercialAdvertiser	0004	1820	03	10	GlasgowHerald	0001
+1820	03	11	Jackson'sOxfordJournal	0001	1820	03	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1820	03	11	Jackson'sOxfordJournal	0001	1820	03	10	GlasgowHerald	0001
+1820	03	11	Jackson'sOxfordJournal	0001	1820	03	11	CaledonianMercury	0004
+1820	03	11	Jackson'sOxfordJournal	0004	1820	03	09	CaledonianMercury	0002
+1820	03	11	Jackson'sOxfordJournal	0004	1820	03	11	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	03	11	TheIpswichJournal	0004	1820	03	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1820	03	11	TheIpswichJournal	0004	1820	03	10	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	03	11	TheIpswichJournal	0004	1820	03	10	GlasgowHerald	0001
+1820	03	11	TheIpswichJournal	0004	1820	03	11	CaledonianMercury	0004
+1820	03	11	TheNewcastleCourantetc	0002	1820	03	06	GlasgowHerald	0002
+1820	03	11	TheNewcastleCourantetc	0002	1820	03	08	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1820	03	11	TheNewcastleCourantetc	0002	1820	03	09	CaledonianMercury	0004
+1820	03	11	TheNewcastleCourantetc	0002	1820	03	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1820	03	11	TheNewcastleCourantetc	0002	1820	03	11	CaledonianMercury	0004
+1820	03	11	TheNewcastleCourantetc	0002	1820	03	11	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	03	11	TheNewcastleCourantetc	0002	1820	03	11	Jackson'sOxfordJournal	0004
+1820	03	12	TheExaminer	0015	1820	03	10	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	03	13	GlasgowHerald	0001	1820	03	11	CaledonianMercury	0002
+1820	03	13	TheBristolMercury	0001	1820	03	11	Jackson'sOxfordJournal	0002
+1820	03	13	TheBristolMercury	0004	1820	03	12	TheExaminer	0009
+1820	03	14	LiverpoolMercuryetc	0002	1820	03	04	TheLeedsMercury	0004
+1820	03	14	LiverpoolMercuryetc	0003	1820	03	04	TheLeedsMercury	0004
+1820	03	14	LiverpoolMercuryetc	0007	1820	03	11	TheNewcastleCourantetc	0002
+1820	03	15	TheAberdeenJournal	0002	1820	03	09	CaledonianMercury	0002
+1820	03	17	GlasgowHerald	0001	1820	03	15	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	03	17	GlasgowHerald	0004	1820	03	11	TheNewcastleCourantetc	0004
+1820	03	17	LiverpoolMercuryetc	0005	1820	03	15	TheAberdeenJournal	0004
+1820	03	18	CaledonianMercury	0004	1820	03	15	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	03	18	CaledonianMercury	0004	1820	03	17	GlasgowHerald	0004
+1820	03	18	Jackson'sOxfordJournal	0004	1820	03	11	TheNewcastleCourantetc	0001
+1820	03	18	Jackson'sOxfordJournal	0004	1820	03	16	CaledonianMercury	0002
+1820	03	18	TheIpswichJournal	0001	1820	03	11	Jackson'sOxfordJournal	0002
+1820	03	18	TheNewcastleCourantetc	0002	1820	03	13	CaledonianMercury	0003
+1820	03	18	TheNewcastleCourantetc	0002	1820	03	15	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	03	18	TheNewcastleCourantetc	0002	1820	03	16	CaledonianMercury	0004
+1820	03	18	TheNewcastleCourantetc	0002	1820	03	17	GlasgowHerald	0001
+1820	03	18	TheNewcastleCourantetc	0002	1820	03	17	GlasgowHerald	0004
+1820	03	18	TheNewcastleCourantetc	0003	1820	03	11	Jackson'sOxfordJournal	0002
+1820	03	18	TheNewcastleCourantetc	0003	1820	03	18	Jackson'sOxfordJournal	0004
+1820	03	19	TheExaminer	0009	1820	03	15	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	03	19	TheExaminer	0009	1820	03	18	TheNewcastleCourantetc	0002
+1820	03	20	CaledonianMercury	0004	1820	03	15	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	03	20	HampshireTelegraphandSussexChronicleetc	0002	1820	03	16	CaledonianMercury	0002
+1820	03	20	TheBristolMercury	0001	1820	03	15	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	03	20	TheBristolMercury	0001	1820	03	15	TheAberdeenJournal	0004
+1820	03	20	TheBristolMercury	0001	1820	03	18	TheNewcastleCourantetc	0002
+1820	03	21	Freeman'sJournalandDailyCommercialAdvertiser	0002	1820	03	20	CaledonianMercury	0002
+1820	03	21	Freeman'sJournalandDailyCommercialAdvertiser	0004	1820	03	06	CaledonianMercury	0002
+1820	03	21	LiverpoolMercuryetc	0006	1820	03	15	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	03	22	TheAberdeenJournal	0004	1820	03	10	LiverpoolMercuryetc	0005
+1820	03	23	CaledonianMercury	0002	1820	03	21	LiverpoolMercuryetc	0003
+1820	03	23	CaledonianMercury	0004	1820	03	20	GlasgowHerald	0001
+1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001	1820	03	23	CaledonianMercury	0002
+1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1820	03	11	CaledonianMercury	0001
+1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1820	03	15	TheAberdeenJournal	0004
+1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1820	03	17	LiverpoolMercuryetc	0005
+1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1820	03	20	CaledonianMercury	0002
+1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1820	03	20	GlasgowHerald	0004
+1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1820	03	20	TheBristolMercury	0001
+1820	03	24	GlasgowHerald	0001	1820	03	23	CaledonianMercury	0002
+1820	03	24	GlasgowHerald	0001	1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1820	03	25	CaledonianMercury	0002	1820	03	21	LiverpoolMercuryetc	0008
+1820	03	25	Freeman'sJournalandDailyCommercialAdvertiser	0002	1820	03	25	CaledonianMercury	0002
+1820	03	25	Freeman'sJournalandDailyCommercialAdvertiser	0004	1820	03	20	CaledonianMercury	0003
+1820	03	25	Jackson'sOxfordJournal	0002	1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1820	03	25	Jackson'sOxfordJournal	0004	1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1820	03	25	TheLeedsMercury	0002	1820	03	23	CaledonianMercury	0002
+1820	03	25	TheLeedsMercury	0002	1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1820	03	25	TheLeedsMercury	0002	1820	03	24	GlasgowHerald	0001
+1820	03	25	TheNewcastleCourantetc	0001	1820	03	25	Jackson'sOxfordJournal	0002
+1820	03	25	TheNewcastleCourantetc	0002	1820	03	21	LiverpoolMercuryetc	0002
+1820	03	27	CaledonianMercury	0004	1820	03	24	GlasgowHerald	0001
+1820	03	27	GlasgowHerald	0001	1820	03	18	CaledonianMercury	0003
+1820	03	27	GlasgowHerald	0001	1820	03	20	CaledonianMercury	0003
+1820	03	27	GlasgowHerald	0001	1820	03	23	CaledonianMercury	0004
+1820	03	27	GlasgowHerald	0001	1820	03	25	CaledonianMercury	0002
+1820	03	27	GlasgowHerald	0001	1820	03	25	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	03	27	GlasgowHerald	0004	1820	03	20	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	03	27	GlasgowHerald	0004	1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1820	03	27	GlasgowHerald	0004	1820	03	25	Jackson'sOxfordJournal	0004
+1820	03	27	TheBristolMercury	0002	1820	03	21	LiverpoolMercuryetc	0007
+1820	03	29	TheAberdeenJournal	0002	1820	03	23	CaledonianMercury	0002
+1820	03	29	TheAberdeenJournal	0003	1820	03	25	TheNewcastleCourantetc	0004
+1820	03	30	CaledonianMercury	0002	1820	03	29	TheDerbyMercury	0002
+1820	03	30	CaledonianMercury	0004	1820	03	29	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	03	30	Freeman'sJournalandDailyCommercialAdvertiser	0002	1820	03	30	CaledonianMercury	0002
+1820	03	30	Freeman'sJournalandDailyCommercialAdvertiser	0004	1820	03	30	CaledonianMercury	0004
+1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001	1820	03	27	TheBristolMercury	0003
+1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1820	03	27	TheBristolMercury	0004
+1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1820	03	29	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1820	03	30	CaledonianMercury	0004
+1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004	1820	03	30	CaledonianMercury	0002
+1820	03	31	GlasgowHerald	0001	1820	03	27	CaledonianMercury	0003
+1820	03	31	GlasgowHerald	0001	1820	03	31	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	03	31	GlasgowHerald	0004	1820	03	25	CaledonianMercury	0003
+1820	03	31	GlasgowHerald	0004	1820	03	30	CaledonianMercury	0004
+1820	03	31	GlasgowHerald	0004	1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1820	04	01	CaledonianMercury	0002	1820	03	31	Freeman'sJournalandDailyCommercialAdvertiser	0002
+1820	04	01	CaledonianMercury	0004	1820	03	27	GlasgowHerald	0001
+1820	04	01	CaledonianMercury	0004	1820	03	31	GlasgowHerald	0001
+1820	04	01	Jackson'sOxfordJournal	0002	1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1820	04	01	Jackson'sOxfordJournal	0004	1820	03	27	CaledonianMercury	0002
+1820	04	01	Jackson'sOxfordJournal	0004	1820	03	29	Freeman'sJournalandDailyCommercialAdvertiser	0003
+1820	04	01	Jackson'sOxfordJournal	0004	1820	03	30	CaledonianMercury	0004
+1820	04	01	Jackson'sOxfordJournal	0004	1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1820	04	01	Jackson'sOxfordJournal	0004	1820	03	31	GlasgowHerald	0004
+1820	04	01	TheNewcastleCourantetc	0003	1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1820	04	01	TheNewcastleCourantetc	0004	1820	03	30	CaledonianMercury	0002
+1820	04	02	TheExaminer	0005	1820	03	30	CaledonianMercury	0004
+1820	04	03	TheBristolMercury	0004	1820	03	27	CaledonianMercury	0004
+1820	04	05	TheAberdeenJournal	0004	1820	03	21	Freeman'sJournalandDailyCommercialAdvertiser	0004
+1820	04	06	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001	1820	03	17	GlasgowHerald	0004
+1820	04	06	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001	1820	03	18	CaledonianMercury	0004
+1820	04	08	Freeman'sJournalandDailyCommercialAdvertiser	0003	1820	03	17	GlasgowHerald	0004
+1820	04	08	Jackson'sOxfordJournal	0004	1820	03	11	TheNewcastleCourantetc	0003
+1820	04	08	Jackson'sOxfordJournal	0004	1820	03	17	GlasgowHerald	0004
+1820	04	08	Jackson'sOxfordJournal	0004	1820	03	18	CaledonianMercury	0004
+1820	04	08	Jackson'sOxfordJournal	0004	1820	03	18	TheNewcastleCourantetc	0003
+1820	04	08	TheLeedsMercury	0001	1820	03	23	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1820	04	08	TheLeedsMercury	0001	1820	03	25	Jackson'sOxfordJournal	0002
+1820	04	08	TheLeedsMercury	0001	1820	03	27	HampshireTelegraphandSussexChronicleetc	0002
+1820	04	26	TheAberdeenJournal	0004	1820	03	16	CaledonianMercury	0001
+1820	04	28	LiverpoolMercuryetc	0005	1820	03	04	TheLeedsMercury	0004
+1820	04	29	Jackson'sOxfordJournal	0002	1820	03	04	TheLeedsMercury	0004
+1820	04	29	Jackson'sOxfordJournal	0002	1820	03	11	TheLeedsMercury	0004
+1820	04	29	Jackson'sOxfordJournal	0002	1820	03	18	TheLeedsMercury	0004
+1820	04	29	Jackson'sOxfordJournal	0002	1820	03	25	TheLeedsMercury	0004
+1820	05	13	Jackson'sOxfordJournal	0004	1820	03	11	TheNewcastleCourantetc	0003
+1820	05	13	TheNewcastleCourantetc	0003	1820	03	04	TheLeedsMercury	0004
+1820	05	13	TheNewcastleCourantetc	0003	1820	03	11	TheLeedsMercury	0004
+1820	05	13	TheNewcastleCourantetc	0003	1820	03	18	TheLeedsMercury	0004
+1820	05	15	TheBristolMercury	0003	1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1820	05	20	TheNewcastleCourantetc	0003	1820	03	10	LiverpoolMercuryetc	0005
+1820	05	20	TheNewcastleCourantetc	0003	1820	03	11	TheLeedsMercury	0004
+1820	05	27	Jackson'sOxfordJournal	0001	1820	03	04	TheLeedsMercury	0004
+1820	05	27	Jackson'sOxfordJournal	0001	1820	03	11	TheLeedsMercury	0004
+1820	06	17	Jackson'sOxfordJournal	0004	1820	03	11	TheNewcastleCourantetc	0003
+1820	07	08	Jackson'sOxfordJournal	0004	1820	03	04	TheLeedsMercury	0004
+1820	07	08	Jackson'sOxfordJournal	0004	1820	03	11	TheLeedsMercury	0004
+1820	07	08	TheNewcastleCourantetc	0003	1820	03	25	Jackson'sOxfordJournal	0002
+1820	07	10	TheBristolMercury	0001	1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1820	07	22	TheNewcastleCourantetc	0003	1820	03	04	TheLeedsMercury	0004
+1820	07	22	TheNewcastleCourantetc	0003	1820	03	11	TheLeedsMercury	0004
+1820	07	29	TheNewcastleCourantetc	0003	1820	03	11	TheLeedsMercury	0004
+1820	08	05	Jackson'sOxfordJournal	0002	1820	03	18	TheNewcastleCourantetc	0003
+1820	08	07	TheBristolMercury	0001	1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1820	09	09	Jackson'sOxfordJournal	0004	1820	03	11	TheNewcastleCourantetc	0001
+1820	09	09	Jackson'sOxfordJournal	0004	1820	03	11	TheNewcastleCourantetc	0003
+1820	09	09	Jackson'sOxfordJournal	0004	1820	03	18	TheNewcastleCourantetc	0003
+1820	09	09	TheNewcastleCourantetc	0003	1820	03	18	Jackson'sOxfordJournal	0004
+1820	09	16	Jackson'sOxfordJournal	0002	1820	03	11	TheNewcastleCourantetc	0003
+1820	09	16	Jackson'sOxfordJournal	0004	1820	03	11	TheNewcastleCourantetc	0003
+1820	09	18	TheBristolMercury	0002	1820	03	18	TheLeedsMercury	0004
+1820	09	23	Jackson'sOxfordJournal	0004	1820	03	20	TheBristolMercury	0001
+1820	09	30	TheNewcastleCourantetc	0003	1820	03	25	Jackson'sOxfordJournal	0002
+1820	09	30	TheNewcastleCourantetc	0003	1820	03	30	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001

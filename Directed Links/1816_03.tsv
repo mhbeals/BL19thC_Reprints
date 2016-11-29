@@ -1,7 +1,8 @@
-1816.03.08_LiverpoolMercuryetc_0002,1816.03.02_Cobbett'sWeeklyPoliticalRegister_0004
-1816.03.09_TheLeedsMercury_0002,1816.03.05_TheMorningChronicle_0002
-1816.03.09_TheLeedsMercury_0004,1816.03.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1816.03.10_TheExaminer_0004,1816.03.09_CaledonianMercury_0002
-1816.03.10_TheExaminer_0011,1816.03.09_TheMorningChronicle_0004
-1816.03.11_CaledonianMercury_0002,1816.03.10_TheExaminer_0007
-1816.03.11_TheMorningChronicle_0001,1816.03.09_Jackson'sOxfordJournal_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1816	03	08	LiverpoolMercuryetc	0002	1816	03	02	Cobbett'sWeeklyPoliticalRegister	0004
+1816	03	09	TheLeedsMercury	0002	1816	03	05	TheMorningChronicle	0002
+1816	03	09	TheLeedsMercury	0004	1816	03	07	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1816	03	10	TheExaminer	0004	1816	03	09	CaledonianMercury	0002
+1816	03	10	TheExaminer	0011	1816	03	09	TheMorningChronicle	0004
+1816	03	11	CaledonianMercury	0002	1816	03	10	TheExaminer	0007
+1816	03	11	TheMorningChronicle	0001	1816	03	09	Jackson'sOxfordJournal	0002

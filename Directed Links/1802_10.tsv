@@ -1,5 +1,6 @@
-1802.10.02_Cobbett'sAnnualRegister_0002,1802.10.01_TheMorningChronicle_0002
-1802.10.02_Cobbett'sAnnualRegister_0003,1802.10.01_TheMorningChronicle_0002
-1802.10.02_Cobbett'sAnnualRegister_0004,1802.10.01_TheMorningChronicle_0002
-1802.10.02_Cobbett'sAnnualRegister_0005,1802.10.01_TheMorningChronicle_0002
-1802.10.04_CaledonianMercury_0002,1802.10.02_Cobbett'sAnnualRegister_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1802	10	02	Cobbett'sAnnualRegister	0002	1802	10	01	TheMorningChronicle	0002
+1802	10	02	Cobbett'sAnnualRegister	0003	1802	10	01	TheMorningChronicle	0002
+1802	10	02	Cobbett'sAnnualRegister	0004	1802	10	01	TheMorningChronicle	0002
+1802	10	02	Cobbett'sAnnualRegister	0005	1802	10	01	TheMorningChronicle	0002
+1802	10	04	CaledonianMercury	0002	1802	10	02	Cobbett'sAnnualRegister	0003

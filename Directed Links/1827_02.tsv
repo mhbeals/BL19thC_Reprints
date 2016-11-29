@@ -1,5 +1,6 @@
-1827.02.03_CaledonianMercury_0002,1827.02.01_TheMorningChronicle_0002
-1827.02.03_TheIpswichJournal_0002,1827.02.01_TheMorningChronicle_0003
-1827.02.04_TheExaminer_0004,1827.02.01_TheMorningChronicle_0002
-1827.02.05_HampshireTelegraphandSussexChronicleetc_0002,1827.02.01_TheMorningChronicle_0003
-1827.02.05_TheBristolMercury_0001,1827.02.03_TheIpswichJournal_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1827	02	03	CaledonianMercury	0002	1827	02	01	TheMorningChronicle	0002
+1827	02	03	TheIpswichJournal	0002	1827	02	01	TheMorningChronicle	0003
+1827	02	04	TheExaminer	0004	1827	02	01	TheMorningChronicle	0002
+1827	02	05	HampshireTelegraphandSussexChronicleetc	0002	1827	02	01	TheMorningChronicle	0003
+1827	02	05	TheBristolMercury	0001	1827	02	03	TheIpswichJournal	0002

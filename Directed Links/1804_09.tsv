@@ -1,102 +1,103 @@
-1804.09.03_CaledonianMercury_0002,1804.09.01_TheMorningChronicle_0002
-1804.09.03_HampshireTelegraphandSussexChronicleetc_0002,1804.09.01_CaledonianMercury_0003
-1804.09.04_TheHullPacket_0001,1804.09.03_HampshireTelegraphandSussexChronicleetc_0004
-1804.09.04_TheHullPacket_0002,1804.09.03_CaledonianMercury_0002
-1804.09.04_TheHullPacket_0004,1804.09.01_CaledonianMercury_0002
-1804.09.05_TheAberdeenJournal_0003,1804.09.01_CaledonianMercury_0002
-1804.09.06_CaledonianMercury_0002,1804.09.03_TheMorningChronicle_0002
-1804.09.06_CaledonianMercury_0003,1804.09.03_TheMorningChronicle_0002
-1804.09.06_TheDerbyMercury_0001,1804.09.01_CaledonianMercury_0003
-1804.09.06_TheDerbyMercury_0004,1804.09.03_CaledonianMercury_0002
-1804.09.06_Trewman'sExeterFlyingPost_0003,1804.09.04_TheHullPacket_0004
-1804.09.08_CaledonianMercury_0002,1804.09.06_TheMorningChronicle_0002
-1804.09.08_CaledonianMercury_0003,1804.09.05_TheMorningChronicle_0003
-1804.09.08_Cobbett'sWeeklyPoliticalRegister_0004,1804.09.06_TheDerbyMercury_0004
-1804.09.08_Jackson'sOxfordJournal_0002,1804.09.06_Trewman'sExeterFlyingPost_0001
-1804.09.08_TheIpswichJournal_0002,1804.09.05_TheMorningChronicle_0003
-1804.09.10_CaledonianMercury_0001,1804.09.03_HampshireTelegraphandSussexChronicleetc_0001
-1804.09.10_CaledonianMercury_0002,1804.09.06_TheMorningChronicle_0002
-1804.09.10_HampshireTelegraphandSussexChronicleetc_0001,1804.09.03_TheMorningChronicle_0002
-1804.09.10_HampshireTelegraphandSussexChronicleetc_0002,1804.09.08_CaledonianMercury_0003
-1804.09.11_TheHullPacket_0002,1804.09.08_Jackson'sOxfordJournal_0002
-1804.09.11_TheHullPacket_0004,1804.09.03_CaledonianMercury_0002
-1804.09.11_TheMorningChronicle_0003,1804.09.10_HampshireTelegraphandSussexChronicleetc_0003
-1804.09.12_TheAberdeenJournal_0002,1804.09.11_TheHullPacket_0004
-1804.09.12_TheAberdeenJournal_0003,1804.09.06_CaledonianMercury_0003
-1804.09.13_CaledonianMercury_0001,1804.09.10_HampshireTelegraphandSussexChronicleetc_0001
-1804.09.13_CaledonianMercury_0002,1804.09.11_TheMorningChronicle_0001
-1804.09.13_TheDerbyMercury_0004,1804.09.06_TheMorningChronicle_0002
-1804.09.15_CaledonianMercury_0002,1804.09.13_TheMorningChronicle_0002
-1804.09.15_Jackson'sOxfordJournal_0004,1804.09.11_TheMorningChronicle_0003
-1804.09.17_HampshireTelegraphandSussexChronicleetc_0001,1804.09.13_CaledonianMercury_0001
-1804.09.18_TheHullPacket_0001,1804.09.15_TheIpswichJournal_0004
-1804.09.18_TheHullPacket_0002,1804.09.13_TheDerbyMercury_0002
-1804.09.18_TheHullPacket_0004,1804.09.15_Jackson'sOxfordJournal_0004
-1804.09.19_TheAberdeenJournal_0002,1804.09.17_HampshireTelegraphandSussexChronicleetc_0002
-1804.09.19_TheAberdeenJournal_0003,1804.09.08_CaledonianMercury_0004
-1804.09.22_Cobbett'sWeeklyPoliticalRegister_0005,1804.09.06_TheMorningChronicle_0002
-1804.09.22_Jackson'sOxfordJournal_0001,1804.09.06_Trewman'sExeterFlyingPost_0003
-1804.09.24_CaledonianMercury_0003,1804.09.22_TheMorningChronicle_0003
-1804.09.24_HampshireTelegraphandSussexChronicleetc_0002,1804.09.22_CaledonianMercury_0003
-1804.09.24_HampshireTelegraphandSussexChronicleetc_0004,1804.09.15_Jackson'sOxfordJournal_0002
-1804.09.25_TheHullPacket_0001,1804.09.24_CaledonianMercury_0001
-1804.09.25_TheHullPacket_0004,1804.09.22_Jackson'sOxfordJournal_0002
-1804.09.26_TheAberdeenJournal_0001,1804.09.10_CaledonianMercury_0001
-1804.09.26_TheAberdeenJournal_0003,1804.09.17_CaledonianMercury_0003
-1804.09.26_TheMorningChronicle_0002,1804.09.13_CaledonianMercury_0001
-1804.09.27_CaledonianMercury_0001,1804.09.18_TheHullPacket_0001
-1804.09.27_CaledonianMercury_0002,1804.09.24_TheMorningChronicle_0002
-1804.09.27_TheDerbyMercury_0001,1804.09.25_TheHullPacket_0004
-1804.09.29_CaledonianMercury_0002,1804.09.26_TheMorningChronicle_0003
-1804.09.29_Cobbett'sWeeklyPoliticalRegister_0021,1804.09.13_CaledonianMercury_0002
-1804.09.29_Cobbett'sWeeklyPoliticalRegister_0022,1804.09.04_TheMorningChronicle_0002
-1804.09.29_Jackson'sOxfordJournal_0001,1804.09.27_CaledonianMercury_0002
-1804.09.29_Jackson'sOxfordJournal_0004,1804.09.25_TheHullPacket_0004
-1804.10.01_CaledonianMercury_0002,1804.09.29_TheMorningChronicle_0003
-1804.10.01_CaledonianMercury_0003,1804.09.29_Jackson'sOxfordJournal_0003
-1804.10.01_HampshireTelegraphandSussexChronicleetc_0002,1804.09.26_TheMorningChronicle_0003
-1804.10.01_HampshireTelegraphandSussexChronicleetc_0004,1804.09.18_TheHullPacket_0001
-1804.10.02_TheHullPacket_0003,1804.09.29_Jackson'sOxfordJournal_0002
-1804.10.02_TheHullPacket_0004,1804.09.29_CaledonianMercury_0002
-1804.10.03_TheAberdeenJournal_0002,1804.09.29_CaledonianMercury_0004
-1804.10.04_CaledonianMercury_0002,1804.09.29_TheMorningChronicle_0002
-1804.10.04_TheDerbyMercury_0004,1804.09.25_TheHullPacket_0004
-1804.10.04_Trewman'sExeterFlyingPost_0001,1804.09.29_TheMorningChronicle_0003
-1804.10.04_Trewman'sExeterFlyingPost_0002,1804.09.29_CaledonianMercury_0002
-1804.10.06_Cobbett'sWeeklyPoliticalRegister_0010,1804.09.29_TheMorningChronicle_0001
-1804.10.06_Cobbett'sWeeklyPoliticalRegister_0011,1804.09.29_TheMorningChronicle_0002
-1804.10.06_Cobbett'sWeeklyPoliticalRegister_0012,1804.09.29_TheMorningChronicle_0002
-1804.10.06_Cobbett'sWeeklyPoliticalRegister_0013,1804.09.29_TheMorningChronicle_0002
-1804.10.06_Cobbett'sWeeklyPoliticalRegister_0014,1804.09.29_TheMorningChronicle_0001
-1804.10.06_Cobbett'sWeeklyPoliticalRegister_0015,1804.09.29_TheMorningChronicle_0001
-1804.10.06_Jackson'sOxfordJournal_0004,1804.09.25_TheHullPacket_0001
-1804.10.08_HampshireTelegraphandSussexChronicleetc_0004,1804.09.18_TheHullPacket_0001
-1804.10.12_TheMorningChronicle_0001,1804.09.27_TheDerbyMercury_0004
-1804.10.24_TheMorningChronicle_0001,1804.09.13_CaledonianMercury_0001
-1804.10.25_TheDerbyMercury_0004,1804.09.22_Jackson'sOxfordJournal_0001
-1804.10.27_Jackson'sOxfordJournal_0004,1804.09.06_Trewman'sExeterFlyingPost_0003
-1804.11.01_TheDerbyMercury_0001,1804.09.29_Jackson'sOxfordJournal_0004
-1804.11.01_TheDerbyMercury_0004,1804.09.06_Trewman'sExeterFlyingPost_0003
-1804.11.01_TheMorningChronicle_0001,1804.09.10_HampshireTelegraphandSussexChronicleetc_0001
-1804.11.01_Trewman'sExeterFlyingPost_0003,1804.09.22_Jackson'sOxfordJournal_0001
-1804.11.03_Jackson'sOxfordJournal_0004,1804.09.10_HampshireTelegraphandSussexChronicleetc_0001
-1804.11.17_CaledonianMercury_0004,1804.09.05_TheAberdeenJournal_0004
-1804.12.20_TheDerbyMercury_0001,1804.09.18_TheHullPacket_0001
-1804.12.20_Trewman'sExeterFlyingPost_0003,1804.09.22_Jackson'sOxfordJournal_0001
-1804.12.22_Jackson'sOxfordJournal_0001,1804.09.24_CaledonianMercury_0001
-1804.12.22_Jackson'sOxfordJournal_0004,1804.09.18_TheHullPacket_0001
-1804.12.22_TheIpswichJournal_0001,1804.09.25_TheHullPacket_0001
-1804.12.29_Jackson'sOxfordJournal_0001,1804.09.24_CaledonianMercury_0001
-1805.01.03_TheDerbyMercury_0001,1804.09.18_TheHullPacket_0001
-1805.01.05_TheIpswichJournal_0001,1804.09.22_Jackson'sOxfordJournal_0001
-1805.01.05_TheIpswichJournal_0004,1804.09.18_TheHullPacket_0001
-1805.01.16_TheAberdeenJournal_0001,1804.09.29_Jackson'sOxfordJournal_0004
-1805.01.17_Trewman'sExeterFlyingPost_0003,1804.09.22_Jackson'sOxfordJournal_0001
-1805.01.19_Jackson'sOxfordJournal_0004,1804.09.10_CaledonianMercury_0001
-1805.01.21_HampshireTelegraphandSussexChronicleetc_0004,1804.09.13_CaledonianMercury_0001
-1805.01.23_TheAberdeenJournal_0002,1804.09.10_CaledonianMercury_0001
-1805.01.26_TheNewcastleCourantetc_0002,1804.09.10_CaledonianMercury_0001
-1805.01.26_TheNewcastleCourantetc_0003,1804.09.06_Trewman'sExeterFlyingPost_0003
-1805.01.28_CaledonianMercury_0001,1804.09.22_TheMorningChronicle_0001
-1805.01.30_TheAberdeenJournal_0002,1804.09.10_CaledonianMercury_0001
-1805.03.28_TheDerbyMercury_0004,1804.09.22_Jackson'sOxfordJournal_0001
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1804	09	03	CaledonianMercury	0002	1804	09	01	TheMorningChronicle	0002
+1804	09	03	HampshireTelegraphandSussexChronicleetc	0002	1804	09	01	CaledonianMercury	0003
+1804	09	04	TheHullPacket	0001	1804	09	03	HampshireTelegraphandSussexChronicleetc	0004
+1804	09	04	TheHullPacket	0002	1804	09	03	CaledonianMercury	0002
+1804	09	04	TheHullPacket	0004	1804	09	01	CaledonianMercury	0002
+1804	09	05	TheAberdeenJournal	0003	1804	09	01	CaledonianMercury	0002
+1804	09	06	CaledonianMercury	0002	1804	09	03	TheMorningChronicle	0002
+1804	09	06	CaledonianMercury	0003	1804	09	03	TheMorningChronicle	0002
+1804	09	06	TheDerbyMercury	0001	1804	09	01	CaledonianMercury	0003
+1804	09	06	TheDerbyMercury	0004	1804	09	03	CaledonianMercury	0002
+1804	09	06	Trewman'sExeterFlyingPost	0003	1804	09	04	TheHullPacket	0004
+1804	09	08	CaledonianMercury	0002	1804	09	06	TheMorningChronicle	0002
+1804	09	08	CaledonianMercury	0003	1804	09	05	TheMorningChronicle	0003
+1804	09	08	Cobbett'sWeeklyPoliticalRegister	0004	1804	09	06	TheDerbyMercury	0004
+1804	09	08	Jackson'sOxfordJournal	0002	1804	09	06	Trewman'sExeterFlyingPost	0001
+1804	09	08	TheIpswichJournal	0002	1804	09	05	TheMorningChronicle	0003
+1804	09	10	CaledonianMercury	0001	1804	09	03	HampshireTelegraphandSussexChronicleetc	0001
+1804	09	10	CaledonianMercury	0002	1804	09	06	TheMorningChronicle	0002
+1804	09	10	HampshireTelegraphandSussexChronicleetc	0001	1804	09	03	TheMorningChronicle	0002
+1804	09	10	HampshireTelegraphandSussexChronicleetc	0002	1804	09	08	CaledonianMercury	0003
+1804	09	11	TheHullPacket	0002	1804	09	08	Jackson'sOxfordJournal	0002
+1804	09	11	TheHullPacket	0004	1804	09	03	CaledonianMercury	0002
+1804	09	11	TheMorningChronicle	0003	1804	09	10	HampshireTelegraphandSussexChronicleetc	0003
+1804	09	12	TheAberdeenJournal	0002	1804	09	11	TheHullPacket	0004
+1804	09	12	TheAberdeenJournal	0003	1804	09	06	CaledonianMercury	0003
+1804	09	13	CaledonianMercury	0001	1804	09	10	HampshireTelegraphandSussexChronicleetc	0001
+1804	09	13	CaledonianMercury	0002	1804	09	11	TheMorningChronicle	0001
+1804	09	13	TheDerbyMercury	0004	1804	09	06	TheMorningChronicle	0002
+1804	09	15	CaledonianMercury	0002	1804	09	13	TheMorningChronicle	0002
+1804	09	15	Jackson'sOxfordJournal	0004	1804	09	11	TheMorningChronicle	0003
+1804	09	17	HampshireTelegraphandSussexChronicleetc	0001	1804	09	13	CaledonianMercury	0001
+1804	09	18	TheHullPacket	0001	1804	09	15	TheIpswichJournal	0004
+1804	09	18	TheHullPacket	0002	1804	09	13	TheDerbyMercury	0002
+1804	09	18	TheHullPacket	0004	1804	09	15	Jackson'sOxfordJournal	0004
+1804	09	19	TheAberdeenJournal	0002	1804	09	17	HampshireTelegraphandSussexChronicleetc	0002
+1804	09	19	TheAberdeenJournal	0003	1804	09	08	CaledonianMercury	0004
+1804	09	22	Cobbett'sWeeklyPoliticalRegister	0005	1804	09	06	TheMorningChronicle	0002
+1804	09	22	Jackson'sOxfordJournal	0001	1804	09	06	Trewman'sExeterFlyingPost	0003
+1804	09	24	CaledonianMercury	0003	1804	09	22	TheMorningChronicle	0003
+1804	09	24	HampshireTelegraphandSussexChronicleetc	0002	1804	09	22	CaledonianMercury	0003
+1804	09	24	HampshireTelegraphandSussexChronicleetc	0004	1804	09	15	Jackson'sOxfordJournal	0002
+1804	09	25	TheHullPacket	0001	1804	09	24	CaledonianMercury	0001
+1804	09	25	TheHullPacket	0004	1804	09	22	Jackson'sOxfordJournal	0002
+1804	09	26	TheAberdeenJournal	0001	1804	09	10	CaledonianMercury	0001
+1804	09	26	TheAberdeenJournal	0003	1804	09	17	CaledonianMercury	0003
+1804	09	26	TheMorningChronicle	0002	1804	09	13	CaledonianMercury	0001
+1804	09	27	CaledonianMercury	0001	1804	09	18	TheHullPacket	0001
+1804	09	27	CaledonianMercury	0002	1804	09	24	TheMorningChronicle	0002
+1804	09	27	TheDerbyMercury	0001	1804	09	25	TheHullPacket	0004
+1804	09	29	CaledonianMercury	0002	1804	09	26	TheMorningChronicle	0003
+1804	09	29	Cobbett'sWeeklyPoliticalRegister	0021	1804	09	13	CaledonianMercury	0002
+1804	09	29	Cobbett'sWeeklyPoliticalRegister	0022	1804	09	04	TheMorningChronicle	0002
+1804	09	29	Jackson'sOxfordJournal	0001	1804	09	27	CaledonianMercury	0002
+1804	09	29	Jackson'sOxfordJournal	0004	1804	09	25	TheHullPacket	0004
+1804	10	01	CaledonianMercury	0002	1804	09	29	TheMorningChronicle	0003
+1804	10	01	CaledonianMercury	0003	1804	09	29	Jackson'sOxfordJournal	0003
+1804	10	01	HampshireTelegraphandSussexChronicleetc	0002	1804	09	26	TheMorningChronicle	0003
+1804	10	01	HampshireTelegraphandSussexChronicleetc	0004	1804	09	18	TheHullPacket	0001
+1804	10	02	TheHullPacket	0003	1804	09	29	Jackson'sOxfordJournal	0002
+1804	10	02	TheHullPacket	0004	1804	09	29	CaledonianMercury	0002
+1804	10	03	TheAberdeenJournal	0002	1804	09	29	CaledonianMercury	0004
+1804	10	04	CaledonianMercury	0002	1804	09	29	TheMorningChronicle	0002
+1804	10	04	TheDerbyMercury	0004	1804	09	25	TheHullPacket	0004
+1804	10	04	Trewman'sExeterFlyingPost	0001	1804	09	29	TheMorningChronicle	0003
+1804	10	04	Trewman'sExeterFlyingPost	0002	1804	09	29	CaledonianMercury	0002
+1804	10	06	Cobbett'sWeeklyPoliticalRegister	0010	1804	09	29	TheMorningChronicle	0001
+1804	10	06	Cobbett'sWeeklyPoliticalRegister	0011	1804	09	29	TheMorningChronicle	0002
+1804	10	06	Cobbett'sWeeklyPoliticalRegister	0012	1804	09	29	TheMorningChronicle	0002
+1804	10	06	Cobbett'sWeeklyPoliticalRegister	0013	1804	09	29	TheMorningChronicle	0002
+1804	10	06	Cobbett'sWeeklyPoliticalRegister	0014	1804	09	29	TheMorningChronicle	0001
+1804	10	06	Cobbett'sWeeklyPoliticalRegister	0015	1804	09	29	TheMorningChronicle	0001
+1804	10	06	Jackson'sOxfordJournal	0004	1804	09	25	TheHullPacket	0001
+1804	10	08	HampshireTelegraphandSussexChronicleetc	0004	1804	09	18	TheHullPacket	0001
+1804	10	12	TheMorningChronicle	0001	1804	09	27	TheDerbyMercury	0004
+1804	10	24	TheMorningChronicle	0001	1804	09	13	CaledonianMercury	0001
+1804	10	25	TheDerbyMercury	0004	1804	09	22	Jackson'sOxfordJournal	0001
+1804	10	27	Jackson'sOxfordJournal	0004	1804	09	06	Trewman'sExeterFlyingPost	0003
+1804	11	01	TheDerbyMercury	0001	1804	09	29	Jackson'sOxfordJournal	0004
+1804	11	01	TheDerbyMercury	0004	1804	09	06	Trewman'sExeterFlyingPost	0003
+1804	11	01	TheMorningChronicle	0001	1804	09	10	HampshireTelegraphandSussexChronicleetc	0001
+1804	11	01	Trewman'sExeterFlyingPost	0003	1804	09	22	Jackson'sOxfordJournal	0001
+1804	11	03	Jackson'sOxfordJournal	0004	1804	09	10	HampshireTelegraphandSussexChronicleetc	0001
+1804	11	17	CaledonianMercury	0004	1804	09	05	TheAberdeenJournal	0004
+1804	12	20	TheDerbyMercury	0001	1804	09	18	TheHullPacket	0001
+1804	12	20	Trewman'sExeterFlyingPost	0003	1804	09	22	Jackson'sOxfordJournal	0001
+1804	12	22	Jackson'sOxfordJournal	0001	1804	09	24	CaledonianMercury	0001
+1804	12	22	Jackson'sOxfordJournal	0004	1804	09	18	TheHullPacket	0001
+1804	12	22	TheIpswichJournal	0001	1804	09	25	TheHullPacket	0001
+1804	12	29	Jackson'sOxfordJournal	0001	1804	09	24	CaledonianMercury	0001
+1805	01	03	TheDerbyMercury	0001	1804	09	18	TheHullPacket	0001
+1805	01	05	TheIpswichJournal	0001	1804	09	22	Jackson'sOxfordJournal	0001
+1805	01	05	TheIpswichJournal	0004	1804	09	18	TheHullPacket	0001
+1805	01	16	TheAberdeenJournal	0001	1804	09	29	Jackson'sOxfordJournal	0004
+1805	01	17	Trewman'sExeterFlyingPost	0003	1804	09	22	Jackson'sOxfordJournal	0001
+1805	01	19	Jackson'sOxfordJournal	0004	1804	09	10	CaledonianMercury	0001
+1805	01	21	HampshireTelegraphandSussexChronicleetc	0004	1804	09	13	CaledonianMercury	0001
+1805	01	23	TheAberdeenJournal	0002	1804	09	10	CaledonianMercury	0001
+1805	01	26	TheNewcastleCourantetc	0002	1804	09	10	CaledonianMercury	0001
+1805	01	26	TheNewcastleCourantetc	0003	1804	09	06	Trewman'sExeterFlyingPost	0003
+1805	01	28	CaledonianMercury	0001	1804	09	22	TheMorningChronicle	0001
+1805	01	30	TheAberdeenJournal	0002	1804	09	10	CaledonianMercury	0001
+1805	03	28	TheDerbyMercury	0004	1804	09	22	Jackson'sOxfordJournal	0001

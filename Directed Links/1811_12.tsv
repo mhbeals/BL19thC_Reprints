@@ -1,7 +1,8 @@
-1811.12.05_CaledonianMercury_0002,1811.12.03_TheMorningChronicle_0002
-1811.12.06_LiverpoolMercuryetc_0002,1811.12.05_TheMorningChronicle_0002
-1811.12.06_LiverpoolMercuryetc_0003,1811.12.05_CaledonianMercury_0002
-1811.12.07_CaledonianMercury_0002,1811.12.06_LiverpoolMercuryetc_0002
-1811.12.07_Cobbett'sWeeklyPoliticalRegister_0011,1811.12.06_LiverpoolMercuryetc_0002
-1811.12.07_Cobbett'sWeeklyPoliticalRegister_0012,1811.12.06_LiverpoolMercuryetc_0002
-1811.12.07_Cobbett'sWeeklyPoliticalRegister_0013,1811.12.06_LiverpoolMercuryetc_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1811	12	05	CaledonianMercury	0002	1811	12	03	TheMorningChronicle	0002
+1811	12	06	LiverpoolMercuryetc	0002	1811	12	05	TheMorningChronicle	0002
+1811	12	06	LiverpoolMercuryetc	0003	1811	12	05	CaledonianMercury	0002
+1811	12	07	CaledonianMercury	0002	1811	12	06	LiverpoolMercuryetc	0002
+1811	12	07	Cobbett'sWeeklyPoliticalRegister	0011	1811	12	06	LiverpoolMercuryetc	0002
+1811	12	07	Cobbett'sWeeklyPoliticalRegister	0012	1811	12	06	LiverpoolMercuryetc	0002
+1811	12	07	Cobbett'sWeeklyPoliticalRegister	0013	1811	12	06	LiverpoolMercuryetc	0002

@@ -1,9 +1,10 @@
-1818.12.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,1818.12.01_TheMorningChronicle_0003
-1818.12.05_CaledonianMercury_0002,1818.12.03_TheMorningChronicle_0002
-1818.12.05_Jackson'sOxfordJournal_0002,1818.12.02_TheMorningChronicle_0002
-1818.12.05_Jackson'sOxfordJournal_0002,1818.12.03_TheMorningChronicle_0003
-1818.12.05_TheIpswichJournal_0002,1818.12.03_TheMorningChronicle_0003
-1818.12.05_TheIpswichJournal_0004,1818.12.01_TheMorningChronicle_0003
-1818.12.05_TheIpswichJournal_0004,1818.12.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1818.12.06_TheExaminer_0016,1818.12.02_TheMorningChronicle_0003
-1818.12.07_CaledonianMercury_0002,1818.12.03_TheMorningChronicle_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1818	12	03	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004	1818	12	01	TheMorningChronicle	0003
+1818	12	05	CaledonianMercury	0002	1818	12	03	TheMorningChronicle	0002
+1818	12	05	Jackson'sOxfordJournal	0002	1818	12	02	TheMorningChronicle	0002
+1818	12	05	Jackson'sOxfordJournal	0002	1818	12	03	TheMorningChronicle	0003
+1818	12	05	TheIpswichJournal	0002	1818	12	03	TheMorningChronicle	0003
+1818	12	05	TheIpswichJournal	0004	1818	12	01	TheMorningChronicle	0003
+1818	12	05	TheIpswichJournal	0004	1818	12	03	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1818	12	06	TheExaminer	0016	1818	12	02	TheMorningChronicle	0003
+1818	12	07	CaledonianMercury	0002	1818	12	03	TheMorningChronicle	0003

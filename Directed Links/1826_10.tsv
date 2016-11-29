@@ -1,3 +1,4 @@
-1826.10.02_GlasgowHerald_0002,1826.10.01_TheExaminer_0010
-1826.10.02_HampshireTelegraphandSussexChronicleetc_0004,1826.10.01_TheMorningChronicle_0004
-1826.10.02_TheBristolMercury_0004,1826.10.01_TheExaminer_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1826	10	02	GlasgowHerald	0002	1826	10	01	TheExaminer	0010
+1826	10	02	HampshireTelegraphandSussexChronicleetc	0004	1826	10	01	TheMorningChronicle	0004
+1826	10	02	TheBristolMercury	0004	1826	10	01	TheExaminer	0003

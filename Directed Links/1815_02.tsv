@@ -1,5 +1,6 @@
-1815.02.03_LiverpoolMercuryetc_0003,1815.02.02_CaledonianMercury_0002
-1815.02.04_CaledonianMercury_0002,1815.02.01_TheMorningChronicle_0002
-1815.02.04_TheIpswichJournal_0001,1815.02.02_CaledonianMercury_0002
-1815.02.04_TheIpswichJournal_0002,1815.02.01_TheMorningChronicle_0003
-1815.02.06_CaledonianMercury_0002,1815.02.03_TheMorningChronicle_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1815	02	03	LiverpoolMercuryetc	0003	1815	02	02	CaledonianMercury	0002
+1815	02	04	CaledonianMercury	0002	1815	02	01	TheMorningChronicle	0002
+1815	02	04	TheIpswichJournal	0001	1815	02	02	CaledonianMercury	0002
+1815	02	04	TheIpswichJournal	0002	1815	02	01	TheMorningChronicle	0003
+1815	02	06	CaledonianMercury	0002	1815	02	03	TheMorningChronicle	0002

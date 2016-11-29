@@ -1,15 +1,16 @@
-1826.02.02_CaledonianMercury_0002,1826.02.01_TheDerbyMercury_0004
-1826.02.03_GlasgowHerald_0004,1826.02.02_CaledonianMercury_0004
-1826.02.04_TheIpswichJournal_0001,1826.02.01_TheDerbyMercury_0001
-1826.02.04_TheNewcastleCourantetc_0002,1826.02.01_TheDerbyMercury_0001
-1826.02.05_TheExaminer_0006,1826.02.02_TheMorningChronicle_0002
-1826.02.06_CaledonianMercury_0001,1826.02.04_TheNewcastleCourantetc_0001
-1826.02.06_CaledonianMercury_0002,1826.02.04_TheIpswichJournal_0002
-1826.02.06_CaledonianMercury_0003,1826.02.02_TheMorningChronicle_0002
-1826.02.06_CaledonianMercury_0004,1826.02.03_LiverpoolMercuryetc_0007
-1826.02.06_GlasgowHerald_0001,1826.02.02_CaledonianMercury_0003
-1826.02.06_GlasgowHerald_0002,1826.02.05_TheExaminer_0006
-1826.02.06_GlasgowHerald_0003,1826.02.02_CaledonianMercury_0003
-1826.02.06_HampshireTelegraphandSussexChronicleetc_0003,1826.02.05_TheExaminer_0006
-1826.02.06_TheBristolMercury_0001,1826.02.04_TheLeedsMercury_0002
-1826.02.06_TheMorningChronicle_0002,1826.02.04_TheLeedsMercury_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1826	02	02	CaledonianMercury	0002	1826	02	01	TheDerbyMercury	0004
+1826	02	03	GlasgowHerald	0004	1826	02	02	CaledonianMercury	0004
+1826	02	04	TheIpswichJournal	0001	1826	02	01	TheDerbyMercury	0001
+1826	02	04	TheNewcastleCourantetc	0002	1826	02	01	TheDerbyMercury	0001
+1826	02	05	TheExaminer	0006	1826	02	02	TheMorningChronicle	0002
+1826	02	06	CaledonianMercury	0001	1826	02	04	TheNewcastleCourantetc	0001
+1826	02	06	CaledonianMercury	0002	1826	02	04	TheIpswichJournal	0002
+1826	02	06	CaledonianMercury	0003	1826	02	02	TheMorningChronicle	0002
+1826	02	06	CaledonianMercury	0004	1826	02	03	LiverpoolMercuryetc	0007
+1826	02	06	GlasgowHerald	0001	1826	02	02	CaledonianMercury	0003
+1826	02	06	GlasgowHerald	0002	1826	02	05	TheExaminer	0006
+1826	02	06	GlasgowHerald	0003	1826	02	02	CaledonianMercury	0003
+1826	02	06	HampshireTelegraphandSussexChronicleetc	0003	1826	02	05	TheExaminer	0006
+1826	02	06	TheBristolMercury	0001	1826	02	04	TheLeedsMercury	0002
+1826	02	06	TheMorningChronicle	0002	1826	02	04	TheLeedsMercury	0004

@@ -1,8 +1,9 @@
-1813.04.03_Cobbett'sWeeklyPoliticalRegister_0030,1813.04.02_LiverpoolMercuryetc_0002
-1813.04.08_CaledonianMercury_0002,1813.04.05_TheMorningChronicle_0002
-1813.04.08_CaledonianMercury_0004,1813.04.05_TheMorningChronicle_0003
-1813.04.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,1813.04.08_CaledonianMercury_0002
-1813.04.09_LiverpoolMercuryetc_0003,1813.04.01_TheMorningChronicle_0002
-1813.04.09_LiverpoolMercuryetc_0007,1813.04.01_CaledonianMercury_0004
-1813.04.10_TheIpswichJournal_0002,1813.04.10_CaledonianMercury_0002
-1813.04.10_TheLeedsMercury_0003,1813.04.08_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1813	04	03	Cobbett'sWeeklyPoliticalRegister	0030	1813	04	02	LiverpoolMercuryetc	0002
+1813	04	08	CaledonianMercury	0002	1813	04	05	TheMorningChronicle	0002
+1813	04	08	CaledonianMercury	0004	1813	04	05	TheMorningChronicle	0003
+1813	04	08	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001	1813	04	08	CaledonianMercury	0002
+1813	04	09	LiverpoolMercuryetc	0003	1813	04	01	TheMorningChronicle	0002
+1813	04	09	LiverpoolMercuryetc	0007	1813	04	01	CaledonianMercury	0004
+1813	04	10	TheIpswichJournal	0002	1813	04	10	CaledonianMercury	0002
+1813	04	10	TheLeedsMercury	0003	1813	04	08	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001

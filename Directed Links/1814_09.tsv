@@ -1,21 +1,22 @@
-1814.09.03_CaledonianMercury_0002,1814.09.01_TheMorningChronicle_0002
-1814.09.03_CaledonianMercury_0004,1814.09.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1814.09.03_TheLeedsMercury_0002,1814.09.01_TheMorningChronicle_0002
-1814.09.03_TheLeedsMercury_0003,1814.09.01_CaledonianMercury_0004
-1814.09.03_TheLeedsMercury_0004,1814.09.01_TheDerbyMercury_0004
-1814.09.04_TheExaminer_0002,1814.09.01_TheMorningChronicle_0002
-1814.09.05_CaledonianMercury_0002,1814.09.02_TheMorningChronicle_0002
-1814.09.08_CaledonianMercury_0002,1814.09.06_TheMorningChronicle_0002
-1814.09.09_LiverpoolMercuryetc_0001,1814.09.05_CaledonianMercury_0004
-1814.09.09_LiverpoolMercuryetc_0002,1814.09.08_CaledonianMercury_0004
-1814.09.09_LiverpoolMercuryetc_0006,1814.09.03_TheLeedsMercury_0004
-1814.09.10_CaledonianMercury_0002,1814.09.07_TheMorningChronicle_0002
-1814.09.10_CaledonianMercury_0003,1814.09.09_LiverpoolMercuryetc_0003
-1814.09.10_CaledonianMercury_0004,1814.09.07_TheMorningChronicle_0002
-1814.09.10_Jackson'sOxfordJournal_0004,1814.09.03_TheLeedsMercury_0004
-1814.09.10_TheLeedsMercury_0002,1814.09.07_TheMorningChronicle_0002
-1814.09.10_TheLeedsMercury_0003,1814.09.08_TheMorningChronicle_0002
-1814.09.10_TheLeedsMercury_0004,1814.09.05_TheMorningChronicle_0003
-1814.09.11_TheExaminer_0006,1814.09.10_TheMorningChronicle_0002
-1814.09.12_CaledonianMercury_0002,1814.09.09_TheMorningChronicle_0002
-1814.09.12_CaledonianMercury_0004,1814.09.07_TheMorningChronicle_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1814	09	03	CaledonianMercury	0002	1814	09	01	TheMorningChronicle	0002
+1814	09	03	CaledonianMercury	0004	1814	09	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1814	09	03	TheLeedsMercury	0002	1814	09	01	TheMorningChronicle	0002
+1814	09	03	TheLeedsMercury	0003	1814	09	01	CaledonianMercury	0004
+1814	09	03	TheLeedsMercury	0004	1814	09	01	TheDerbyMercury	0004
+1814	09	04	TheExaminer	0002	1814	09	01	TheMorningChronicle	0002
+1814	09	05	CaledonianMercury	0002	1814	09	02	TheMorningChronicle	0002
+1814	09	08	CaledonianMercury	0002	1814	09	06	TheMorningChronicle	0002
+1814	09	09	LiverpoolMercuryetc	0001	1814	09	05	CaledonianMercury	0004
+1814	09	09	LiverpoolMercuryetc	0002	1814	09	08	CaledonianMercury	0004
+1814	09	09	LiverpoolMercuryetc	0006	1814	09	03	TheLeedsMercury	0004
+1814	09	10	CaledonianMercury	0002	1814	09	07	TheMorningChronicle	0002
+1814	09	10	CaledonianMercury	0003	1814	09	09	LiverpoolMercuryetc	0003
+1814	09	10	CaledonianMercury	0004	1814	09	07	TheMorningChronicle	0002
+1814	09	10	Jackson'sOxfordJournal	0004	1814	09	03	TheLeedsMercury	0004
+1814	09	10	TheLeedsMercury	0002	1814	09	07	TheMorningChronicle	0002
+1814	09	10	TheLeedsMercury	0003	1814	09	08	TheMorningChronicle	0002
+1814	09	10	TheLeedsMercury	0004	1814	09	05	TheMorningChronicle	0003
+1814	09	11	TheExaminer	0006	1814	09	10	TheMorningChronicle	0002
+1814	09	12	CaledonianMercury	0002	1814	09	09	TheMorningChronicle	0002
+1814	09	12	CaledonianMercury	0004	1814	09	07	TheMorningChronicle	0004

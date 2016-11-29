@@ -1,25 +1,26 @@
-1823.01.01_TheMorningChronicle_0004,1823.01.01_TheAberdeenJournal_0002
-1823.01.02_CaledonianMercury_0002,1823.01.01_TheDerbyMercury_0002
-1823.01.02_CaledonianMercury_0002,1823.01.01_TheDerbyMercury_0004
-1823.01.03_LiverpoolMercuryetc_0002,1823.01.01_TheDerbyMercury_0002
-1823.01.03_LiverpoolMercuryetc_0005,1823.01.01_TheDerbyMercury_0002
-1823.01.04_TheIpswichJournal_0002,1823.01.01_TheAberdeenJournal_0002
-1823.01.04_TheIpswichJournal_0002,1823.01.01_TheMorningChronicle_0004
-1823.01.04_TheIpswichJournal_0004,1823.01.04_CaledonianMercury_0004
-1823.01.05_TheExaminer_0006,1823.01.01_TheDerbyMercury_0002
-1823.01.05_TheExaminer_0006,1823.01.02_CaledonianMercury_0002
-1823.01.05_TheExaminer_0006,1823.01.03_LiverpoolMercuryetc_0002
-1823.01.05_TheExaminer_0007,1823.01.04_TheMorningChronicle_0003
-1823.01.05_TheExaminer_0011,1823.01.04_TheIpswichJournal_0004
-1823.01.06_HampshireTelegraphandSussexChronicleetc_0001,1823.01.01_TheDerbyMercury_0002
-1823.01.06_HampshireTelegraphandSussexChronicleetc_0001,1823.01.02_CaledonianMercury_0002
-1823.01.06_HampshireTelegraphandSussexChronicleetc_0001,1823.01.05_TheExaminer_0006
-1823.01.06_HampshireTelegraphandSussexChronicleetc_0003,1823.01.04_TheMorningChronicle_0002
-1823.01.06_TheBristolMercury_0001,1823.01.01_TheAberdeenJournal_0002
-1823.01.06_TheBristolMercury_0001,1823.01.01_TheDerbyMercury_0002
-1823.01.06_TheBristolMercury_0001,1823.01.01_TheMorningChronicle_0004
-1823.01.06_TheBristolMercury_0001,1823.01.02_TheMorningChronicle_0003
-1823.01.06_TheBristolMercury_0001,1823.01.03_TheMorningChronicle_0003
-1823.01.06_TheBristolMercury_0001,1823.01.04_TheIpswichJournal_0002
-1823.01.06_TheBristolMercury_0001,1823.01.05_TheExaminer_0006
-1823.01.06_TheBristolMercury_0004,1823.01.04_CaledonianMercury_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1823	01	01	TheMorningChronicle	0004	1823	01	01	TheAberdeenJournal	0002
+1823	01	02	CaledonianMercury	0002	1823	01	01	TheDerbyMercury	0002
+1823	01	02	CaledonianMercury	0002	1823	01	01	TheDerbyMercury	0004
+1823	01	03	LiverpoolMercuryetc	0002	1823	01	01	TheDerbyMercury	0002
+1823	01	03	LiverpoolMercuryetc	0005	1823	01	01	TheDerbyMercury	0002
+1823	01	04	TheIpswichJournal	0002	1823	01	01	TheAberdeenJournal	0002
+1823	01	04	TheIpswichJournal	0002	1823	01	01	TheMorningChronicle	0004
+1823	01	04	TheIpswichJournal	0004	1823	01	04	CaledonianMercury	0004
+1823	01	05	TheExaminer	0006	1823	01	01	TheDerbyMercury	0002
+1823	01	05	TheExaminer	0006	1823	01	02	CaledonianMercury	0002
+1823	01	05	TheExaminer	0006	1823	01	03	LiverpoolMercuryetc	0002
+1823	01	05	TheExaminer	0007	1823	01	04	TheMorningChronicle	0003
+1823	01	05	TheExaminer	0011	1823	01	04	TheIpswichJournal	0004
+1823	01	06	HampshireTelegraphandSussexChronicleetc	0001	1823	01	01	TheDerbyMercury	0002
+1823	01	06	HampshireTelegraphandSussexChronicleetc	0001	1823	01	02	CaledonianMercury	0002
+1823	01	06	HampshireTelegraphandSussexChronicleetc	0001	1823	01	05	TheExaminer	0006
+1823	01	06	HampshireTelegraphandSussexChronicleetc	0003	1823	01	04	TheMorningChronicle	0002
+1823	01	06	TheBristolMercury	0001	1823	01	01	TheAberdeenJournal	0002
+1823	01	06	TheBristolMercury	0001	1823	01	01	TheDerbyMercury	0002
+1823	01	06	TheBristolMercury	0001	1823	01	01	TheMorningChronicle	0004
+1823	01	06	TheBristolMercury	0001	1823	01	02	TheMorningChronicle	0003
+1823	01	06	TheBristolMercury	0001	1823	01	03	TheMorningChronicle	0003
+1823	01	06	TheBristolMercury	0001	1823	01	04	TheIpswichJournal	0002
+1823	01	06	TheBristolMercury	0001	1823	01	05	TheExaminer	0006
+1823	01	06	TheBristolMercury	0004	1823	01	04	CaledonianMercury	0004

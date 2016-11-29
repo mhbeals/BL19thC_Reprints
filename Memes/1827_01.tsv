@@ -1,5 +1,6 @@
-1827.01.01_TheBristolMercury_0001,1827.01.01_HampshireTelegraphandSussexChronicleetc_0002
-1827.01.01_TheBristolMercury_0004,1827.01.01_HampshireTelegraphandSussexChronicleetc_0002
-1827.01.01_TheMorningChronicle_0004,1827.01.01_GlasgowHerald_0002
-1827.01.03_TheDerbyMercury_0001,1827.01.01_TheBristolMercury_0001
-1827.01.03_TheDerbyMercury_0004,1827.01.01_CaledonianMercury_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1827	01	01	TheBristolMercury	0001	1827	01	01	HampshireTelegraphandSussexChronicleetc	0002
+1827	01	01	TheBristolMercury	0004	1827	01	01	HampshireTelegraphandSussexChronicleetc	0002
+1827	01	01	TheMorningChronicle	0004	1827	01	01	GlasgowHerald	0002
+1827	01	03	TheDerbyMercury	0001	1827	01	01	TheBristolMercury	0001
+1827	01	03	TheDerbyMercury	0004	1827	01	01	CaledonianMercury	0002

@@ -1,10 +1,11 @@
-1812.06.04_CaledonianMercury_0002,1812.06.01_HampshireTelegraphandSussexChronicleetc_0003
-1812.06.04_CaledonianMercury_0002,1812.06.01_TheMorningChronicle_0002
-1812.06.06_CaledonianMercury_0003,1812.06.01_TheMorningChronicle_0003
-1812.06.06_TheIpswichJournal_0001,1812.06.01_TheMorningChronicle_0002
-1812.06.06_TheIpswichJournal_0001,1812.06.04_CaledonianMercury_0002
-1812.06.06_TheIpswichJournal_0004,1812.06.04_CaledonianMercury_0003
-1812.06.06_TheLeedsMercury_0002,1812.06.01_TheMorningChronicle_0003
-1812.06.06_TheLeedsMercury_0003,1812.06.04_CaledonianMercury_0003
-1812.06.08_CaledonianMercury_0002,1812.06.05_TheMorningChronicle_0002
-1812.06.08_CaledonianMercury_0002,1812.06.06_TheMorningChronicle_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1812	06	04	CaledonianMercury	0002	1812	06	01	HampshireTelegraphandSussexChronicleetc	0003
+1812	06	04	CaledonianMercury	0002	1812	06	01	TheMorningChronicle	0002
+1812	06	06	CaledonianMercury	0003	1812	06	01	TheMorningChronicle	0003
+1812	06	06	TheIpswichJournal	0001	1812	06	01	TheMorningChronicle	0002
+1812	06	06	TheIpswichJournal	0001	1812	06	04	CaledonianMercury	0002
+1812	06	06	TheIpswichJournal	0004	1812	06	04	CaledonianMercury	0003
+1812	06	06	TheLeedsMercury	0002	1812	06	01	TheMorningChronicle	0003
+1812	06	06	TheLeedsMercury	0003	1812	06	04	CaledonianMercury	0003
+1812	06	08	CaledonianMercury	0002	1812	06	05	TheMorningChronicle	0002
+1812	06	08	CaledonianMercury	0002	1812	06	06	TheMorningChronicle	0003

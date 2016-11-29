@@ -1,17 +1,18 @@
-1826.12.01_LiverpoolMercuryetc_0007,1826.12.01_GlasgowHerald_0001
-1826.12.02_CaledonianMercury_0003,1826.12.01_GlasgowHerald_0002
-1826.12.02_CaledonianMercury_0004,1826.12.01_GlasgowHerald_0002
-1826.12.02_CaledonianMercury_0004,1826.12.01_LiverpoolMercuryetc_0002
-1826.12.02_TheIpswichJournal_0004,1826.12.01_TheMorningChronicle_0004
-1826.12.02_TheMorningChronicle_0003,1826.12.02_Cobbett'sWeeklyPoliticalRegister_0005
-1826.12.04_CaledonianMercury_0001,1826.12.01_GlasgowHerald_0001
-1826.12.04_CaledonianMercury_0002,1826.12.01_TheMorningChronicle_0002
-1826.12.04_GlasgowHerald_0001,1826.12.02_CaledonianMercury_0004
-1826.12.04_GlasgowHerald_0001,1826.12.04_CaledonianMercury_0004
-1826.12.04_GlasgowHerald_0002,1826.12.02_CaledonianMercury_0002
-1826.12.04_GlasgowHerald_0002,1826.12.02_CaledonianMercury_0003
-1826.12.04_GlasgowHerald_0002,1826.12.04_CaledonianMercury_0003
-1826.12.04_GlasgowHerald_0004,1826.12.01_LiverpoolMercuryetc_0008
-1826.12.04_GlasgowHerald_0004,1826.12.02_CaledonianMercury_0003
-1826.12.04_GlasgowHerald_0004,1826.12.03_TheExaminer_0003
-1826.12.04_GlasgowHerald_0004,1826.12.04_CaledonianMercury_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1826	12	01	LiverpoolMercuryetc	0007	1826	12	01	GlasgowHerald	0001
+1826	12	02	CaledonianMercury	0003	1826	12	01	GlasgowHerald	0002
+1826	12	02	CaledonianMercury	0004	1826	12	01	GlasgowHerald	0002
+1826	12	02	CaledonianMercury	0004	1826	12	01	LiverpoolMercuryetc	0002
+1826	12	02	TheIpswichJournal	0004	1826	12	01	TheMorningChronicle	0004
+1826	12	02	TheMorningChronicle	0003	1826	12	02	Cobbett'sWeeklyPoliticalRegister	0005
+1826	12	04	CaledonianMercury	0001	1826	12	01	GlasgowHerald	0001
+1826	12	04	CaledonianMercury	0002	1826	12	01	TheMorningChronicle	0002
+1826	12	04	GlasgowHerald	0001	1826	12	02	CaledonianMercury	0004
+1826	12	04	GlasgowHerald	0001	1826	12	04	CaledonianMercury	0004
+1826	12	04	GlasgowHerald	0002	1826	12	02	CaledonianMercury	0002
+1826	12	04	GlasgowHerald	0002	1826	12	02	CaledonianMercury	0003
+1826	12	04	GlasgowHerald	0002	1826	12	04	CaledonianMercury	0003
+1826	12	04	GlasgowHerald	0004	1826	12	01	LiverpoolMercuryetc	0008
+1826	12	04	GlasgowHerald	0004	1826	12	02	CaledonianMercury	0003
+1826	12	04	GlasgowHerald	0004	1826	12	03	TheExaminer	0003
+1826	12	04	GlasgowHerald	0004	1826	12	04	CaledonianMercury	0003

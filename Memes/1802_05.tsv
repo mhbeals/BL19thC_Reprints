@@ -1,4 +1,5 @@
-1802.05.01_Jackson'sOxfordJournal_0001,1802.05.01_CaledonianMercury_0002
-1802.05.01_Jackson'sOxfordJournal_0002,1802.05.01_CaledonianMercury_0002
-1802.05.03_CaledonianMercury_0002,1802.05.01_Jackson'sOxfordJournal_0002
-1802.05.03_CaledonianMercury_0002,1802.05.01_TheIpswichJournal_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1802	05	01	Jackson'sOxfordJournal	0001	1802	05	01	CaledonianMercury	0002
+1802	05	01	Jackson'sOxfordJournal	0002	1802	05	01	CaledonianMercury	0002
+1802	05	03	CaledonianMercury	0002	1802	05	01	Jackson'sOxfordJournal	0002
+1802	05	03	CaledonianMercury	0002	1802	05	01	TheIpswichJournal	0002

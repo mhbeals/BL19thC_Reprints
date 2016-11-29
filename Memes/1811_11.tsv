@@ -1,5 +1,6 @@
-1811.11.02_Cobbett'sWeeklyPoliticalRegister_0015,1811.11.02_CaledonianMercury_0002
-1811.11.02_Cobbett'sWeeklyPoliticalRegister_0016,1811.11.02_CaledonianMercury_0002
-1811.11.02_TheLeedsMercury_0002,1811.11.02_CaledonianMercury_0002
-1811.11.02_TheMorningChronicle_0001,1811.11.02_TheIpswichJournal_0004
-1811.11.04_CaledonianMercury_0002,1811.11.02_TheMorningChronicle_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1811	11	02	Cobbett'sWeeklyPoliticalRegister	0015	1811	11	02	CaledonianMercury	0002
+1811	11	02	Cobbett'sWeeklyPoliticalRegister	0016	1811	11	02	CaledonianMercury	0002
+1811	11	02	TheLeedsMercury	0002	1811	11	02	CaledonianMercury	0002
+1811	11	02	TheMorningChronicle	0001	1811	11	02	TheIpswichJournal	0004
+1811	11	04	CaledonianMercury	0002	1811	11	02	TheMorningChronicle	0003

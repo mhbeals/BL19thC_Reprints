@@ -1,4 +1,5 @@
-1809.04.01_Jackson'sOxfordJournal_0002,1809.04.01_CaledonianMercury_0003
-1809.04.02_TheExaminer_0007,1809.04.01_CaledonianMercury_0002
-1809.04.03_CaledonianMercury_0001,1809.04.01_Jackson'sOxfordJournal_0004
-1809.04.03_CaledonianMercury_0002,1809.04.02_TheExaminer_0012
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1809	04	01	Jackson'sOxfordJournal	0002	1809	04	01	CaledonianMercury	0003
+1809	04	02	TheExaminer	0007	1809	04	01	CaledonianMercury	0002
+1809	04	03	CaledonianMercury	0001	1809	04	01	Jackson'sOxfordJournal	0004
+1809	04	03	CaledonianMercury	0002	1809	04	02	TheExaminer	0012

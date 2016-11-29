@@ -1,7 +1,8 @@
-1819.04.03_Jackson'sOxfordJournal_0004,1819.04.01_CaledonianMercury_0002
-1819.04.03_TheIpswichJournal_0004,1819.04.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1819.04.03_TheLeedsMercury_0002,1819.04.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1819.04.03_TheNewcastleCourantetc_0002,1819.04.01_CaledonianMercury_0002
-1819.04.03_TheNewcastleCourantetc_0003,1819.04.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1819.04.05_CaledonianMercury_0002,1819.04.02_TheMorningChronicle_0003
-1819.04.05_TheBristolMercury_0004,1819.04.01_TheMorningChronicle_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1819	04	03	Jackson'sOxfordJournal	0004	1819	04	01	CaledonianMercury	0002
+1819	04	03	TheIpswichJournal	0004	1819	04	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1819	04	03	TheLeedsMercury	0002	1819	04	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1819	04	03	TheNewcastleCourantetc	0002	1819	04	01	CaledonianMercury	0002
+1819	04	03	TheNewcastleCourantetc	0003	1819	04	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1819	04	05	CaledonianMercury	0002	1819	04	02	TheMorningChronicle	0003
+1819	04	05	TheBristolMercury	0004	1819	04	01	TheMorningChronicle	0002

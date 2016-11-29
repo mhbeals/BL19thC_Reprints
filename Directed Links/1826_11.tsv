@@ -1,23 +1,24 @@
-1826.11.02_CaledonianMercury_0002,1826.11.01_TheDerbyMercury_0002
-1826.11.03_GlasgowHerald_0002,1826.11.01_TheMorningChronicle_0002
-1826.11.03_GlasgowHerald_0004,1826.11.02_CaledonianMercury_0003
-1826.11.03_LiverpoolMercuryetc_0002,1826.11.02_CaledonianMercury_0002
-1826.11.03_LiverpoolMercuryetc_0006,1826.11.02_CaledonianMercury_0003
-1826.11.03_TheMorningChronicle_0003,1826.11.02_CaledonianMercury_0003
-1826.11.04_CaledonianMercury_0001,1826.11.03_GlasgowHerald_0003
-1826.11.04_CaledonianMercury_0004,1826.11.03_GlasgowHerald_0002
-1826.11.04_Cobbett'sWeeklyPoliticalRegister_0028,1826.11.01_TheMorningChronicle_0002
-1826.11.04_TheIpswichJournal_0004,1826.11.01_TheDerbyMercury_0002
-1826.11.04_TheLeedsMercury_0002,1826.11.02_CaledonianMercury_0002
-1826.11.04_TheNewcastleCourantetc_0002,1826.11.03_GlasgowHerald_0001
-1826.11.05_TheExaminer_0002,1826.11.01_TheMorningChronicle_0002
-1826.11.05_TheExaminer_0005,1826.11.03_TheMorningChronicle_0002
-1826.11.05_TheExaminer_0012,1826.11.01_TheMorningChronicle_0004
-1826.11.05_TheExaminer_0013,1826.11.03_TheMorningChronicle_0003
-1826.11.06_CaledonianMercury_0002,1826.11.01_TheMorningChronicle_0002
-1826.11.06_GlasgowHerald_0001,1826.11.03_LiverpoolMercuryetc_0002
-1826.11.06_GlasgowHerald_0002,1826.11.04_CaledonianMercury_0002
-1826.11.06_GlasgowHerald_0004,1826.11.04_CaledonianMercury_0002
-1826.11.06_HampshireTelegraphandSussexChronicleetc_0002,1826.11.03_GlasgowHerald_0001
-1826.11.06_TheBristolMercury_0001,1826.11.04_TheLeedsMercury_0002
-1826.11.06_TheBristolMercury_0002,1826.11.04_TheMorningChronicle_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1826	11	02	CaledonianMercury	0002	1826	11	01	TheDerbyMercury	0002
+1826	11	03	GlasgowHerald	0002	1826	11	01	TheMorningChronicle	0002
+1826	11	03	GlasgowHerald	0004	1826	11	02	CaledonianMercury	0003
+1826	11	03	LiverpoolMercuryetc	0002	1826	11	02	CaledonianMercury	0002
+1826	11	03	LiverpoolMercuryetc	0006	1826	11	02	CaledonianMercury	0003
+1826	11	03	TheMorningChronicle	0003	1826	11	02	CaledonianMercury	0003
+1826	11	04	CaledonianMercury	0001	1826	11	03	GlasgowHerald	0003
+1826	11	04	CaledonianMercury	0004	1826	11	03	GlasgowHerald	0002
+1826	11	04	Cobbett'sWeeklyPoliticalRegister	0028	1826	11	01	TheMorningChronicle	0002
+1826	11	04	TheIpswichJournal	0004	1826	11	01	TheDerbyMercury	0002
+1826	11	04	TheLeedsMercury	0002	1826	11	02	CaledonianMercury	0002
+1826	11	04	TheNewcastleCourantetc	0002	1826	11	03	GlasgowHerald	0001
+1826	11	05	TheExaminer	0002	1826	11	01	TheMorningChronicle	0002
+1826	11	05	TheExaminer	0005	1826	11	03	TheMorningChronicle	0002
+1826	11	05	TheExaminer	0012	1826	11	01	TheMorningChronicle	0004
+1826	11	05	TheExaminer	0013	1826	11	03	TheMorningChronicle	0003
+1826	11	06	CaledonianMercury	0002	1826	11	01	TheMorningChronicle	0002
+1826	11	06	GlasgowHerald	0001	1826	11	03	LiverpoolMercuryetc	0002
+1826	11	06	GlasgowHerald	0002	1826	11	04	CaledonianMercury	0002
+1826	11	06	GlasgowHerald	0004	1826	11	04	CaledonianMercury	0002
+1826	11	06	HampshireTelegraphandSussexChronicleetc	0002	1826	11	03	GlasgowHerald	0001
+1826	11	06	TheBristolMercury	0001	1826	11	04	TheLeedsMercury	0002
+1826	11	06	TheBristolMercury	0002	1826	11	04	TheMorningChronicle	0003

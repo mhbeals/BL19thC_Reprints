@@ -1,5 +1,6 @@
-1808.09.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1808.09.01_TheDerbyMercury_0004
-1808.09.03_Jackson'sOxfordJournal_0001,1808.09.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1808.09.05_CaledonianMercury_0002,1808.09.03_TheIpswichJournal_0002
-1808.09.05_CaledonianMercury_0003,1808.09.03_TheMorningChronicle_0002
-1808.09.05_TheMorningChronicle_0001,1808.09.04_TheExaminer_0006
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1808	09	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1808	09	01	TheDerbyMercury	0004
+1808	09	03	Jackson'sOxfordJournal	0001	1808	09	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1808	09	05	CaledonianMercury	0002	1808	09	03	TheIpswichJournal	0002
+1808	09	05	CaledonianMercury	0003	1808	09	03	TheMorningChronicle	0002
+1808	09	05	TheMorningChronicle	0001	1808	09	04	TheExaminer	0006

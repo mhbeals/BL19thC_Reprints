@@ -1,12 +1,13 @@
-1809.05.03_TheAberdeenJournal_0004,1809.05.01_CaledonianMercury_0003
-1809.05.04_CaledonianMercury_0002,1809.05.01_TheMorningChronicle_0002
-1809.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1809.05.01_CaledonianMercury_0002
-1809.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,1809.05.04_CaledonianMercury_0002
-1809.05.06_CaledonianMercury_0003,1809.05.04_TheMorningChronicle_0002
-1809.05.06_Jackson'sOxfordJournal_0001,1809.05.04_TheMorningChronicle_0002
-1809.05.06_Jackson'sOxfordJournal_0004,1809.05.01_TheMorningChronicle_0002
-1809.05.06_Jackson'sOxfordJournal_0004,1809.05.04_CaledonianMercury_0002
-1809.05.06_Jackson'sOxfordJournal_0004,1809.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1809.05.06_Jackson'sOxfordJournal_0004,1809.05.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1809.05.08_CaledonianMercury_0003,1809.05.04_TheMorningChronicle_0003
-1809.05.08_CaledonianMercury_0004,1809.05.03_TheAberdeenJournal_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1809	05	03	TheAberdeenJournal	0004	1809	05	01	CaledonianMercury	0003
+1809	05	04	CaledonianMercury	0002	1809	05	01	TheMorningChronicle	0002
+1809	05	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1809	05	01	CaledonianMercury	0002
+1809	05	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004	1809	05	04	CaledonianMercury	0002
+1809	05	06	CaledonianMercury	0003	1809	05	04	TheMorningChronicle	0002
+1809	05	06	Jackson'sOxfordJournal	0001	1809	05	04	TheMorningChronicle	0002
+1809	05	06	Jackson'sOxfordJournal	0004	1809	05	01	TheMorningChronicle	0002
+1809	05	06	Jackson'sOxfordJournal	0004	1809	05	04	CaledonianMercury	0002
+1809	05	06	Jackson'sOxfordJournal	0004	1809	05	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1809	05	06	Jackson'sOxfordJournal	0004	1809	05	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1809	05	08	CaledonianMercury	0003	1809	05	04	TheMorningChronicle	0003
+1809	05	08	CaledonianMercury	0004	1809	05	03	TheAberdeenJournal	0002

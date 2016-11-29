@@ -1,5 +1,6 @@
-1818.10.03_CaledonianMercury_0002,1818.10.01_TheMorningChronicle_0002
-1818.10.03_TheLeedsMercury_0001,1818.10.02_TheMorningChronicle_0001
-1818.10.03_TheLeedsMercury_0002,1818.10.01_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1818.10.03_TheLeedsMercury_0003,1818.10.01_TheMorningChronicle_0002
-1818.10.05_CaledonianMercury_0002,1818.10.03_TheMorningChronicle_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1818	10	03	CaledonianMercury	0002	1818	10	01	TheMorningChronicle	0002
+1818	10	03	TheLeedsMercury	0001	1818	10	02	TheMorningChronicle	0001
+1818	10	03	TheLeedsMercury	0002	1818	10	01	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1818	10	03	TheLeedsMercury	0003	1818	10	01	TheMorningChronicle	0002
+1818	10	05	CaledonianMercury	0002	1818	10	03	TheMorningChronicle	0003

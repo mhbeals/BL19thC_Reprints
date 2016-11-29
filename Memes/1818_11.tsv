@@ -1,26 +1,27 @@
-1818.11.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,1818.11.02_TheMorningChronicle_0002
-1818.11.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,1818.11.03_TheMorningChronicle_0002
-1818.11.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1818.11.02_TheMorningChronicle_0003
-1818.11.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1818.11.02_TheMorningChronicle_0003
-1818.11.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,1818.11.03_TheMorningChronicle_0002
-1818.11.06_LiverpoolMercuryetc_0006,1818.11.02_TheMorningChronicle_0003
-1818.11.07_CaledonianMercury_0002,1818.11.03_TheMorningChronicle_0002
-1818.11.07_CaledonianMercury_0002,1818.11.04_TheMorningChronicle_0002
-1818.11.07_CaledonianMercury_0002,1818.11.04_TheMorningChronicle_0003
-1818.11.07_CaledonianMercury_0002,1818.11.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1818.11.07_CaledonianMercury_0004,1818.11.02_TheMorningChronicle_0003
-1818.11.07_Jackson'sOxfordJournal_0002,1818.11.07_CaledonianMercury_0002
-1818.11.07_Jackson'sOxfordJournal_0004,1818.11.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1818.11.07_TheIpswichJournal_0004,1818.11.04_TheMorningChronicle_0003
-1818.11.07_TheIpswichJournal_0004,1818.11.07_CaledonianMercury_0002
-1818.11.07_TheIpswichJournal_0004,1818.11.07_Jackson'sOxfordJournal_0002
-1818.11.07_TheLeedsMercury_0002,1818.11.07_CaledonianMercury_0002
-1818.11.07_TheLeedsMercury_0002,1818.11.07_Jackson'sOxfordJournal_0002
-1818.11.07_TheLeedsMercury_0002,1818.11.07_TheIpswichJournal_0004
-1818.11.07_TheLeedsMercury_0004,1818.11.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1818.11.08_TheExaminer_0003,1818.11.07_CaledonianMercury_0002
-1818.11.08_TheExaminer_0003,1818.11.07_Jackson'sOxfordJournal_0002
-1818.11.08_TheExaminer_0003,1818.11.07_TheIpswichJournal_0004
-1818.11.08_TheExaminer_0003,1818.11.07_TheLeedsMercury_0002
-1818.11.08_TheExaminer_0005,1818.11.07_CaledonianMercury_0002
-1818.11.09_CaledonianMercury_0004,1818.11.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1818	11	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001	1818	11	02	TheMorningChronicle	0002
+1818	11	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001	1818	11	03	TheMorningChronicle	0002
+1818	11	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1818	11	02	TheMorningChronicle	0003
+1818	11	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1818	11	02	TheMorningChronicle	0003
+1818	11	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004	1818	11	03	TheMorningChronicle	0002
+1818	11	06	LiverpoolMercuryetc	0006	1818	11	02	TheMorningChronicle	0003
+1818	11	07	CaledonianMercury	0002	1818	11	03	TheMorningChronicle	0002
+1818	11	07	CaledonianMercury	0002	1818	11	04	TheMorningChronicle	0002
+1818	11	07	CaledonianMercury	0002	1818	11	04	TheMorningChronicle	0003
+1818	11	07	CaledonianMercury	0002	1818	11	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1818	11	07	CaledonianMercury	0004	1818	11	02	TheMorningChronicle	0003
+1818	11	07	Jackson'sOxfordJournal	0002	1818	11	07	CaledonianMercury	0002
+1818	11	07	Jackson'sOxfordJournal	0004	1818	11	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1818	11	07	TheIpswichJournal	0004	1818	11	04	TheMorningChronicle	0003
+1818	11	07	TheIpswichJournal	0004	1818	11	07	CaledonianMercury	0002
+1818	11	07	TheIpswichJournal	0004	1818	11	07	Jackson'sOxfordJournal	0002
+1818	11	07	TheLeedsMercury	0002	1818	11	07	CaledonianMercury	0002
+1818	11	07	TheLeedsMercury	0002	1818	11	07	Jackson'sOxfordJournal	0002
+1818	11	07	TheLeedsMercury	0002	1818	11	07	TheIpswichJournal	0004
+1818	11	07	TheLeedsMercury	0004	1818	11	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1818	11	08	TheExaminer	0003	1818	11	07	CaledonianMercury	0002
+1818	11	08	TheExaminer	0003	1818	11	07	Jackson'sOxfordJournal	0002
+1818	11	08	TheExaminer	0003	1818	11	07	TheIpswichJournal	0004
+1818	11	08	TheExaminer	0003	1818	11	07	TheLeedsMercury	0002
+1818	11	08	TheExaminer	0005	1818	11	07	CaledonianMercury	0002
+1818	11	09	CaledonianMercury	0004	1818	11	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002

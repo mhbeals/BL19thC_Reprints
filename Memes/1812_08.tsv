@@ -1,4 +1,5 @@
-1812.08.01_TheLeedsMercury_0002,1812.08.01_CaledonianMercury_0002
-1812.08.02_TheExaminer_0012,1812.08.01_CaledonianMercury_0002
-1812.08.03_CaledonianMercury_0002,1812.08.02_TheExaminer_0005
-1812.08.03_CaledonianMercury_0002,1812.08.02_TheExaminer_0007
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1812	08	01	TheLeedsMercury	0002	1812	08	01	CaledonianMercury	0002
+1812	08	02	TheExaminer	0012	1812	08	01	CaledonianMercury	0002
+1812	08	03	CaledonianMercury	0002	1812	08	02	TheExaminer	0005
+1812	08	03	CaledonianMercury	0002	1812	08	02	TheExaminer	0007

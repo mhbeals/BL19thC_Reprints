@@ -1,32 +1,33 @@
-1811.03.04_CaledonianMercury_0002,1811.03.02_TheLeedsMercury_0003
-1811.03.07_CaledonianMercury_0004,1811.03.01_TheMorningChronicle_0003
-1811.03.09_CaledonianMercury_0004,1811.03.06_TheAberdeenJournal_0004
-1811.03.09_Cobbett'sWeeklyPoliticalRegister_0009,1811.03.05_TheMorningChronicle_0001
-1811.03.09_Cobbett'sWeeklyPoliticalRegister_0010,1811.03.05_TheMorningChronicle_0001
-1811.03.09_Cobbett'sWeeklyPoliticalRegister_0011,1811.03.05_TheMorningChronicle_0001
-1811.03.09_Cobbett'sWeeklyPoliticalRegister_0012,1811.03.05_TheMorningChronicle_0002
-1811.03.09_Cobbett'sWeeklyPoliticalRegister_0013,1811.03.05_TheMorningChronicle_0002
-1811.03.09_Cobbett'sWeeklyPoliticalRegister_0014,1811.03.05_TheMorningChronicle_0002
-1811.03.09_Cobbett'sWeeklyPoliticalRegister_0015,1811.03.05_TheMorningChronicle_0002
-1811.03.09_TheIpswichJournal_0004,1811.03.02_TheMorningChronicle_0001
-1811.03.09_TheLeedsMercury_0004,1811.03.04_CaledonianMercury_0002
-1811.03.11_CaledonianMercury_0002,1811.03.09_TheLeedsMercury_0002
-1811.03.13_Cobbett'sWeeklyPoliticalRegister_0009,1811.03.05_TheMorningChronicle_0002
-1811.03.13_Cobbett'sWeeklyPoliticalRegister_0014,1811.03.04_CaledonianMercury_0002
-1811.03.13_Cobbett'sWeeklyPoliticalRegister_0015,1811.03.04_CaledonianMercury_0002
-1811.03.13_TheAberdeenJournal_0002,1811.03.04_CaledonianMercury_0001
-1811.03.13_TheAberdeenJournal_0003,1811.03.07_CaledonianMercury_0002
-1811.03.14_CaledonianMercury_0002,1811.03.12_TheMorningChronicle_0004
-1811.03.14_CaledonianMercury_0004,1811.03.11_TheMorningChronicle_0002
-1811.03.16_CaledonianMercury_0002,1811.03.14_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1811.03.16_CaledonianMercury_0004,1811.03.09_Jackson'sOxfordJournal_0002
-1811.03.16_Cobbett'sWeeklyPoliticalRegister_0011,1811.03.09_TheLeedsMercury_0002
-1811.03.16_Cobbett'sWeeklyPoliticalRegister_0012,1811.03.09_TheLeedsMercury_0002
-1811.03.16_Cobbett'sWeeklyPoliticalRegister_0013,1811.03.09_TheLeedsMercury_0002
-1811.03.16_Cobbett'sWeeklyPoliticalRegister_0014,1811.03.11_CaledonianMercury_0002
-1811.03.16_Cobbett'sWeeklyPoliticalRegister_0015,1811.03.11_CaledonianMercury_0002
-1811.03.16_Jackson'sOxfordJournal_0002,1811.03.13_TheMorningChronicle_0002
-1811.03.16_Jackson'sOxfordJournal_0004,1811.03.14_CaledonianMercury_0004
-1811.03.16_TheIpswichJournal_0004,1811.03.11_HampshireTelegraphandSussexChronicleetc_0001
-1811.03.16_TheLeedsMercury_0002,1811.03.14_CaledonianMercury_0004
-1811.03.18_CaledonianMercury_0004,1811.03.16_Jackson'sOxfordJournal_0001
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1811	03	04	CaledonianMercury	0002	1811	03	02	TheLeedsMercury	0003
+1811	03	07	CaledonianMercury	0004	1811	03	01	TheMorningChronicle	0003
+1811	03	09	CaledonianMercury	0004	1811	03	06	TheAberdeenJournal	0004
+1811	03	09	Cobbett'sWeeklyPoliticalRegister	0009	1811	03	05	TheMorningChronicle	0001
+1811	03	09	Cobbett'sWeeklyPoliticalRegister	0010	1811	03	05	TheMorningChronicle	0001
+1811	03	09	Cobbett'sWeeklyPoliticalRegister	0011	1811	03	05	TheMorningChronicle	0001
+1811	03	09	Cobbett'sWeeklyPoliticalRegister	0012	1811	03	05	TheMorningChronicle	0002
+1811	03	09	Cobbett'sWeeklyPoliticalRegister	0013	1811	03	05	TheMorningChronicle	0002
+1811	03	09	Cobbett'sWeeklyPoliticalRegister	0014	1811	03	05	TheMorningChronicle	0002
+1811	03	09	Cobbett'sWeeklyPoliticalRegister	0015	1811	03	05	TheMorningChronicle	0002
+1811	03	09	TheIpswichJournal	0004	1811	03	02	TheMorningChronicle	0001
+1811	03	09	TheLeedsMercury	0004	1811	03	04	CaledonianMercury	0002
+1811	03	11	CaledonianMercury	0002	1811	03	09	TheLeedsMercury	0002
+1811	03	13	Cobbett'sWeeklyPoliticalRegister	0009	1811	03	05	TheMorningChronicle	0002
+1811	03	13	Cobbett'sWeeklyPoliticalRegister	0014	1811	03	04	CaledonianMercury	0002
+1811	03	13	Cobbett'sWeeklyPoliticalRegister	0015	1811	03	04	CaledonianMercury	0002
+1811	03	13	TheAberdeenJournal	0002	1811	03	04	CaledonianMercury	0001
+1811	03	13	TheAberdeenJournal	0003	1811	03	07	CaledonianMercury	0002
+1811	03	14	CaledonianMercury	0002	1811	03	12	TheMorningChronicle	0004
+1811	03	14	CaledonianMercury	0004	1811	03	11	TheMorningChronicle	0002
+1811	03	16	CaledonianMercury	0002	1811	03	14	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1811	03	16	CaledonianMercury	0004	1811	03	09	Jackson'sOxfordJournal	0002
+1811	03	16	Cobbett'sWeeklyPoliticalRegister	0011	1811	03	09	TheLeedsMercury	0002
+1811	03	16	Cobbett'sWeeklyPoliticalRegister	0012	1811	03	09	TheLeedsMercury	0002
+1811	03	16	Cobbett'sWeeklyPoliticalRegister	0013	1811	03	09	TheLeedsMercury	0002
+1811	03	16	Cobbett'sWeeklyPoliticalRegister	0014	1811	03	11	CaledonianMercury	0002
+1811	03	16	Cobbett'sWeeklyPoliticalRegister	0015	1811	03	11	CaledonianMercury	0002
+1811	03	16	Jackson'sOxfordJournal	0002	1811	03	13	TheMorningChronicle	0002
+1811	03	16	Jackson'sOxfordJournal	0004	1811	03	14	CaledonianMercury	0004
+1811	03	16	TheIpswichJournal	0004	1811	03	11	HampshireTelegraphandSussexChronicleetc	0001
+1811	03	16	TheLeedsMercury	0002	1811	03	14	CaledonianMercury	0004
+1811	03	18	CaledonianMercury	0004	1811	03	16	Jackson'sOxfordJournal	0001

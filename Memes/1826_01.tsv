@@ -1,10 +1,11 @@
-1826.01.02_CaledonianMercury_0003,1826.01.01_TheExaminer_0011
-1826.01.02_GlasgowHerald_0002,1826.01.02_CaledonianMercury_0002
-1826.01.02_GlasgowHerald_0002,1826.01.02_CaledonianMercury_0003
-1826.01.02_GlasgowHerald_0004,1826.01.02_CaledonianMercury_0002
-1826.01.02_TheBristolMercury_0001,1826.01.02_CaledonianMercury_0002
-1826.01.02_TheBristolMercury_0001,1826.01.02_HampshireTelegraphandSussexChronicleetc_0002
-1826.01.02_TheBristolMercury_0002,1826.01.02_GlasgowHerald_0002
-1826.01.02_TheBristolMercury_0004,1826.01.01_TheExaminer_0012
-1826.01.02_TheMorningChronicle_0001,1826.01.01_TheExaminer_0016
-1826.01.02_TheMorningChronicle_0003,1826.01.02_TheBristolMercury_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1826	01	02	CaledonianMercury	0003	1826	01	01	TheExaminer	0011
+1826	01	02	GlasgowHerald	0002	1826	01	02	CaledonianMercury	0002
+1826	01	02	GlasgowHerald	0002	1826	01	02	CaledonianMercury	0003
+1826	01	02	GlasgowHerald	0004	1826	01	02	CaledonianMercury	0002
+1826	01	02	TheBristolMercury	0001	1826	01	02	CaledonianMercury	0002
+1826	01	02	TheBristolMercury	0001	1826	01	02	HampshireTelegraphandSussexChronicleetc	0002
+1826	01	02	TheBristolMercury	0002	1826	01	02	GlasgowHerald	0002
+1826	01	02	TheBristolMercury	0004	1826	01	01	TheExaminer	0012
+1826	01	02	TheMorningChronicle	0001	1826	01	01	TheExaminer	0016
+1826	01	02	TheMorningChronicle	0003	1826	01	02	TheBristolMercury	0002

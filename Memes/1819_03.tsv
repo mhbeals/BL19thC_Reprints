@@ -1,22 +1,23 @@
-1819.03.01_TheMorningChronicle_0002,1819.03.01_TheBristolMercury_0001
-1819.03.03_TheMorningChronicle_0004,1819.03.01_TheBristolMercury_0002
-1819.03.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,1819.03.01_TheMorningChronicle_0004
-1819.03.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1819.03.01_TheBristolMercury_0001
-1819.03.04_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1819.03.01_TheMorningChronicle_0003
-1819.03.06_TheIpswichJournal_0002,1819.03.06_Jackson'sOxfordJournal_0002
-1819.03.06_TheIpswichJournal_0004,1819.03.01_TheMorningChronicle_0003
-1819.03.06_TheIpswichJournal_0004,1819.03.06_CaledonianMercury_0002
-1819.03.06_TheNewcastleCourantetc_0002,1819.03.01_TheBristolMercury_0002
-1819.03.06_TheNewcastleCourantetc_0002,1819.03.04_TheDerbyMercury_0004
-1819.03.08_CaledonianMercury_0002,1819.03.06_Jackson'sOxfordJournal_0002
-1819.03.08_CaledonianMercury_0004,1819.03.01_TheMorningChronicle_0004
-1819.03.08_TheBristolMercury_0001,1819.03.02_TheMorningChronicle_0002
-1819.03.08_TheBristolMercury_0001,1819.03.02_TheMorningChronicle_0003
-1819.03.08_TheBristolMercury_0001,1819.03.05_TheMorningChronicle_0001
-1819.03.08_TheBristolMercury_0002,1819.03.05_TheMorningChronicle_0003
-1819.03.08_TheBristolMercury_0002,1819.03.06_TheMorningChronicle_0002
-1819.03.08_TheBristolMercury_0002,1819.03.06_TheMorningChronicle_0003
-1819.03.08_TheBristolMercury_0003,1819.03.06_Jackson'sOxfordJournal_0002
-1819.03.08_TheBristolMercury_0004,1819.03.03_TheMorningChronicle_0002
-1819.03.08_TheBristolMercury_0004,1819.03.03_TheMorningChronicle_0003
-1819.03.08_TheMorningChronicle_0002,1819.03.04_CaledonianMercury_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1819	03	01	TheMorningChronicle	0002	1819	03	01	TheBristolMercury	0001
+1819	03	03	TheMorningChronicle	0004	1819	03	01	TheBristolMercury	0002
+1819	03	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001	1819	03	01	TheMorningChronicle	0004
+1819	03	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1819	03	01	TheBristolMercury	0001
+1819	03	04	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1819	03	01	TheMorningChronicle	0003
+1819	03	06	TheIpswichJournal	0002	1819	03	06	Jackson'sOxfordJournal	0002
+1819	03	06	TheIpswichJournal	0004	1819	03	01	TheMorningChronicle	0003
+1819	03	06	TheIpswichJournal	0004	1819	03	06	CaledonianMercury	0002
+1819	03	06	TheNewcastleCourantetc	0002	1819	03	01	TheBristolMercury	0002
+1819	03	06	TheNewcastleCourantetc	0002	1819	03	04	TheDerbyMercury	0004
+1819	03	08	CaledonianMercury	0002	1819	03	06	Jackson'sOxfordJournal	0002
+1819	03	08	CaledonianMercury	0004	1819	03	01	TheMorningChronicle	0004
+1819	03	08	TheBristolMercury	0001	1819	03	02	TheMorningChronicle	0002
+1819	03	08	TheBristolMercury	0001	1819	03	02	TheMorningChronicle	0003
+1819	03	08	TheBristolMercury	0001	1819	03	05	TheMorningChronicle	0001
+1819	03	08	TheBristolMercury	0002	1819	03	05	TheMorningChronicle	0003
+1819	03	08	TheBristolMercury	0002	1819	03	06	TheMorningChronicle	0002
+1819	03	08	TheBristolMercury	0002	1819	03	06	TheMorningChronicle	0003
+1819	03	08	TheBristolMercury	0003	1819	03	06	Jackson'sOxfordJournal	0002
+1819	03	08	TheBristolMercury	0004	1819	03	03	TheMorningChronicle	0002
+1819	03	08	TheBristolMercury	0004	1819	03	03	TheMorningChronicle	0003
+1819	03	08	TheMorningChronicle	0002	1819	03	04	CaledonianMercury	0003

@@ -1,20 +1,21 @@
-1813.01.02_TheIpswichJournal_0004,1813.01.01_LiverpoolMercuryetc_0003
-1813.01.02_TheIpswichJournal_0004,1813.01.02_CaledonianMercury_0002
-1813.01.03_TheExaminer_0005,1813.01.02_CaledonianMercury_0002
-1813.01.03_TheExaminer_0005,1813.01.02_TheMorningChronicle_0003
-1813.01.04_HampshireTelegraphandSussexChronicleetc_0002,1813.01.02_CaledonianMercury_0002
-1813.01.06_TheAberdeenJournal_0002,1813.01.02_CaledonianMercury_0002
-1813.01.07_CaledonianMercury_0002,1813.01.04_TheMorningChronicle_0002
-1813.01.07_TheDerbyMercury_0004,1813.01.01_LiverpoolMercuryetc_0005
-1813.01.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1813.01.02_CaledonianMercury_0002
-1813.01.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1813.01.06_TheAberdeenJournal_0002
-1813.01.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1813.01.01_LiverpoolMercuryetc_0004
-1813.01.08_LiverpoolMercuryetc_0003,1813.01.02_CaledonianMercury_0002
-1813.01.09_CaledonianMercury_0002,1813.01.06_TheMorningChronicle_0002
-1813.01.09_TheIpswichJournal_0001,1813.01.07_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1813.01.09_TheIpswichJournal_0004,1813.01.01_TheMorningChronicle_0003
-1813.01.09_TheIpswichJournal_0004,1813.01.07_CaledonianMercury_0004
-1813.01.09_TheMorningChronicle_0002,1813.01.07_CaledonianMercury_0002
-1813.01.11_CaledonianMercury_0002,1813.01.09_TheMorningChronicle_0002
-1813.01.11_CaledonianMercury_0003,1813.01.01_TheMorningChronicle_0003
-1813.01.11_CaledonianMercury_0003,1813.01.09_TheIpswichJournal_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1813	01	02	TheIpswichJournal	0004	1813	01	01	LiverpoolMercuryetc	0003
+1813	01	02	TheIpswichJournal	0004	1813	01	02	CaledonianMercury	0002
+1813	01	03	TheExaminer	0005	1813	01	02	CaledonianMercury	0002
+1813	01	03	TheExaminer	0005	1813	01	02	TheMorningChronicle	0003
+1813	01	04	HampshireTelegraphandSussexChronicleetc	0002	1813	01	02	CaledonianMercury	0002
+1813	01	06	TheAberdeenJournal	0002	1813	01	02	CaledonianMercury	0002
+1813	01	07	CaledonianMercury	0002	1813	01	04	TheMorningChronicle	0002
+1813	01	07	TheDerbyMercury	0004	1813	01	01	LiverpoolMercuryetc	0005
+1813	01	07	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1813	01	02	CaledonianMercury	0002
+1813	01	07	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1813	01	06	TheAberdeenJournal	0002
+1813	01	07	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1813	01	01	LiverpoolMercuryetc	0004
+1813	01	08	LiverpoolMercuryetc	0003	1813	01	02	CaledonianMercury	0002
+1813	01	09	CaledonianMercury	0002	1813	01	06	TheMorningChronicle	0002
+1813	01	09	TheIpswichJournal	0001	1813	01	07	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1813	01	09	TheIpswichJournal	0004	1813	01	01	TheMorningChronicle	0003
+1813	01	09	TheIpswichJournal	0004	1813	01	07	CaledonianMercury	0004
+1813	01	09	TheMorningChronicle	0002	1813	01	07	CaledonianMercury	0002
+1813	01	11	CaledonianMercury	0002	1813	01	09	TheMorningChronicle	0002
+1813	01	11	CaledonianMercury	0003	1813	01	01	TheMorningChronicle	0003
+1813	01	11	CaledonianMercury	0003	1813	01	09	TheIpswichJournal	0004

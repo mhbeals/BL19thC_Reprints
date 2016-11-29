@@ -1,5 +1,6 @@
-1808.06.04_CaledonianMercury_0002,1808.06.01_TheMorningChronicle_0001
-1808.06.04_Jackson'sOxfordJournal_0002,1808.06.02_TheMorningChronicle_0003
-1808.06.04_Jackson'sOxfordJournal_0004,1808.06.02_CaledonianMercury_0002
-1808.06.06_CaledonianMercury_0002,1808.06.02_TheMorningChronicle_0002
-1808.06.06_HampshireTelegraphandSussexChronicleetc_0004,1808.06.04_CaledonianMercury_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1808	06	04	CaledonianMercury	0002	1808	06	01	TheMorningChronicle	0001
+1808	06	04	Jackson'sOxfordJournal	0002	1808	06	02	TheMorningChronicle	0003
+1808	06	04	Jackson'sOxfordJournal	0004	1808	06	02	CaledonianMercury	0002
+1808	06	06	CaledonianMercury	0002	1808	06	02	TheMorningChronicle	0002
+1808	06	06	HampshireTelegraphandSussexChronicleetc	0004	1808	06	04	CaledonianMercury	0002

@@ -1,11 +1,12 @@
-1812.02.08_CaledonianMercury_0003,1812.02.06_TheMorningChronicle_0002
-1812.02.09_TheExaminer_0003,1812.02.04_TheMorningChronicle_0003
-1812.02.09_TheExaminer_0007,1812.02.08_CaledonianMercury_0003
-1812.02.12_TheAberdeenJournal_0003,1812.02.08_CaledonianMercury_0003
-1812.02.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1812.02.08_TheMorningChronicle_0003
-1812.02.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1812.02.08_CaledonianMercury_0003
-1812.02.15_CaledonianMercury_0004,1812.02.11_TheMorningChronicle_0003
-1812.02.15_TheIpswichJournal_0004,1812.02.10_TheMorningChronicle_0003
-1812.02.15_TheLeedsMercury_0004,1812.02.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1812.02.16_TheExaminer_0016,1812.02.15_TheMorningChronicle_0003
-1812.02.17_CaledonianMercury_0004,1812.02.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1812	02	08	CaledonianMercury	0003	1812	02	06	TheMorningChronicle	0002
+1812	02	09	TheExaminer	0003	1812	02	04	TheMorningChronicle	0003
+1812	02	09	TheExaminer	0007	1812	02	08	CaledonianMercury	0003
+1812	02	12	TheAberdeenJournal	0003	1812	02	08	CaledonianMercury	0003
+1812	02	13	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1812	02	08	TheMorningChronicle	0003
+1812	02	13	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1812	02	08	CaledonianMercury	0003
+1812	02	15	CaledonianMercury	0004	1812	02	11	TheMorningChronicle	0003
+1812	02	15	TheIpswichJournal	0004	1812	02	10	TheMorningChronicle	0003
+1812	02	15	TheLeedsMercury	0004	1812	02	13	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1812	02	16	TheExaminer	0016	1812	02	15	TheMorningChronicle	0003
+1812	02	17	CaledonianMercury	0004	1812	02	13	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002

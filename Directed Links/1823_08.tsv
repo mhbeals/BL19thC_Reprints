@@ -1,8 +1,9 @@
-1823.08.03_TheExaminer_0006,1823.08.01_LiverpoolMercuryetc_0002
-1823.08.03_TheExaminer_0014,1823.08.02_TheMorningChronicle_0003
-1823.08.04_CaledonianMercury_0002,1823.08.01_TheMorningChronicle_0002
-1823.08.04_HampshireTelegraphandSussexChronicleetc_0003,1823.08.02_TheIpswichJournal_0001
-1823.08.04_TheBristolMercury_0001,1823.08.03_TheExaminer_0006
-1823.08.04_TheBristolMercury_0002,1823.08.01_TheMorningChronicle_0003
-1823.08.04_TheBristolMercury_0003,1823.08.01_LiverpoolMercuryetc_0007
-1823.08.04_TheBristolMercury_0004,1823.08.01_TheMorningChronicle_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1823	08	03	TheExaminer	0006	1823	08	01	LiverpoolMercuryetc	0002
+1823	08	03	TheExaminer	0014	1823	08	02	TheMorningChronicle	0003
+1823	08	04	CaledonianMercury	0002	1823	08	01	TheMorningChronicle	0002
+1823	08	04	HampshireTelegraphandSussexChronicleetc	0003	1823	08	02	TheIpswichJournal	0001
+1823	08	04	TheBristolMercury	0001	1823	08	03	TheExaminer	0006
+1823	08	04	TheBristolMercury	0002	1823	08	01	TheMorningChronicle	0003
+1823	08	04	TheBristolMercury	0003	1823	08	01	LiverpoolMercuryetc	0007
+1823	08	04	TheBristolMercury	0004	1823	08	01	TheMorningChronicle	0003

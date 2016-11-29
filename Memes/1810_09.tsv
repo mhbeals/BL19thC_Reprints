@@ -1,8 +1,9 @@
-1810.09.05_TheAberdeenJournal_0002,1810.09.01_Jackson'sOxfordJournal_0001
-1810.09.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,1810.09.05_TheMorningChronicle_0002
-1810.09.08_Cobbett'sWeeklyPoliticalRegister_0015,1810.09.03_TheMorningChronicle_0002
-1810.09.08_Jackson'sOxfordJournal_0001,1810.09.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1810.09.08_Jackson'sOxfordJournal_0002,1810.09.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1810.09.08_Jackson'sOxfordJournal_0004,1810.09.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1810.09.10_HampshireTelegraphandSussexChronicleetc_0004,1810.09.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004
-1810.09.10_HampshireTelegraphandSussexChronicleetc_0004,1810.09.08_Jackson'sOxfordJournal_0001
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1810	09	05	TheAberdeenJournal	0002	1810	09	01	Jackson'sOxfordJournal	0001
+1810	09	06	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004	1810	09	05	TheMorningChronicle	0002
+1810	09	08	Cobbett'sWeeklyPoliticalRegister	0015	1810	09	03	TheMorningChronicle	0002
+1810	09	08	Jackson'sOxfordJournal	0001	1810	09	06	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1810	09	08	Jackson'sOxfordJournal	0002	1810	09	06	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1810	09	08	Jackson'sOxfordJournal	0004	1810	09	06	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1810	09	10	HampshireTelegraphandSussexChronicleetc	0004	1810	09	06	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004
+1810	09	10	HampshireTelegraphandSussexChronicleetc	0004	1810	09	08	Jackson'sOxfordJournal	0001

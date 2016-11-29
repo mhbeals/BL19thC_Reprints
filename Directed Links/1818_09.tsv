@@ -1,10 +1,11 @@
-1818.09.03_CaledonianMercury_0002,1818.09.01_TheMorningChronicle_0002
-1818.09.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,1818.09.01_TheMorningChronicle_0002
-1818.09.05_CaledonianMercury_0002,1818.09.03_TheMorningChronicle_0002
-1818.09.05_CaledonianMercury_0004,1818.09.01_TheMorningChronicle_0003
-1818.09.05_Jackson'sOxfordJournal_0001,1818.09.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1818.09.05_Jackson'sOxfordJournal_0002,1818.09.02_TheMorningChronicle_0003
-1818.09.05_Jackson'sOxfordJournal_0004,1818.09.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1818.09.06_TheExaminer_0008,1818.09.05_TheMorningChronicle_0002
-1818.09.07_CaledonianMercury_0002,1818.09.05_TheMorningChronicle_0002
-1818.09.07_HampshireTelegraphandSussexChronicleetc_0002,1818.09.01_TheMorningChronicle_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1818	09	03	CaledonianMercury	0002	1818	09	01	TheMorningChronicle	0002
+1818	09	03	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004	1818	09	01	TheMorningChronicle	0002
+1818	09	05	CaledonianMercury	0002	1818	09	03	TheMorningChronicle	0002
+1818	09	05	CaledonianMercury	0004	1818	09	01	TheMorningChronicle	0003
+1818	09	05	Jackson'sOxfordJournal	0001	1818	09	03	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1818	09	05	Jackson'sOxfordJournal	0002	1818	09	02	TheMorningChronicle	0003
+1818	09	05	Jackson'sOxfordJournal	0004	1818	09	03	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1818	09	06	TheExaminer	0008	1818	09	05	TheMorningChronicle	0002
+1818	09	07	CaledonianMercury	0002	1818	09	05	TheMorningChronicle	0002
+1818	09	07	HampshireTelegraphandSussexChronicleetc	0002	1818	09	01	TheMorningChronicle	0004

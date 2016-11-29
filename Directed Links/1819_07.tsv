@@ -1,4 +1,5 @@
-1819.07.05_TheBristolMercury_0001,1819.07.02_TheMorningChronicle_0002
-1819.07.05_TheBristolMercury_0002,1819.07.02_TheMorningChronicle_0004
-1819.07.05_TheBristolMercury_0004,1819.07.03_CaledonianMercury_0002
-1819.07.05_TheMorningChronicle_0003,1819.07.04_TheExaminer_0012
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1819	07	05	TheBristolMercury	0001	1819	07	02	TheMorningChronicle	0002
+1819	07	05	TheBristolMercury	0002	1819	07	02	TheMorningChronicle	0004
+1819	07	05	TheBristolMercury	0004	1819	07	03	CaledonianMercury	0002
+1819	07	05	TheMorningChronicle	0003	1819	07	04	TheExaminer	0012

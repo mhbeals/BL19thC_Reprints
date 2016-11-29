@@ -1,26 +1,27 @@
-1816.05.03_LiverpoolMercuryetc_0002,1816.05.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002
-1816.05.03_LiverpoolMercuryetc_0003,1816.05.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1816.05.03_LiverpoolMercuryetc_0005,1816.05.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1816.05.04_Jackson'sOxfordJournal_0002,1816.05.03_LiverpoolMercuryetc_0005
-1816.05.04_Jackson'sOxfordJournal_0003,1816.05.03_TheMorningChronicle_0003
-1816.05.04_TheLeedsMercury_0004,1816.05.03_LiverpoolMercuryetc_0003
-1816.05.06_CaledonianMercury_0002,1816.05.03_TheMorningChronicle_0003
-1816.05.09_CaledonianMercury_0004,1816.05.05_TheExaminer_0007
-1816.05.09_TheMorningChronicle_0001,1816.05.02_CaledonianMercury_0003
-1816.05.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1816.05.04_TheIpswichJournal_0004
-1816.05.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1816.05.03_TheMorningChronicle_0003
-1816.05.10_LiverpoolMercuryetc_0002,1816.05.03_TheMorningChronicle_0003
-1816.05.10_LiverpoolMercuryetc_0008,1816.05.06_TheMorningChronicle_0002
-1816.05.11_Jackson'sOxfordJournal_0004,1816.05.09_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1816.05.16_CaledonianMercury_0002,1816.05.13_TheMorningChronicle_0002
-1816.05.16_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1816.05.11_CaledonianMercury_0002
-1816.05.16_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003,1816.05.13_CaledonianMercury_0003
-1816.05.17_LiverpoolMercuryetc_0003,1816.05.15_TheMorningChronicle_0002
-1816.05.18_CaledonianMercury_0002,1816.05.15_TheMorningChronicle_0003
-1816.05.18_Cobbett'sWeeklyPoliticalRegister_0008,1816.05.16_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1816.05.18_TheLeedsMercury_0002,1816.05.17_LiverpoolMercuryetc_0003
-1816.05.19_TheExaminer_0003,1816.05.15_TheMorningChronicle_0002
-1816.05.19_TheExaminer_0011,1816.05.11_TheMorningChronicle_0003
-1816.05.19_TheExaminer_0014,1816.05.18_CaledonianMercury_0002
-1816.05.20_CaledonianMercury_0002,1816.05.19_TheExaminer_0006
-1816.05.20_CaledonianMercury_0004,1816.05.11_TheIpswichJournal_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1816	05	03	LiverpoolMercuryetc	0002	1816	05	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002
+1816	05	03	LiverpoolMercuryetc	0003	1816	05	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1816	05	03	LiverpoolMercuryetc	0005	1816	05	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1816	05	04	Jackson'sOxfordJournal	0002	1816	05	03	LiverpoolMercuryetc	0005
+1816	05	04	Jackson'sOxfordJournal	0003	1816	05	03	TheMorningChronicle	0003
+1816	05	04	TheLeedsMercury	0004	1816	05	03	LiverpoolMercuryetc	0003
+1816	05	06	CaledonianMercury	0002	1816	05	03	TheMorningChronicle	0003
+1816	05	09	CaledonianMercury	0004	1816	05	05	TheExaminer	0007
+1816	05	09	TheMorningChronicle	0001	1816	05	02	CaledonianMercury	0003
+1816	05	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1816	05	04	TheIpswichJournal	0004
+1816	05	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1816	05	03	TheMorningChronicle	0003
+1816	05	10	LiverpoolMercuryetc	0002	1816	05	03	TheMorningChronicle	0003
+1816	05	10	LiverpoolMercuryetc	0008	1816	05	06	TheMorningChronicle	0002
+1816	05	11	Jackson'sOxfordJournal	0004	1816	05	09	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1816	05	16	CaledonianMercury	0002	1816	05	13	TheMorningChronicle	0002
+1816	05	16	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1816	05	11	CaledonianMercury	0002
+1816	05	16	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003	1816	05	13	CaledonianMercury	0003
+1816	05	17	LiverpoolMercuryetc	0003	1816	05	15	TheMorningChronicle	0002
+1816	05	18	CaledonianMercury	0002	1816	05	15	TheMorningChronicle	0003
+1816	05	18	Cobbett'sWeeklyPoliticalRegister	0008	1816	05	16	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1816	05	18	TheLeedsMercury	0002	1816	05	17	LiverpoolMercuryetc	0003
+1816	05	19	TheExaminer	0003	1816	05	15	TheMorningChronicle	0002
+1816	05	19	TheExaminer	0011	1816	05	11	TheMorningChronicle	0003
+1816	05	19	TheExaminer	0014	1816	05	18	CaledonianMercury	0002
+1816	05	20	CaledonianMercury	0002	1816	05	19	TheExaminer	0006
+1816	05	20	CaledonianMercury	0004	1816	05	11	TheIpswichJournal	0004

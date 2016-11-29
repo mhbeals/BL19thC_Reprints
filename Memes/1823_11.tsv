@@ -1,10 +1,11 @@
-1823.11.01_TheIpswichJournal_0004,1823.11.01_CaledonianMercury_0002
-1823.11.01_TheLeedsMercury_0004,1823.11.01_TheIpswichJournal_0004
-1823.11.03_CaledonianMercury_0002,1823.11.01_TheIpswichJournal_0004
-1823.11.03_HampshireTelegraphandSussexChronicleetc_0002,1823.11.01_TheIpswichJournal_0004
-1823.11.03_HampshireTelegraphandSussexChronicleetc_0002,1823.11.01_TheLeedsMercury_0004
-1823.11.03_HampshireTelegraphandSussexChronicleetc_0002,1823.11.03_CaledonianMercury_0004
-1823.11.03_TheBristolMercury_0001,1823.11.01_TheIpswichJournal_0002
-1823.11.03_TheBristolMercury_0002,1823.11.02_TheExaminer_0007
-1823.11.03_TheBristolMercury_0004,1823.11.01_TheLeedsMercury_0004
-1823.11.03_TheBristolMercury_0004,1823.11.03_HampshireTelegraphandSussexChronicleetc_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1823	11	01	TheIpswichJournal	0004	1823	11	01	CaledonianMercury	0002
+1823	11	01	TheLeedsMercury	0004	1823	11	01	TheIpswichJournal	0004
+1823	11	03	CaledonianMercury	0002	1823	11	01	TheIpswichJournal	0004
+1823	11	03	HampshireTelegraphandSussexChronicleetc	0002	1823	11	01	TheIpswichJournal	0004
+1823	11	03	HampshireTelegraphandSussexChronicleetc	0002	1823	11	01	TheLeedsMercury	0004
+1823	11	03	HampshireTelegraphandSussexChronicleetc	0002	1823	11	03	CaledonianMercury	0004
+1823	11	03	TheBristolMercury	0001	1823	11	01	TheIpswichJournal	0002
+1823	11	03	TheBristolMercury	0002	1823	11	02	TheExaminer	0007
+1823	11	03	TheBristolMercury	0004	1823	11	01	TheLeedsMercury	0004
+1823	11	03	TheBristolMercury	0004	1823	11	03	HampshireTelegraphandSussexChronicleetc	0002

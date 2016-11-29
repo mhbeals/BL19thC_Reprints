@@ -1,3 +1,4 @@
-1818.06.01_HampshireTelegraphandSussexChronicleetc_0003,1818.06.01_CaledonianMercury_0002
-1818.06.04_CaledonianMercury_0002,1818.06.01_TheMorningChronicle_0002
-1818.06.06_TheIpswichJournal_0004,1818.06.03_TheMorningChronicle_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1818	06	01	HampshireTelegraphandSussexChronicleetc	0003	1818	06	01	CaledonianMercury	0002
+1818	06	04	CaledonianMercury	0002	1818	06	01	TheMorningChronicle	0002
+1818	06	06	TheIpswichJournal	0004	1818	06	03	TheMorningChronicle	0002

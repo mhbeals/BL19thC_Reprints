@@ -1,9 +1,10 @@
-1811.08.01_TheDerbyMercury_0002,1811.08.01_CaledonianMercury_0002
-1811.08.03_CaledonianMercury_0003,1811.08.02_LiverpoolMercuryetc_0005
-1811.08.03_Cobbett'sWeeklyPoliticalRegister_0013,1811.08.03_CaledonianMercury_0002
-1811.08.03_Cobbett'sWeeklyPoliticalRegister_0014,1811.08.03_CaledonianMercury_0002
-1811.08.03_Cobbett'sWeeklyPoliticalRegister_0015,1811.08.03_CaledonianMercury_0002
-1811.08.03_Cobbett'sWeeklyPoliticalRegister_0016,1811.08.03_CaledonianMercury_0002
-1811.08.03_Jackson'sOxfordJournal_0002,1811.08.03_CaledonianMercury_0004
-1811.08.03_TheIpswichJournal_0001,1811.08.01_CaledonianMercury_0002
-1811.08.05_TheMorningChronicle_0002,1811.08.05_CaledonianMercury_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1811	08	01	TheDerbyMercury	0002	1811	08	01	CaledonianMercury	0002
+1811	08	03	CaledonianMercury	0003	1811	08	02	LiverpoolMercuryetc	0005
+1811	08	03	Cobbett'sWeeklyPoliticalRegister	0013	1811	08	03	CaledonianMercury	0002
+1811	08	03	Cobbett'sWeeklyPoliticalRegister	0014	1811	08	03	CaledonianMercury	0002
+1811	08	03	Cobbett'sWeeklyPoliticalRegister	0015	1811	08	03	CaledonianMercury	0002
+1811	08	03	Cobbett'sWeeklyPoliticalRegister	0016	1811	08	03	CaledonianMercury	0002
+1811	08	03	Jackson'sOxfordJournal	0002	1811	08	03	CaledonianMercury	0004
+1811	08	03	TheIpswichJournal	0001	1811	08	01	CaledonianMercury	0002
+1811	08	05	TheMorningChronicle	0002	1811	08	05	CaledonianMercury	0003

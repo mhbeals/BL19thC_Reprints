@@ -1,3 +1,4 @@
-1815.03.05_TheExaminer_0013,1815.03.04_TheMorningChronicle_0003
-1815.03.05_TheExaminer_0015,1815.03.02_TheMorningChronicle_0003
-1815.03.06_CaledonianMercury_0003,1815.03.05_TheExaminer_0015
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1815	03	05	TheExaminer	0013	1815	03	04	TheMorningChronicle	0003
+1815	03	05	TheExaminer	0015	1815	03	02	TheMorningChronicle	0003
+1815	03	06	CaledonianMercury	0003	1815	03	05	TheExaminer	0015

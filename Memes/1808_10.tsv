@@ -1,5 +1,6 @@
-1808.10.01_Jackson'sOxfordJournal_0002,1808.10.01_CaledonianMercury_0002
-1808.10.02_TheExaminer_0003,1808.10.01_TheMorningChronicle_0002
-1808.10.03_CaledonianMercury_0002,1808.10.01_TheMorningChronicle_0002
-1808.10.03_CaledonianMercury_0002,1808.10.02_TheExaminer_0005
-1808.10.03_CaledonianMercury_0003,1808.10.01_TheMorningChronicle_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1808	10	01	Jackson'sOxfordJournal	0002	1808	10	01	CaledonianMercury	0002
+1808	10	02	TheExaminer	0003	1808	10	01	TheMorningChronicle	0002
+1808	10	03	CaledonianMercury	0002	1808	10	01	TheMorningChronicle	0002
+1808	10	03	CaledonianMercury	0002	1808	10	02	TheExaminer	0005
+1808	10	03	CaledonianMercury	0003	1808	10	01	TheMorningChronicle	0002

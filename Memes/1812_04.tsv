@@ -1,9 +1,10 @@
-1812.04.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001,1812.04.01_TheMorningChronicle_0002
-1812.04.03_LiverpoolMercuryetc_0001,1812.04.01_TheMorningChronicle_0002
-1812.04.03_LiverpoolMercuryetc_0001,1812.04.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1812.04.04_TheIpswichJournal_0001,1812.04.02_CaledonianMercury_0002
-1812.04.04_TheLeedsMercury_0001,1812.04.01_TheMorningChronicle_0002
-1812.04.04_TheLeedsMercury_0001,1812.04.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1812.04.04_TheLeedsMercury_0001,1812.04.03_LiverpoolMercuryetc_0001
-1812.04.05_TheExaminer_0012,1812.04.04_TheMorningChronicle_0003
-1812.04.06_CaledonianMercury_0003,1812.04.04_TheMorningChronicle_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1812	04	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001	1812	04	01	TheMorningChronicle	0002
+1812	04	03	LiverpoolMercuryetc	0001	1812	04	01	TheMorningChronicle	0002
+1812	04	03	LiverpoolMercuryetc	0001	1812	04	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1812	04	04	TheIpswichJournal	0001	1812	04	02	CaledonianMercury	0002
+1812	04	04	TheLeedsMercury	0001	1812	04	01	TheMorningChronicle	0002
+1812	04	04	TheLeedsMercury	0001	1812	04	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1812	04	04	TheLeedsMercury	0001	1812	04	03	LiverpoolMercuryetc	0001
+1812	04	05	TheExaminer	0012	1812	04	04	TheMorningChronicle	0003
+1812	04	06	CaledonianMercury	0003	1812	04	04	TheMorningChronicle	0002

@@ -1,7 +1,8 @@
-1811.02.02_Jackson'sOxfordJournal_0001,1811.02.02_CaledonianMercury_0002
-1811.02.02_Jackson'sOxfordJournal_0001,1811.02.02_Cobbett'sWeeklyPoliticalRegister_0016
-1811.02.02_TheIpswichJournal_0002,1811.02.01_TheMorningChronicle_0004
-1811.02.04_CaledonianMercury_0001,1811.02.02_Jackson'sOxfordJournal_0004
-1811.02.04_CaledonianMercury_0002,1811.02.01_TheMorningChronicle_0002
-1811.02.04_CaledonianMercury_0002,1811.02.02_Cobbett'sWeeklyPoliticalRegister_0007
-1811.02.04_CaledonianMercury_0002,1811.02.02_TheMorningChronicle_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1811	02	02	Jackson'sOxfordJournal	0001	1811	02	02	CaledonianMercury	0002
+1811	02	02	Jackson'sOxfordJournal	0001	1811	02	02	Cobbett'sWeeklyPoliticalRegister	0016
+1811	02	02	TheIpswichJournal	0002	1811	02	01	TheMorningChronicle	0004
+1811	02	04	CaledonianMercury	0001	1811	02	02	Jackson'sOxfordJournal	0004
+1811	02	04	CaledonianMercury	0002	1811	02	01	TheMorningChronicle	0002
+1811	02	04	CaledonianMercury	0002	1811	02	02	Cobbett'sWeeklyPoliticalRegister	0007
+1811	02	04	CaledonianMercury	0002	1811	02	02	TheMorningChronicle	0002

@@ -1,3 +1,4 @@
-1819.01.04_CaledonianMercury_0002,1819.01.02_TheMorningChronicle_0002
-1819.01.04_CaledonianMercury_0003,1819.01.02_TheMorningChronicle_0004
-1819.01.04_TheMorningChronicle_0003,1819.01.03_TheExaminer_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1819	01	04	CaledonianMercury	0002	1819	01	02	TheMorningChronicle	0002
+1819	01	04	CaledonianMercury	0003	1819	01	02	TheMorningChronicle	0004
+1819	01	04	TheMorningChronicle	0003	1819	01	03	TheExaminer	0004

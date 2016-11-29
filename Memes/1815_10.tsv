@@ -1,3 +1,4 @@
-1815.10.02_CaledonianMercury_0002,1815.10.01_TheExaminer_0008
-1815.10.06_LiverpoolMercuryetc_0003,1815.10.01_TheExaminer_0005
-1815.10.06_LiverpoolMercuryetc_0003,1815.10.05_CaledonianMercury_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1815	10	02	CaledonianMercury	0002	1815	10	01	TheExaminer	0008
+1815	10	06	LiverpoolMercuryetc	0003	1815	10	01	TheExaminer	0005
+1815	10	06	LiverpoolMercuryetc	0003	1815	10	05	CaledonianMercury	0002

@@ -1,22 +1,23 @@
-1826.09.02_CaledonianMercury_0004,1826.09.01_GlasgowHerald_0002
-1826.09.02_TheIpswichJournal_0004,1826.09.01_GlasgowHerald_0004
-1826.09.02_TheLeedsMercury_0002,1826.09.02_CaledonianMercury_0002
-1826.09.03_TheExaminer_0002,1826.09.02_TheLeedsMercury_0004
-1826.09.03_TheExaminer_0003,1826.09.01_TheMorningChronicle_0001
-1826.09.03_TheExaminer_0006,1826.09.02_TheMorningChronicle_0001
-1826.09.03_TheExaminer_0006,1826.09.02_TheMorningChronicle_0002
-1826.09.03_TheExaminer_0010,1826.09.02_TheLeedsMercury_0004
-1826.09.03_TheExaminer_0013,1826.09.02_TheMorningChronicle_0003
-1826.09.04_CaledonianMercury_0002,1826.09.02_TheLeedsMercury_0004
-1826.09.04_CaledonianMercury_0002,1826.09.03_TheExaminer_0013
-1826.09.04_CaledonianMercury_0003,1826.09.01_GlasgowHerald_0002
-1826.09.04_CaledonianMercury_0003,1826.09.02_TheMorningChronicle_0001
-1826.09.04_CaledonianMercury_0003,1826.09.03_TheExaminer_0006
-1826.09.04_GlasgowHerald_0001,1826.09.02_CaledonianMercury_0003
-1826.09.04_GlasgowHerald_0002,1826.09.02_TheMorningChronicle_0001
-1826.09.04_GlasgowHerald_0002,1826.09.02_TheMorningChronicle_0002
-1826.09.04_GlasgowHerald_0002,1826.09.03_TheExaminer_0006
-1826.09.04_GlasgowHerald_0002,1826.09.04_CaledonianMercury_0003
-1826.09.04_GlasgowHerald_0004,1826.09.02_CaledonianMercury_0004
-1826.09.04_HampshireTelegraphandSussexChronicleetc_0002,1826.09.04_CaledonianMercury_0004
-1826.09.04_TheBristolMercury_0004,1826.09.03_TheExaminer_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1826	09	02	CaledonianMercury	0004	1826	09	01	GlasgowHerald	0002
+1826	09	02	TheIpswichJournal	0004	1826	09	01	GlasgowHerald	0004
+1826	09	02	TheLeedsMercury	0002	1826	09	02	CaledonianMercury	0002
+1826	09	03	TheExaminer	0002	1826	09	02	TheLeedsMercury	0004
+1826	09	03	TheExaminer	0003	1826	09	01	TheMorningChronicle	0001
+1826	09	03	TheExaminer	0006	1826	09	02	TheMorningChronicle	0001
+1826	09	03	TheExaminer	0006	1826	09	02	TheMorningChronicle	0002
+1826	09	03	TheExaminer	0010	1826	09	02	TheLeedsMercury	0004
+1826	09	03	TheExaminer	0013	1826	09	02	TheMorningChronicle	0003
+1826	09	04	CaledonianMercury	0002	1826	09	02	TheLeedsMercury	0004
+1826	09	04	CaledonianMercury	0002	1826	09	03	TheExaminer	0013
+1826	09	04	CaledonianMercury	0003	1826	09	01	GlasgowHerald	0002
+1826	09	04	CaledonianMercury	0003	1826	09	02	TheMorningChronicle	0001
+1826	09	04	CaledonianMercury	0003	1826	09	03	TheExaminer	0006
+1826	09	04	GlasgowHerald	0001	1826	09	02	CaledonianMercury	0003
+1826	09	04	GlasgowHerald	0002	1826	09	02	TheMorningChronicle	0001
+1826	09	04	GlasgowHerald	0002	1826	09	02	TheMorningChronicle	0002
+1826	09	04	GlasgowHerald	0002	1826	09	03	TheExaminer	0006
+1826	09	04	GlasgowHerald	0002	1826	09	04	CaledonianMercury	0003
+1826	09	04	GlasgowHerald	0004	1826	09	02	CaledonianMercury	0004
+1826	09	04	HampshireTelegraphandSussexChronicleetc	0002	1826	09	04	CaledonianMercury	0004
+1826	09	04	TheBristolMercury	0004	1826	09	03	TheExaminer	0002

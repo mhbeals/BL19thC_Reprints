@@ -1,6 +1,7 @@
-1809.10.04_TheAberdeenJournal_0001,1809.10.02_CaledonianMercury_0004
-1809.10.04_TheAberdeenJournal_0002,1809.10.02_CaledonianMercury_0004
-1809.10.05_CaledonianMercury_0002,1809.10.02_TheMorningChronicle_0002
-1809.10.05_CaledonianMercury_0003,1809.10.03_TheMorningChronicle_0002
-1809.10.05_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0002,1809.10.05_TheDerbyMercury_0001
-1809.10.07_CaledonianMercury_0002,1809.10.04_TheMorningChronicle_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1809	10	04	TheAberdeenJournal	0001	1809	10	02	CaledonianMercury	0004
+1809	10	04	TheAberdeenJournal	0002	1809	10	02	CaledonianMercury	0004
+1809	10	05	CaledonianMercury	0002	1809	10	02	TheMorningChronicle	0002
+1809	10	05	CaledonianMercury	0003	1809	10	03	TheMorningChronicle	0002
+1809	10	05	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0002	1809	10	05	TheDerbyMercury	0001
+1809	10	07	CaledonianMercury	0002	1809	10	04	TheMorningChronicle	0002

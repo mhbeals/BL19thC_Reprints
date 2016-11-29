@@ -1,5 +1,6 @@
-1802.09.02_TheDerbyMercury_0001,1802.09.01_TheAberdeenJournal_0001
-1802.09.02_TheDerbyMercury_0003,1802.09.01_TheAberdeenJournal_0002
-1802.09.04_TheIpswichJournal_0004,1802.09.04_Jackson'sOxfordJournal_0004
-1802.09.06_CaledonianMercury_0001,1802.09.01_TheAberdeenJournal_0001
-1802.09.06_CaledonianMercury_0004,1802.09.01_TheMorningChronicle_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1802	09	02	TheDerbyMercury	0001	1802	09	01	TheAberdeenJournal	0001
+1802	09	02	TheDerbyMercury	0003	1802	09	01	TheAberdeenJournal	0002
+1802	09	04	TheIpswichJournal	0004	1802	09	04	Jackson'sOxfordJournal	0004
+1802	09	06	CaledonianMercury	0001	1802	09	01	TheAberdeenJournal	0001
+1802	09	06	CaledonianMercury	0004	1802	09	01	TheMorningChronicle	0003

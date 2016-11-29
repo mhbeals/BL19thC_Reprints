@@ -1,8 +1,9 @@
-1811.07.03_TheAberdeenJournal_0004,1811.07.01_CaledonianMercury_0003
-1811.07.04_TheDerbyMercury_0004,1811.07.01_CaledonianMercury_0002
-1811.07.06_CaledonianMercury_0002,1811.07.03_TheMorningChronicle_0001
-1811.07.06_CaledonianMercury_0003,1811.07.04_TheMorningChronicle_0002
-1811.07.06_Jackson'sOxfordJournal_0004,1811.07.01_TheMorningChronicle_0003
-1811.07.06_TheIpswichJournal_0001,1811.07.01_TheMorningChronicle_0003
-1811.07.08_CaledonianMercury_0003,1811.07.05_TheMorningChronicle_0003
-1811.07.08_CaledonianMercury_0004,1811.07.01_TheMorningChronicle_0003
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1811	07	03	TheAberdeenJournal	0004	1811	07	01	CaledonianMercury	0003
+1811	07	04	TheDerbyMercury	0004	1811	07	01	CaledonianMercury	0002
+1811	07	06	CaledonianMercury	0002	1811	07	03	TheMorningChronicle	0001
+1811	07	06	CaledonianMercury	0003	1811	07	04	TheMorningChronicle	0002
+1811	07	06	Jackson'sOxfordJournal	0004	1811	07	01	TheMorningChronicle	0003
+1811	07	06	TheIpswichJournal	0001	1811	07	01	TheMorningChronicle	0003
+1811	07	08	CaledonianMercury	0003	1811	07	05	TheMorningChronicle	0003
+1811	07	08	CaledonianMercury	0004	1811	07	01	TheMorningChronicle	0003

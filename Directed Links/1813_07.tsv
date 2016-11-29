@@ -1,3 +1,4 @@
-1813.07.03_TheLeedsMercury_0003,1813.07.01_CaledonianMercury_0004
-1813.07.05_TheMorningChronicle_0001,1813.07.03_TheLeedsMercury_0005
-1813.07.05_TheMorningChronicle_0002,1813.07.03_TheLeedsMercury_0005
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1813	07	03	TheLeedsMercury	0003	1813	07	01	CaledonianMercury	0004
+1813	07	05	TheMorningChronicle	0001	1813	07	03	TheLeedsMercury	0005
+1813	07	05	TheMorningChronicle	0002	1813	07	03	TheLeedsMercury	0005

@@ -1,3 +1,4 @@
-1812.03.04_TheAberdeenJournal_0004,1812.03.02_CaledonianMercury_0003
-1812.03.07_Jackson'sOxfordJournal_0004,1812.03.02_TheMorningChronicle_0003
-1812.03.09_CaledonianMercury_0004,1812.03.04_TheMorningChronicle_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1812	03	04	TheAberdeenJournal	0004	1812	03	02	CaledonianMercury	0003
+1812	03	07	Jackson'sOxfordJournal	0004	1812	03	02	TheMorningChronicle	0003
+1812	03	09	CaledonianMercury	0004	1812	03	04	TheMorningChronicle	0004

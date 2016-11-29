@@ -1,16 +1,17 @@
-1823.10.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0004,1823.10.01_TheMorningChronicle_0003
-1823.10.04_CaledonianMercury_0002,1823.10.01_TheMorningChronicle_0002
-1823.10.04_TheLeedsMercury_0002,1823.10.02_TheMorningChronicle_0002
-1823.10.04_TheLeedsMercury_0004,1823.10.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0003
-1823.10.05_TheExaminer_0003,1823.10.01_TheMorningChronicle_0002
-1823.10.05_TheExaminer_0004,1823.10.01_TheMorningChronicle_0002
-1823.10.05_TheExaminer_0005,1823.10.03_TheMorningChronicle_0002
-1823.10.05_TheExaminer_0006,1823.10.02_TheMorningChronicle_0002
-1823.10.05_TheExaminer_0007,1823.10.04_TheMorningChronicle_0002
-1823.10.05_TheExaminer_0011,1823.10.01_TheMorningChronicle_0002
-1823.10.05_TheExaminer_0015,1823.10.01_TheDerbyMercury_0004
-1823.10.06_CaledonianMercury_0002,1823.10.03_TheMorningChronicle_0002
-1823.10.06_CaledonianMercury_0003,1823.10.03_TheMorningChronicle_0002
-1823.10.06_HampshireTelegraphandSussexChronicleetc_0003,1823.10.03_TheMorningChronicle_0002
-1823.10.06_TheBristolMercury_0001,1823.10.03_TheMorningChronicle_0003
-1823.10.06_TheBristolMercury_0004,1823.10.05_TheExaminer_0011
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE
+1823	10	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0004	1823	10	01	TheMorningChronicle	0003
+1823	10	04	CaledonianMercury	0002	1823	10	01	TheMorningChronicle	0002
+1823	10	04	TheLeedsMercury	0002	1823	10	02	TheMorningChronicle	0002
+1823	10	04	TheLeedsMercury	0004	1823	10	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0003
+1823	10	05	TheExaminer	0003	1823	10	01	TheMorningChronicle	0002
+1823	10	05	TheExaminer	0004	1823	10	01	TheMorningChronicle	0002
+1823	10	05	TheExaminer	0005	1823	10	03	TheMorningChronicle	0002
+1823	10	05	TheExaminer	0006	1823	10	02	TheMorningChronicle	0002
+1823	10	05	TheExaminer	0007	1823	10	04	TheMorningChronicle	0002
+1823	10	05	TheExaminer	0011	1823	10	01	TheMorningChronicle	0002
+1823	10	05	TheExaminer	0015	1823	10	01	TheDerbyMercury	0004
+1823	10	06	CaledonianMercury	0002	1823	10	03	TheMorningChronicle	0002
+1823	10	06	CaledonianMercury	0003	1823	10	03	TheMorningChronicle	0002
+1823	10	06	HampshireTelegraphandSussexChronicleetc	0003	1823	10	03	TheMorningChronicle	0002
+1823	10	06	TheBristolMercury	0001	1823	10	03	TheMorningChronicle	0003
+1823	10	06	TheBristolMercury	0004	1823	10	05	TheExaminer	0011

@@ -1,3 +1,4 @@
-1814.07.02_TheLeedsMercury_0004,1814.07.01_LiverpoolMercuryetc_0003
-1814.07.04_CaledonianMercury_0002,1814.07.02_Jackson'sOxfordJournal_0002
-1814.07.04_CaledonianMercury_0003,1814.07.02_TheMorningChronicle_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1814	07	02	TheLeedsMercury	0004	1814	07	01	LiverpoolMercuryetc	0003
+1814	07	04	CaledonianMercury	0002	1814	07	02	Jackson'sOxfordJournal	0002
+1814	07	04	CaledonianMercury	0003	1814	07	02	TheMorningChronicle	0002

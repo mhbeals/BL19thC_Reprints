@@ -1,8 +1,9 @@
-1827.09.01_TheIpswichJournal_0004,1827.09.01_CaledonianMercury_0004
-1827.09.01_TheNewcastleCourantetc_0002,1827.09.01_CaledonianMercury_0002
-1827.09.01_TheNewcastleCourantetc_0004,1827.09.01_CaledonianMercury_0002
-1827.09.02_TheExaminer_0003,1827.09.01_TheLeedsMercury_0004
-1827.09.03_CaledonianMercury_0001,1827.09.01_TheNewcastleCourantetc_0003
-1827.09.03_CaledonianMercury_0002,1827.09.01_TheIpswichJournal_0002
-1827.09.03_TheBristolMercury_0001,1827.09.03_CaledonianMercury_0002
-1827.09.03_TheMorningChronicle_0002,1827.09.03_HampshireTelegraphandSussexChronicleetc_0004
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1827	09	01	TheIpswichJournal	0004	1827	09	01	CaledonianMercury	0004
+1827	09	01	TheNewcastleCourantetc	0002	1827	09	01	CaledonianMercury	0002
+1827	09	01	TheNewcastleCourantetc	0004	1827	09	01	CaledonianMercury	0002
+1827	09	02	TheExaminer	0003	1827	09	01	TheLeedsMercury	0004
+1827	09	03	CaledonianMercury	0001	1827	09	01	TheNewcastleCourantetc	0003
+1827	09	03	CaledonianMercury	0002	1827	09	01	TheIpswichJournal	0002
+1827	09	03	TheBristolMercury	0001	1827	09	03	CaledonianMercury	0002
+1827	09	03	TheMorningChronicle	0002	1827	09	03	HampshireTelegraphandSussexChronicleetc	0004

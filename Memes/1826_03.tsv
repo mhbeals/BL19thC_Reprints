@@ -1,23 +1,24 @@
-1826.03.03_GlasgowHerald_0002,1826.03.02_CaledonianMercury_0002
-1826.03.03_GlasgowHerald_0004,1826.03.01_TheDerbyMercury_0002
-1826.03.03_GlasgowHerald_0004,1826.03.02_CaledonianMercury_0004
-1826.03.04_TheNewcastleCourantetc_0001,1826.03.04_TheIpswichJournal_0001
-1826.03.05_TheExaminer_0005,1826.03.02_TheMorningChronicle_0003
-1826.03.06_CaledonianMercury_0002,1826.03.02_TheMorningChronicle_0002
-1826.03.06_GlasgowHerald_0002,1826.03.04_CaledonianMercury_0003
-1826.03.06_GlasgowHerald_0004,1826.03.02_CaledonianMercury_0004
-1826.03.06_GlasgowHerald_0004,1826.03.05_TheExaminer_0006
-1826.03.06_HampshireTelegraphandSussexChronicleetc_0001,1826.03.01_TheMorningChronicle_0004
-1826.03.06_HampshireTelegraphandSussexChronicleetc_0001,1826.03.04_TheIpswichJournal_0001
-1826.03.06_HampshireTelegraphandSussexChronicleetc_0001,1826.03.04_TheNewcastleCourantetc_0001
-1826.03.06_HampshireTelegraphandSussexChronicleetc_0002,1826.03.02_TheMorningChronicle_0003
-1826.03.06_HampshireTelegraphandSussexChronicleetc_0002,1826.03.06_CaledonianMercury_0004
-1826.03.06_TheBristolMercury_0001,1826.03.01_TheMorningChronicle_0001
-1826.03.06_TheBristolMercury_0001,1826.03.05_TheExaminer_0005
-1826.03.06_TheBristolMercury_0002,1826.03.02_TheMorningChronicle_0003
-1826.03.06_TheBristolMercury_0002,1826.03.02_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser_0001
-1826.03.06_TheBristolMercury_0002,1826.03.05_TheExaminer_0005
-1826.03.06_TheBristolMercury_0003,1826.03.01_TheMorningChronicle_0004
-1826.03.06_TheBristolMercury_0004,1826.03.01_TheMorningChronicle_0001
-1826.03.06_TheBristolMercury_0004,1826.03.02_TheMorningChronicle_0003
-1826.03.06_TheBristolMercury_0004,1826.03.04_TheLeedsMercury_0002
+RYEAR	RMONTH	RDAY	RTITLE	RPAGE	OYEAR	OMONTH	ODAY	OTITLE	OPAGE
+1826	03	03	GlasgowHerald	0002	1826	03	02	CaledonianMercury	0002
+1826	03	03	GlasgowHerald	0004	1826	03	01	TheDerbyMercury	0002
+1826	03	03	GlasgowHerald	0004	1826	03	02	CaledonianMercury	0004
+1826	03	04	TheNewcastleCourantetc	0001	1826	03	04	TheIpswichJournal	0001
+1826	03	05	TheExaminer	0005	1826	03	02	TheMorningChronicle	0003
+1826	03	06	CaledonianMercury	0002	1826	03	02	TheMorningChronicle	0002
+1826	03	06	GlasgowHerald	0002	1826	03	04	CaledonianMercury	0003
+1826	03	06	GlasgowHerald	0004	1826	03	02	CaledonianMercury	0004
+1826	03	06	GlasgowHerald	0004	1826	03	05	TheExaminer	0006
+1826	03	06	HampshireTelegraphandSussexChronicleetc	0001	1826	03	01	TheMorningChronicle	0004
+1826	03	06	HampshireTelegraphandSussexChronicleetc	0001	1826	03	04	TheIpswichJournal	0001
+1826	03	06	HampshireTelegraphandSussexChronicleetc	0001	1826	03	04	TheNewcastleCourantetc	0001
+1826	03	06	HampshireTelegraphandSussexChronicleetc	0002	1826	03	02	TheMorningChronicle	0003
+1826	03	06	HampshireTelegraphandSussexChronicleetc	0002	1826	03	06	CaledonianMercury	0004
+1826	03	06	TheBristolMercury	0001	1826	03	01	TheMorningChronicle	0001
+1826	03	06	TheBristolMercury	0001	1826	03	05	TheExaminer	0005
+1826	03	06	TheBristolMercury	0002	1826	03	02	TheMorningChronicle	0003
+1826	03	06	TheBristolMercury	0002	1826	03	02	Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0001
+1826	03	06	TheBristolMercury	0002	1826	03	05	TheExaminer	0005
+1826	03	06	TheBristolMercury	0003	1826	03	01	TheMorningChronicle	0004
+1826	03	06	TheBristolMercury	0004	1826	03	01	TheMorningChronicle	0001
+1826	03	06	TheBristolMercury	0004	1826	03	02	TheMorningChronicle	0003
+1826	03	06	TheBristolMercury	0004	1826	03	04	TheLeedsMercury	0002
